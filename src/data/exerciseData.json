@@ -10,8 +10,22 @@
           "instruction": "1-5题: 听句子, 判断对错 (Câu hỏi 1-5: Cho biết các hình sau có mô tả đúng thông tin không)",
           "audio_url": "01-1.mp3",
           "examples": [
-            { "id": "ex1", "image_url": "workbook/hsk1/hsk1_l1_l_p1_ex1.jpg", "correct_answer": "TRUE" },
-            { "id": "ex2", "image_url": "workbook/hsk1/hsk1_l1_l_p1_ex2.jpg", "correct_answer": "FALSE" }
+            { 
+              "id": "ex1", 
+              "image_url": "workbook/hsk1/hsk1_l1_l_p1_ex1.jpg", 
+              "text": "我们 家 有 三 个 人。", 
+              "pinyin": "Wǒmen jiā yǒu sān ge rén.", 
+              "meaning": "Nhà tôi có 3 người.",
+              "correct_answer": "TRUE" 
+            },
+            { 
+              "id": "ex2", 
+              "image_url": "workbook/hsk1/hsk1_l1_l_p1_ex2.jpg", 
+              "text": "我 每天 坐 公共汽车 去 上班。", 
+              "pinyin": "Wǒ měitiān zuò gōnggòngqìchē qù shàngbān.", 
+              "meaning": "Mỗi ngày tôi đi xe buýt đi làm.",
+              "correct_answer": "FALSE" 
+            }
           ],
           "questions": [
             { "id": "1", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q1.jpg", "correct_answer": "TRUE" },
@@ -35,7 +49,13 @@
             { "label": "F", "image_url": "workbook/hsk1/hsk1_l1_gallery_F.jpg" }
           ],
           "examples": [
-            { "id": "ex", "image_url": "workbook/hsk1/hsk1_l1_l_p2_ex.jpg", "correct_answer": "D" }
+            { 
+              "id": "ex", 
+              "image_url": "workbook/hsk1/hsk1_l1_l_p2_ex.jpg", 
+              "text": "你好！ 你好，很高兴认识你。", 
+              "pinyin": "Nǐ hǎo! Nǐ hǎo, hěn gāoxìng rènshi nǐ.",
+              "correct_answer": "D" 
+            }
           ],
           "questions": [
             { "id": "6", "correct_answer": "A" },
@@ -64,7 +84,7 @@
               "id": "12",
               "options": [
                 { "label": "A", "pinyin": "tài yuǎn le", "text": "太远了", "meaning": "xa quá" },
-                { "label": "B", "pinyin": "tài lěng le", "text": "太冷 rồi gì đó", "meaning": "lạnh quá" },
+                { "label": "B", "pinyin": "tài lěng le", "text": "太冷了", "meaning": "lạnh quá" },
                 { "label": "C", "pinyin": "tài rè le", "text": "太热了", "meaning": "nóng quá" }
               ],
               "correct_answer": "B"
@@ -101,12 +121,13 @@
         {
           "type": "READING_P1",
           "title": "Phần 1: Nhìn hình và chọn Đúng/Sai (V/X)",
+          "instruction": "21-25题: 听句子, 判断对错 (Câu hỏi 21-25: Nhìn từ ngữ và tranh để chọn Đúng hoặc Sai)",
           "questions": [
-            { "id": "R1", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q1.jpg", "correct_answer": "TRUE" },
-            { "id": "R2", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q2.jpg", "correct_answer": "FALSE" },
-            { "id": "R3", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q3.jpg", "correct_answer": "TRUE" },
-            { "id": "R4", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q4.jpg", "correct_answer": "FALSE" },
-            { "id": "R5", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q5.jpg", "correct_answer": "TRUE" }
+            { "id": "21", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q1.jpg", "text": "牛肉", "pinyin": "niúròu", "meaning": "thịt bò", "correct_answer": "TRUE" },
+            { "id": "22", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q2.jpg", "text": "牛奶", "pinyin": "niúnǎi", "meaning": "sữa", "correct_answer": "FALSE" },
+            { "id": "23", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q3.jpg", "text": "商店", "pinyin": "shāngdiàn", "meaning": "cửa hàng", "correct_answer": "TRUE" },
+            { "id": "24", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q4.jpg", "text": "学生", "pinyin": "xuéshēng", "meaning": "học sinh", "correct_answer": "FALSE" },
+            { "id": "25", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q5.jpg", "text": "书", "pinyin": "shū", "meaning": "sách", "correct_answer": "TRUE" }
           ]
         }
       ]
