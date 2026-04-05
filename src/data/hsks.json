@@ -1,0 +1,4405 @@
+{
+  "levels": [
+    {
+      "id": "HSK 1",
+      "lessons": [
+        {
+          "lessonId": 1,
+          "lessonTitle": "你好!",
+          "vocabulary": [
+            {
+              "hanzi": "你",
+              "pinyin": "nǐ",
+              "meaning": "Bạn, anh, chị",
+              "analysis": "Chữ Hán này có bộ Nhân đứng (亻) biểu thị con người. Ám chỉ người đối diện đang trực tiếp giao tiếp với mình.",
+              "example": "你好！ (Chào bạn!)"
+            },
+            {
+              "hanzi": "好",
+              "pinyin": "hǎo",
+              "meaning": "Tốt, khỏe, đẹp",
+              "analysis": "Gồm bộ Nữ (女) và chữ Tử (子). Hình ảnh người mẹ (nữ) ôm đứa con (tử) là biểu tượng của sự trọn vẹn, tốt đẹp.",
+              "example": "你好！ (Chào bạn!)"
+            },
+            {
+              "hanzi": "您",
+              "pinyin": "nín",
+              "meaning": "Ngài, ông, bà (tôn trọng)",
+              "analysis": "Gồm chữ 你 (bạn) ở trên và bộ Tâm (心) mang nghĩa trái tim ở dưới. Đặt người khác lên trên trái tim mình thể hiện sự kính trọng.",
+              "example": "很高兴认识您！ (Rất vui được làm quen với ngài!)"
+            },
+            {
+              "hanzi": "你们",
+              "pinyin": "nǐmen",
+              "meaning": "Các bạn",
+              "analysis": "Chữ 们 (men) là hậu tố chỉ số nhiều, có chứa bộ Nhân đứng (亻) chỉ người.",
+              "example": "你们是怎么来饭店的？ (Các bạn đến khách sạn bằng cách nào?)"
+            },
+            {
+              "hanzi": "对不起",
+              "pinyin": "duìbuqǐ",
+              "meaning": "Xin lỗi",
+              "analysis": "Chữ 不 (bù) ở giữa vốn là biểu tượng của một loại công cụ, sau biến đổi mang nghĩa phủ định \"không\".",
+              "example": "对不起，这个字我会读，不会写。 (Xin lỗi, chữ này tôi biết đọc, không biết viết.)"
+            },
+            {
+              "hanzi": "没关系",
+              "pinyin": "méiguānxi",
+              "meaning": "Không có gì",
+              "analysis": "Chữ 没 (méi - không có) chứa bộ Thủy (氵) liên quan đến nước. Ý nói xua tan sự áy náy trôi đi như dòng nước.",
+              "example": "A: 对不起！ B: 没关系。 (A: Xin lỗi! B: Không có gì.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Biến điệu thanh 3",
+              "formula": "nǐ + hǎo -> ní hǎo",
+              "explanation": "Khi hai âm tiết mang thanh 3 đọc liền nhau, thanh điệu của âm tiết thứ nhất được chuyển thành thanh 2.",
+              "example": "你好 (ní hǎo)"
+            },
+            {
+              "title": "Chào hỏi bằng 您 và 你们",
+              "formula": "您/你们 + 好",
+              "explanation": "Dùng 您 để thể hiện sự kính trọng, 你们 khi chào nhiều người.",
+              "example": "您好！/ 你们好！"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "你好！ (Nǐ hǎo!)",
+              "speakerB": "你好！ (Nǐ hǎo!)",
+              "translationA": "Chào anh!",
+              "translationB": "Chào anh!"
+            },
+            {
+              "speakerA": "对不起！ (Duìbuqǐ!)",
+              "speakerB": "没关系。 (Méi guānxi.)",
+              "translationA": "Xin lỗi!",
+              "translationB": "Không có gì."
+            }
+          ],
+          "exercises": []
+        },
+        {
+          "lessonId": 2,
+          "lessonTitle": "谢谢你!",
+          "vocabulary": [
+            {
+              "hanzi": "谢谢",
+              "pinyin": "xièxie",
+              "meaning": "Cảm ơn",
+              "analysis": "Chữ 谢 chứa bộ Ngôn (讠) liên quan đến ngôn ngữ, lời nói. Khi cảm ơn phải dùng lời nói để bày tỏ.",
+              "example": "谢谢你，医生。 (Cảm ơn bác sĩ.)"
+            },
+            {
+              "hanzi": "不",
+              "pinyin": "bù",
+              "meaning": "Không",
+              "analysis": "Chữ Hán đơn thể, dùng làm phó từ để biểu thị sự phủ định.",
+              "example": "我不是老师。 (Tôi không phải là giáo viên.)"
+            },
+            {
+              "hanzi": "不客气",
+              "pinyin": "bú kèqi",
+              "meaning": "Đừng khách sáo",
+              "analysis": "Chữ 客 (khách) chứa bộ Miên (宀) biểu thị mái nhà. Khuyên người khác cứ tự nhiên, thoải mái như ở nhà mình.",
+              "example": "A: 谢谢你！ B: 不客气。 (A: Cảm ơn bạn! B: Đừng khách sáo.)"
+            },
+            {
+              "hanzi": "再见",
+              "pinyin": "zàijiàn",
+              "meaning": "Tạm biệt",
+              "analysis": "Chữ 见 (kiến) có phần trên là con mắt (目) và dưới là người (人). Ý nghĩa là hẹn gặp lại để \"nhìn\" thấy nhau.",
+              "example": "老师，再见！ (Tạm biệt thầy cô!)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Sự biến đổi thanh điệu của \"不\"",
+              "formula": "bù + thanh 4 -> bú + thanh 4",
+              "explanation": "Bình thường mang thanh 4, nhưng khi đứng trước âm tiết cũng mang thanh 4 thì \"不\" chuyển sang đọc thành thanh 2.",
+              "example": "不是 (bú shì), 不客气 (bú kèqi)"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "谢谢你！ (Xièxie nǐ!)",
+              "speakerB": "不客气。 (Bú kèqi.)",
+              "translationA": "Cảm ơn anh!",
+              "translationB": "Đừng khách sáo."
+            },
+            {
+              "speakerA": "再见！ (Zàijiàn!)",
+              "speakerB": "再见！ (Zàijiàn!)",
+              "translationA": "Tạm biệt!",
+              "translationB": "Tạm biệt!"
+            }
+          ],
+          "exercises": []
+        },
+        {
+          "lessonId": 3,
+          "lessonTitle": "你叫什么名字？",
+          "vocabulary": [
+            {
+              "hanzi": "叫",
+              "pinyin": "jiào",
+              "meaning": "Gọi, tên là",
+              "analysis": "Chứa bộ Khẩu (口). Gọi tên ai đó bắt buộc phải mở miệng.",
+              "example": "你叫什么名字？ (Bạn tên là gì?)"
+            },
+            {
+              "hanzi": "什么",
+              "pinyin": "shénme",
+              "meaning": "Cái gì",
+              "analysis": "Chữ 什 chứa bộ Nhân đứng (亻) chỉ con người. Đây là đại từ dùng để hỏi.",
+              "example": "你看什么？ (Bạn nhìn cái gì vậy?)"
+            },
+            {
+              "hanzi": "名字",
+              "pinyin": "míngzi",
+              "meaning": "Tên",
+              "analysis": "Chữ 名 chứa bộ Khẩu (口). Nghĩa gốc là vào ban đêm trời tối, muốn nhận ra nhau phải dùng miệng (口) để gọi tên.",
+              "example": "前面那个人叫什么名字？ (Người phía trước tên là gì?)"
+            },
+            {
+              "hanzi": "我",
+              "pinyin": "wǒ",
+              "meaning": "Tôi",
+              "analysis": "Chữ đơn thể, hình dạng giống một loại vũ khí có nhiều răng sắc bén xưa kia. Nay làm đại từ nhân xưng.",
+              "example": "我是美国人。 (Tôi là người Mỹ.)"
+            },
+            {
+              "hanzi": "是",
+              "pinyin": "shì",
+              "meaning": "Là",
+              "analysis": "Phía trên là bộ Nhật (日) biểu thị mặt trời, thể hiện chân lý, sự thật rõ ràng.",
+              "example": "她是我的汉语老师。 (Cô ấy là giáo viên tiếng Trung của tôi.)"
+            },
+            {
+              "hanzi": "老师",
+              "pinyin": "lǎoshī",
+              "meaning": "Giáo viên",
+              "analysis": "Chữ 老 (Lão) mang nghĩa là người già, người có kinh nghiệm, dùng để tôn xưng bậc người thầy.",
+              "example": "他是我们的汉语老师。 (Thầy ấy là giáo viên tiếng Trung của chúng tôi.)"
+            },
+            {
+              "hanzi": "吗",
+              "pinyin": "ma",
+              "meaning": "Không? (Trợ từ nghi vấn)",
+              "analysis": "Chứa bộ Khẩu (口). Trợ từ đặt ở cuối câu để dùng miệng hỏi.",
+              "example": "你是中国人吗？ (Bạn có phải là người Trung Quốc không?)"
+            },
+            {
+              "hanzi": "学生",
+              "pinyin": "xuésheng",
+              "meaning": "Học sinh",
+              "analysis": "Chữ 学 (học) có chứa chữ Tử (子) mang nghĩa đứa trẻ (đi học).",
+              "example": "我是学生。 (Tôi là học sinh.)"
+            },
+            {
+              "hanzi": "人",
+              "pinyin": "rén",
+              "meaning": "Người",
+              "analysis": "Chữ đơn thể tượng hình, vẽ lại hình dáng một người đang đứng giang hai chân.",
+              "example": "你是哪国人？ (Bạn là người nước nào?)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Đại từ nghi vấn \"什么\"",
+              "formula": "(S) + V + 什么 + (N)?",
+              "explanation": "Được dùng để hỏi thông tin, sự vật.",
+              "example": "你叫什么名字？"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "你叫什么名字？ (Nǐ jiào shénme míngzi?)",
+              "speakerB": "我叫李月。 (Wǒ jiào Lǐ Yuè.)",
+              "translationA": "Cô tên gì?",
+              "translationB": "Tôi tên là Lý Nguyệt."
+            },
+            {
+              "speakerA": "你是老师吗？ (Nǐ shì lǎoshī ma?)",
+              "speakerB": "我不是老师，我是学生。 (Wǒ bú shì lǎoshī, wǒ shì xuésheng.)",
+              "translationA": "Cô là cô giáo phải không?",
+              "translationB": "Không phải, tôi là học sinh."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 什么 (shénme) | B. 是 (shì) | C. 不 (bù) | D. 名字 (míngzi) | E. 吗 (ma) | F. 老师 (lǎoshī) | G. 学生 (xuésheng) | H. 中国 (Zhōngguó) | I. 美国 (Měiguó)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "我 ( ___ ) 是中国人，我是美国人。",
+                  "answer": "C",
+                  "pinyin": "Wǒ ___ shì Zhōngguó rén, wǒ shì Měiguó rén."
+                },
+                {
+                  "id": "24",
+                  "text": "您是老师 ( ___ ) ？",
+                  "answer": "E",
+                  "pinyin": "Nín shì lǎoshī ___ ?"
+                },
+                {
+                  "id": "25",
+                  "text": "他叫 ( ___ ) ？",
+                  "answer": "A",
+                  "pinyin": "Tā jiào ___ ?"
+                },
+                {
+                  "id": "26",
+                  "text": "李月 ( ___ ) 中国人，她是老师。",
+                  "answer": "B",
+                  "pinyin": "Lǐ Yuè ___ Zhōngguó rén, tā shì lǎoshī."
+                },
+                {
+                  "id": "27",
+                  "text": "大卫不是老师，他是 ( ___ ) 。",
+                  "answer": "G",
+                  "pinyin": "Dàwèi bú shì lǎoshī, tā shì ___ ."
+                },
+                {
+                  "id": "28",
+                  "text": "( ___ ) ，谢谢您！",
+                  "answer": "F",
+                  "pinyin": "___ , xièxie nín! (Lǎoshī)"
+                },
+                {
+                  "id": "29",
+                  "text": "我不是中国人，我是 ( ___ ) 人。",
+                  "answer": "I",
+                  "pinyin": "Wǒ bú shì Zhōngguó rén, wǒ shì ___ rén."
+                },
+                {
+                  "id": "30",
+                  "text": "你们好，你们是 ( ___ ) 吗？",
+                  "answer": "G",
+                  "pinyin": "Nǐmen hǎo, nǐmen shì ___ ma?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 4,
+          "lessonTitle": "她是我的汉语老师。",
+          "vocabulary": [
+            {
+              "hanzi": "她",
+              "pinyin": "tā",
+              "meaning": "Cô ấy",
+              "analysis": "Chứa bộ Nữ (女). Chữ Nữ có hình người phụ nữ đang quỳ, dùng làm đại từ chỉ giới tính nữ.",
+              "example": "她是我的汉语老师。 (Cô ấy là giáo viên tiếng Trung của tôi.)"
+            },
+            {
+              "hanzi": "谁",
+              "pinyin": "shéi",
+              "meaning": "Ai",
+              "analysis": "Chứa bộ Ngôn (讠). Muốn biết một người là ai thì phải dùng lời nói để hỏi thăm.",
+              "example": "她是谁？ (Cô ấy là ai?)"
+            },
+            {
+              "hanzi": "的",
+              "pinyin": "de",
+              "meaning": "Của (Trợ từ sở hữu)",
+              "analysis": "Chứa bộ Bạch (白). Là trợ từ kết cấu nối giữa định ngữ và trung tâm ngữ để chỉ sự sở hữu.",
+              "example": "这是王老师的东西。 (Đây là đồ của cô Vương.)"
+            },
+            {
+              "hanzi": "汉语",
+              "pinyin": "Hànyǔ",
+              "meaning": "Tiếng Trung Quốc",
+              "analysis": "Chữ 汉 chứa bộ Thủy (氵), chữ 语 chứa bộ Ngôn (讠) liên quan đến lời nói.",
+              "example": "你会说汉语吗？ (Bạn biết nói tiếng Trung không?)"
+            },
+            {
+              "hanzi": "哪",
+              "pinyin": "nǎ",
+              "meaning": "Nào",
+              "analysis": "Chứa bộ Khẩu (口), dùng làm đại từ nghi vấn để hỏi.",
+              "example": "你是哪国人？ (Bạn là người nước nào?)"
+            },
+            {
+              "hanzi": "国",
+              "pinyin": "guó",
+              "meaning": "Quốc gia",
+              "analysis": "Chứa bộ Vi (囗) bao quanh bên ngoài biểu thị biên giới.",
+              "example": "你是哪国人？ (Bạn là người nước nào?)"
+            },
+            {
+              "hanzi": "呢",
+              "pinyin": "ne",
+              "meaning": "Thế, nhỉ (Trợ từ)",
+              "analysis": "Chứa bộ Khẩu (口), đặt ở cuối câu để tạo câu hỏi tỉnh lược.",
+              "example": "我是美国人。你呢？ (Tôi là người Mỹ. Còn bạn?)"
+            },
+            {
+              "hanzi": "他",
+              "pinyin": "tā",
+              "meaning": "Anh ấy",
+              "analysis": "Chứa bộ Nhân đứng (亻) biểu thị con người. Đại từ xưng hô ngôi thứ 3 (nam giới).",
+              "example": "他是我同学。 (Cậu ấy là bạn cùng lớp của tôi.)"
+            },
+            {
+              "hanzi": "同学",
+              "pinyin": "tóngxué",
+              "meaning": "Bạn cùng lớp",
+              "analysis": "Chữ 同 (đồng) chứa bộ Khẩu (口). Ý nói cùng nhau học tập.",
+              "example": "他是我同学。 (Cậu ấy là bạn cùng lớp của tôi.)"
+            },
+            {
+              "hanzi": "朋友",
+              "pinyin": "péngyou",
+              "meaning": "Bạn bè",
+              "analysis": "Chữ 朋 gồm hai bộ Nguyệt (月) đứng cạnh nhau song hành, ngang hàng, tượng trưng cho tình bạn gắn bó.",
+              "example": "她是我朋友。 (Cô ấy là bạn của tôi.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Đại từ nghi vấn \"谁\" và \"哪\"",
+              "formula": "谁 / 哪 + N",
+              "explanation": "Dùng để hỏi về người (ai) hoặc vật/sự việc (nào).",
+              "example": "他是谁？/ 你是哪国人？"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "你是哪国人？ (Nǐ shì nǎ guó rén?)",
+              "speakerB": "我是美国人。你呢？ (Wǒ shì Měiguó rén. Nǐ ne?)",
+              "translationA": "Bạn là người nước nào? (Ở thư viện)",
+              "translationB": "Tôi là người Mỹ. Còn bạn?"
+            },
+            {
+              "speakerA": "我是中国人。 (Wǒ shì Zhōngguó rén.)",
+              "speakerB": "",
+              "translationA": "Tôi là người Trung Quốc.",
+              "translationB": ""
+            },
+            {
+              "speakerA": "他是谁？ (Tā shì shéi?)",
+              "speakerB": "他是我同学。 (Tā shì wǒ tóngxué.)",
+              "translationA": "Anh ấy là ai? (Xem ảnh)",
+              "translationB": "Anh ấy là bạn cùng lớp của tôi."
+            },
+            {
+              "speakerA": "她呢？她是你同学吗？ (Tā ne? Tā shì nǐ tóngxué ma?)",
+              "speakerB": "她不是我同学，她是我朋友。 (Tā bú shì wǒ tóngxué, tā shì wǒ péngyou.)",
+              "translationA": "Còn cô ấy? Cô ấy là bạn cùng lớp của bạn à?",
+              "translationB": "Cô ấy không phải bạn cùng lớp, cô ấy là bạn tôi."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 是，他是我的美国朋友。\nB. 她是李月，她是我的中国朋友。\nC. 他是我同学，他叫大卫。\nD. 不是，她是我的汉语老师。\nE. 我是美国人。\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "18",
+                  "text": "你是哪国人？",
+                  "answer": "E"
+                },
+                {
+                  "id": "19",
+                  "text": "他是谁？",
+                  "answer": "C"
+                },
+                {
+                  "id": "20",
+                  "text": "她是你同学吗？",
+                  "answer": "D"
+                },
+                {
+                  "id": "21",
+                  "text": "谁是李月？",
+                  "answer": "B"
+                },
+                {
+                  "id": "22",
+                  "text": "他是你的朋友吗？",
+                  "answer": "A"
+                }
+              ]
+            },
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 哪 (nǎ) | B. 叫 (jiào) | C. 的 (de) | D. 名字 (míngzi) | E. 呢 (ne) | F. 是 (shì) | G. 不 (bù) | H. 吗 (ma) | I. 谁 (shéi)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "你妈妈 ( ___ ) 什么？",
+                  "answer": "B",
+                  "pinyin": "Nǐ māma ___ shénme?"
+                },
+                {
+                  "id": "24",
+                  "text": "您是 ( ___ ) 国人？",
+                  "answer": "A",
+                  "pinyin": "Nín shì ___ guó rén?"
+                },
+                {
+                  "id": "25",
+                  "text": "他不是我同学，他是我的 ( ___ ) 中国朋友。",
+                  "answer": "C",
+                  "pinyin": "Tā bú shì wǒ tóngxué, tā shì wǒ ___ Zhōngguó péngyou."
+                },
+                {
+                  "id": "26",
+                  "text": "我是美国人。你 ( ___ ) ？",
+                  "answer": "E",
+                  "pinyin": "Wǒ shì Měiguó rén. Nǐ ___ ?"
+                },
+                {
+                  "id": "27",
+                  "text": "他是 ( ___ ) ？",
+                  "answer": "I",
+                  "pinyin": "Tā shì ___ ?"
+                },
+                {
+                  "id": "28",
+                  "text": "我 ( ___ ) 是中国人，我是美国人。",
+                  "answer": "G",
+                  "pinyin": "Wǒ ___ shì Zhōngguó rén, wǒ shì Měiguó rén."
+                },
+                {
+                  "id": "29",
+                  "text": "他 là 你的汉语老师 ( ___ ) ？",
+                  "answer": "H",
+                  "pinyin": "Tā shì nǐ de Hànyǔ lǎoshī ___ ?"
+                },
+                {
+                  "id": "30",
+                  "text": "他不是我同学，他 ( ___ ) 我的好朋友。",
+                  "answer": "F",
+                  "pinyin": "Tā bú shì wǒ tóngxué, tā ___ wǒ de hǎo péngyou."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 5,
+          "lessonTitle": "她女儿今年二十岁。",
+          "vocabulary": [
+            {
+              "hanzi": "家",
+              "pinyin": "jiā",
+              "meaning": "Nhà, gia đình",
+              "analysis": "Chứa bộ Miên (宀) chỉ mái nhà.",
+              "example": "你家有几口人？ (Nhà bạn có mấy người?)"
+            },
+            {
+              "hanzi": "有",
+              "pinyin": "yǒu",
+              "meaning": "Có",
+              "analysis": "Chứa bộ Nguyệt (月) ở dưới, biểu thị sự tồn tại, sở hữu.",
+              "example": "我家有三口人。 (Nhà tôi có 3 người.)"
+            },
+            {
+              "hanzi": "口",
+              "pinyin": "kǒu",
+              "meaning": "Miệng, nhân khẩu",
+              "analysis": "Chữ đơn thể, vẽ lại hình dáng một chiếc miệng. Dùng làm lượng từ đếm người trong nhà.",
+              "example": "你家有几口人？ (Nhà bạn có mấy người?)"
+            },
+            {
+              "hanzi": "女儿",
+              "pinyin": "nǚ'ér",
+              "meaning": "Con gái",
+              "analysis": "Ghép bởi chữ 女 (phụ nữ) và chữ 儿 (hình đứa bé sơ sinh).",
+              "example": "这是张老师的女儿。 (Đây là con gái của cô Trương.)"
+            },
+            {
+              "hanzi": "几",
+              "pinyin": "jǐ",
+              "meaning": "Mấy, bao nhiêu",
+              "analysis": "Chữ đơn thể dùng để hỏi số lượng (thường nhỏ hơn 10).",
+              "example": "你家有几口人？ (Nhà bạn có mấy người?)"
+            },
+            {
+              "hanzi": "岁",
+              "pinyin": "suì",
+              "meaning": "Tuổi",
+              "analysis": "Phần trên là bộ Sơn (山) mang hình ảnh núi nhấp nhô, biểu thị năm tháng trôi qua.",
+              "example": "李老师今年50岁了。 (Cô Lý năm nay 50 tuổi rồi.)"
+            },
+            {
+              "hanzi": "了",
+              "pinyin": "le",
+              "meaning": "Rồi (Trợ từ)",
+              "analysis": "Có hình dáng giống thai nhi hoặc đứa trẻ lộn ngược, chỉ một tình huống mới xuất hiện.",
+              "example": "他今年十二岁了。 (Cậu ấy năm nay 12 tuổi rồi.)"
+            },
+            {
+              "hanzi": "今年",
+              "pinyin": "jīnnián",
+              "meaning": "Năm nay",
+              "analysis": "Chữ 年 (Năm) gốc là hình ảnh nông dân cõng ngũ cốc, đánh dấu 1 chu kỳ thu hoạch.",
+              "example": "你今年多大了？ (Bạn năm nay bao nhiêu tuổi rồi?)"
+            },
+            {
+              "hanzi": "多",
+              "pinyin": "duō",
+              "meaning": "Nhiều, bao nhiêu",
+              "analysis": "Gồm hai chữ Tịch (夕) là đêm tối xếp chồng lên nhau. Nghĩa là nhiều đêm lặp lại.",
+              "example": "你今年多大了？ (Bạn năm nay bao nhiêu tuổi rồi?)"
+            },
+            {
+              "hanzi": "大",
+              "pinyin": "dà",
+              "meaning": "To, lớn",
+              "analysis": "Hình ảnh một người đứng giang rộng cả hai tay hai chân để chiếm diện tích lớn nhất.",
+              "example": "你女儿今年多大了？ (Con gái bạn năm nay bao nhiêu tuổi rồi?)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Đại từ nghi vấn \"几\"",
+              "formula": "几 + Lượng từ + N?",
+              "explanation": "Dùng để hỏi về số lượng thường dưới 10.",
+              "example": "你家有几口人？"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 大 (dà) | B. 几 (jǐ) | C. 岁 (suì) | D. 名字 (míngzi) | E. 口 (kǒu) | F. 呢 (ne) | G. 了 (le) | H. 吗 (ma) | I. 哪 (nǎ)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "我的中国朋友家有三 ( ___ ) 人。",
+                  "answer": "E",
+                  "pinyin": "Wǒ de Zhōngguó péngyou jiā yǒu sān ___ rén."
+                },
+                {
+                  "id": "24",
+                  "text": "你们老师今年多 ( ___ ) ？",
+                  "answer": "A",
+                  "pinyin": "Nǐmen lǎoshī jīnnián duō ___ ?"
+                },
+                {
+                  "id": "25",
+                  "text": "我是美国人，我是学生，我 19 ( ___ ) 。",
+                  "answer": "C",
+                  "pinyin": "Wǒ shì Měiguó rén, wǒ shì xuésheng, wǒ 19 ___ ."
+                },
+                {
+                  "id": "26",
+                  "text": "你家有 ( ___ ) 口人？",
+                  "answer": "B",
+                  "pinyin": "Nǐ jiā yǒu ___ kǒu rén?"
+                },
+                {
+                  "id": "27",
+                  "text": "他是 ( ___ ) 国人？",
+                  "answer": "I",
+                  "pinyin": "Tā shì ___ guó rén?"
+                },
+                {
+                  "id": "28",
+                  "text": "我今年 29岁。你 ( ___ ) ？",
+                  "answer": "F",
+                  "pinyin": "Wǒ jīnnián 29 suì. Nǐ ___ ?"
+                },
+                {
+                  "id": "29",
+                  "text": "这是你女儿 ( ___ ) ？",
+                  "answer": "H",
+                  "pinyin": "Zhè shì nǐ nǚ'ér ___ ?"
+                },
+                {
+                  "id": "30",
+                  "text": "他是我的好朋友，他今年 30岁 ( ___ ) 。",
+                  "answer": "G",
+                  "pinyin": "Tā shì wǒ de hǎo péngyou, tā jīnnián 30 suì ___ ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 6,
+          "lessonTitle": "我会说汉语。",
+          "vocabulary": [
+            {
+              "hanzi": "会",
+              "pinyin": "huì",
+              "meaning": "biết (do học hỏi)",
+              "example": "我会说汉语。",
+              "analysis": "Chứa bộ Nhân (人) ở phía trên. Động từ năng nguyện chỉ khả năng học được.",
+              "visualContext": "Một người đang tự tin bơi lội hoặc chơi đàn.",
+              "image": "/vocab/l6_0.jpg"
+            },
+            {
+              "hanzi": "说",
+              "pinyin": "shuō",
+              "meaning": "nói",
+              "example": "你会说英语吗？",
+              "analysis": "Chứa bộ Ngôn (讠) biểu thị hành động phát ra ngôn ngữ, lời nói.",
+              "visualContext": "Một người đang phát biểu với bong bóng thoại (speech bubble).",
+              "image": "/vocab/l6_1.jpg"
+            },
+            {
+              "hanzi": "妈妈",
+              "pinyin": "māma",
+              "meaning": "mẹ",
+              "example": "我妈妈会做中国菜。",
+              "analysis": "Chứa bộ Nữ (女) chỉ người phụ nữ kết hợp chữ Mã (马) mượn âm đọc.",
+              "visualContext": "Hình ảnh người mẹ đang ôm đứa con nhỏ.",
+              "image": "/vocab/l6_2.jpg"
+            },
+            {
+              "hanzi": "菜",
+              "pinyin": "cài",
+              "meaning": "món ăn, rau",
+              "example": "中国菜很好吃。",
+              "analysis": "Chứa bộ Thảo đầu (艹) nằm ở trên cùng, liên quan đến thực vật, cỏ cây.",
+              "visualContext": "Đĩa thức ăn ngon hoặc một bó rau xanh mướt.",
+              "image": "/vocab/l6_3.jpg"
+            },
+            {
+              "hanzi": "很",
+              "pinyin": "hěn",
+              "meaning": "rất",
+              "example": "很好吃。",
+              "analysis": "Chứa bộ Xích (彳). Phó từ dùng để chỉ mức độ cao.",
+              "visualContext": "Biểu tượng ngón tay cái giơ lên (Like) hoặc mũi tên chỉ lên cao.",
+              "image": "/vocab/l6_4.jpg"
+            },
+            {
+              "hanzi": "好吃",
+              "pinyin": "hǎochī",
+              "meaning": "ngon",
+              "example": "这个菜很好吃。",
+              "analysis": "Chữ 吃 (ăn) có bộ Khẩu (口) vì liên quan đến việc dùng miệng thưởng thức.",
+              "visualContext": "Một người đang ăn với vẻ mặt hạnh phúc, liếm mép.",
+              "image": "/vocab/l6_5.jpg"
+            },
+            {
+              "hanzi": "做",
+              "pinyin": "zuò",
+              "meaning": "làm, nấu",
+              "example": "你会做饭吗？",
+              "analysis": "Chứa bộ Nhân đứng (亻), biểu thị hành động do con người thực hiện.",
+              "visualContext": "Đầu bếp đang cầm chảo xào nấu món ăn.",
+              "image": "/vocab/l6_6.jpg"
+            },
+            {
+              "hanzi": "写",
+              "pinyin": "xiě",
+              "meaning": "viết",
+              "example": "你会写汉字吗？",
+              "analysis": "Chứa bộ Mịch (冖) ở trên.",
+              "visualContext": "Bàn tay đang cầm bút viết lên một trang giấy.",
+              "image": "/vocab/l6_7.jpg"
+            },
+            {
+              "hanzi": "汉字",
+              "pinyin": "Hànzì",
+              "meaning": "chữ Hán",
+              "example": "写汉字很难。",
+              "analysis": "Chữ 汉 (Hán) có chứa bộ Thủy (氵) chỉ sự liên quan đến nước.",
+              "visualContext": "Chiếc bút lông và cuộn giấy nếp viết thư pháp.",
+              "image": "/vocab/l6_8.jpg"
+            },
+            {
+              "hanzi": "字",
+              "pinyin": "zì",
+              "meaning": "chữ",
+              "example": "这个字怎么写？",
+              "analysis": "Gồm bộ Miên (宀) và chữ Tử (子).",
+              "visualContext": "Một ký tự Hán tự lớn trên màn hình.",
+              "image": "/vocab/l6_9.jpg"
+            },
+            {
+              "hanzi": "怎么",
+              "pinyin": "zěnme",
+              "meaning": "như thế nào",
+              "example": "怎么写？",
+              "analysis": "Chữ 怎 chứa bộ Tâm (心) ở dưới chỉ suy nghĩ.",
+              "visualContext": "Người gãi đầu suy nghĩ với dấu chấm hỏi trên đầu.",
+              "image": "/vocab/l6_10.jpg"
+            },
+            {
+              "hanzi": "读",
+              "pinyin": "dú",
+              "meaning": "đọc",
+              "example": "你会读吗？",
+              "analysis": "Chứa bộ Ngôn (讠) do hành động đọc sách phát ra tiếng.",
+              "visualContext": "Học sinh đang cầm sách mở rộng và đọc to.",
+              "image": "/vocab/l6_11.jpg"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Động từ \"会\"",
+              "formula": "S + 会 + V",
+              "explanation": "Diễn tả khả năng có được qua học hỏi. Phủ định là 不会.",
+              "example": "我会说汉语。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "中国菜好吃吗？ (Zhōngguó cài hǎo chī ma?)",
+              "speakerB": "中国菜很好吃。 (Zhōngguó cài hěn hǎochī.)",
+              "translationA": "Món Trung Quốc ngon không? (Trong nhà bếp)",
+              "translationB": "Món Trung Quốc rất ngon."
+            },
+            {
+              "speakerA": "你会做中国菜吗？ (Nǐ huì zuò Zhōngguó cài ma?)",
+              "speakerB": "我不会做。 (Wǒ bú huì zuò.)",
+              "translationA": "Bạn biết nấu món Trung Quốc không?",
+              "translationB": "Tôi không biết nấu."
+            },
+            {
+              "speakerA": "你会写汉字吗？ (Nǐ huì xiě Hànzì ma?)",
+              "speakerB": "我会写。 (Wǒ huì xiě.)",
+              "translationA": "Bạn biết viết chữ Hán không? (Ở thư viện)",
+              "translationB": "Tôi biết viết."
+            },
+            {
+              "speakerA": "这个字怎么写？ (Zhège zì zěnme xiě?)",
+              "speakerB": "对不起，这个字我会读，不会写。 (Duìbuqǐ, zhège zì wǒ huì dú, bú huì xiě.)",
+              "translationA": "Chữ này viết thế nào?",
+              "translationB": "Xin lỗi, chữ này tôi biết đọc nhưng không biết viết."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 对不起，这个汉字我会读，不会写。\nB. 会，李老师是中国人。\nC. 中国菜很好吃。\nD. 我会说汉语，不会写汉字。\nE. 她不会做。\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "18",
+                  "text": "你妈妈会做中国菜吗？",
+                  "answer": "E"
+                },
+                {
+                  "id": "19",
+                  "text": "这个汉字怎么写？",
+                  "answer": "A"
+                },
+                {
+                  "id": "20",
+                  "text": "李老师会说汉语吗？",
+                  "answer": "B"
+                },
+                {
+                  "id": "21",
+                  "text": "你会写汉字吗？",
+                  "answer": "D"
+                },
+                {
+                  "id": "22",
+                  "text": "中国菜好吃吗？",
+                  "answer": "C"
+                }
+              ]
+            },
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 很 (hěn) | B. 会 (huì) | C. 怎么 (zěnme) | D. 名字 (míngzi) | E. 不 (bù) | F. 吗 (ma) | G. 呢 (ne) | H. 哪 (nǎ) | I. 的 (de)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "我 ( ___ ) 写我的汉语名字。",
+                  "answer": "B",
+                  "pinyin": "Wǒ ___ xiě wǒ de Hànyǔ míngzi."
+                },
+                {
+                  "id": "24",
+                  "text": "你 ( ___ ) 做中国菜吗？",
+                  "answer": "B",
+                  "pinyin": "Nǐ ___ zuò Zhōngguó cài ma?"
+                },
+                {
+                  "id": "25",
+                  "text": "我朋友会说汉语，他的汉语 ( ___ ) 好。",
+                  "answer": "A",
+                  "pinyin": "Wǒ péngyou huì shuō Hànyǔ, tā de Hànyǔ ___ hǎo."
+                },
+                {
+                  "id": "26",
+                  "text": "老师，这个汉字 ( ___ ) 读？",
+                  "answer": "C",
+                  "pinyin": "Lǎoshī, zhège Hànzì ___ dú?"
+                },
+                {
+                  "id": "27",
+                  "text": "你的中国朋友会做中国菜 ( ___ ) ？",
+                  "answer": "F",
+                  "pinyin": "Nǐ de Zhōngguó péngyou huì zuò Zhōngguó cài ___ ?"
+                },
+                {
+                  "id": "28",
+                  "text": "我会说汉语。你 ( ___ ) ？",
+                  "answer": "G",
+                  "pinyin": "Wǒ huì shuō Hànyǔ. Nǐ ___ ?"
+                },
+                {
+                  "id": "29",
+                  "text": "我妈妈 ( ___ ) 朋友会说汉语。",
+                  "answer": "I",
+                  "pinyin": "Wǒ māma ___ péngyou huì shuō Hànyǔ."
+                },
+                {
+                  "id": "30",
+                  "text": "你同学 là ( ___ ) 国人？",
+                  "answer": "H",
+                  "pinyin": "Nǐ tóngxué shì ___ guó rén?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 7,
+          "lessonTitle": "今天几号？",
+          "vocabulary": [
+            {
+              "hanzi": "请",
+              "pinyin": "qǐng",
+              "meaning": "mời, xin",
+              "example": "请问。",
+              "analysis": "Chứa bộ Ngôn (讠). Dùng lời nói để cầu khiến một cách lịch sự."
+            },
+            {
+              "hanzi": "问",
+              "pinyin": "wèn",
+              "meaning": "hỏi",
+              "example": "请问，今天几号？",
+              "analysis": "Chứa bộ Môn (门) và bộ Khẩu (口). Mở miệng trước cửa để hỏi thăm."
+            },
+            {
+              "hanzi": "今天",
+              "pinyin": "jīntiān",
+              "meaning": "hôm nay",
+              "example": "今天九月一号。",
+              "analysis": "Chữ 天 (Thiên) vốn là hình ảnh người đội đỉnh đầu, mượn để chỉ bầu trời/thời gian."
+            },
+            {
+              "hanzi": "号",
+              "pinyin": "hào",
+              "meaning": "ngày",
+              "example": "几号？",
+              "analysis": "Chứa bộ Khẩu (口). Thường dùng trong khẩu ngữ để nói về ngày tháng."
+            },
+            {
+              "hanzi": "月",
+              "pinyin": "yuè",
+              "meaning": "tháng",
+              "example": "九月。",
+              "analysis": "Chữ độc thể, hình vẽ mô phỏng mặt trăng khuyết."
+            },
+            {
+              "hanzi": "星期",
+              "pinyin": "xīngqī",
+              "meaning": "thứ, tuần",
+              "example": "星期三。",
+              "analysis": "Chữ 星 (tinh) chứa bộ Nhật (日). Mặt trời liên quan đến mốc tính thời gian."
+            },
+            {
+              "hanzi": "昨天",
+              "pinyin": "zuótiān",
+              "meaning": "hôm qua",
+              "example": "昨天是星期二。",
+              "analysis": "Chữ 昨 (tạc) chứa bộ Nhật (日) chỉ thời gian, ngày tháng."
+            },
+            {
+              "hanzi": "明天",
+              "pinyin": "míngtiān",
+              "meaning": "ngày mai",
+              "example": "明天去学校。",
+              "analysis": "Chữ 明 (minh) gồm bộ Nhật (日) và Nguyệt (月) cạnh nhau tạo sự tươi sáng, ngày mới."
+            },
+            {
+              "hanzi": "去",
+              "pinyin": "qù",
+              "meaning": "đi",
+              "example": "去学校看书。",
+              "analysis": "Bộ Khư (厶) ở trên. Biểu thị di chuyển đến một nơi chốn nào đó."
+            },
+            {
+              "hanzi": "学校",
+              "pinyin": "xuéxiào",
+              "meaning": "trường học",
+              "example": "学校很大。",
+              "analysis": "Chữ 校 chứa bộ Mộc (木) vì trường học xưa thường xây bằng gỗ."
+            },
+            {
+              "hanzi": "看",
+              "pinyin": "kàn",
+              "meaning": "nhìn, xem",
+              "example": "看书。",
+              "analysis": "Chứa bộ Mục (目) là hình con mắt."
+            },
+            {
+              "hanzi": "书",
+              "pinyin": "shū",
+              "meaning": "sách",
+              "example": "我看汉语书。",
+              "analysis": "Hình ảnh mô tả nhúng bút lông vào mực để viết, tạo ra sách vở."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Diễn tả ngày tháng",
+              "formula": "Tháng -> Ngày -> Thứ",
+              "explanation": "Nói theo thứ tự đơn vị lớn đến nhỏ.",
+              "example": "九月一号，星期三。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "请问，今天几号？ (Qǐngwèn, jīntiān jǐ hào?)",
+              "speakerB": "今天 9 月 1 号。 (Jīntiān jiǔ yuè yī hào.)",
+              "translationA": "Xin hỏi, hôm nay ngày mấy? (Ở ngân hàng)",
+              "translationB": "Hôm nay ngày 1 tháng 9."
+            },
+            {
+              "speakerA": "今天星期几？ (Jīntiān xīngqī jǐ?)",
+              "speakerB": "星期三。 (Xīngqī sān.)",
+              "translationA": "Hôm nay thứ mấy?",
+              "translationB": "Thứ tư."
+            },
+            {
+              "speakerA": "昨天是几月几号？ (Zuótiān shì jǐ yuè jǐ hào?)",
+              "speakerB": "昨天是 8 月 31 号，星期二。 (Zuótiān shì bā yuè sānshíyī hào, xīngqī èr.)",
+              "translationA": "Hôm qua ngày mấy tháng mấy? (Xem lịch)",
+              "translationB": "Hôm qua là ngày 31 tháng 8, thứ ba."
+            },
+            {
+              "speakerA": "明天呢？ (Míngtiān ne?)",
+              "speakerB": "明天是 9 月 2 号，星期四。 (Míngtiān shì jiǔ yuè èr hào, xīngqī sì.)",
+              "translationA": "Còn ngày mai?",
+              "translationB": "Ngày mai là ngày 2 tháng 9, thứ năm."
+            },
+            {
+              "speakerA": "明天星期六，你去学校吗？ (Míngtiān xīngqī liù, nǐ qù xuéxiào ma?)",
+              "speakerB": "我去学校。 (Wǒ qù xuéxiào.)",
+              "translationA": "Ngày mai thứ bảy, bạn đi trường không? (Ở quán cà phê)",
+              "translationB": "Tôi đi trường."
+            },
+            {
+              "speakerA": "你去学校做什么？ (Nǐ qù xuéxiào zuò shénme?)",
+              "speakerB": "我去学校看书。 (Wǒ qù xuéxiào kàn shū.)",
+              "translationA": "Bạn đi trường làm gì?",
+              "translationB": "Tôi đi trường xem sách."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 她 29 岁。\nB. 今天星期日。\nC. 我去同学家看书。\nD. 我 không biết, tôi ba tôi biết.\nE. Hôm nay là 10/5.\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "18",
+                  "text": "今天星期几？",
+                  "answer": "B"
+                },
+                {
+                  "id": "19",
+                  "text": "今天是几月几号？",
+                  "answer": "E"
+                },
+                {
+                  "id": "20",
+                  "text": "你的汉语老师多大了？",
+                  "answer": "A"
+                },
+                {
+                  "id": "21",
+                  "text": "明天你做什么？",
+                  "answer": "C"
+                },
+                {
+                  "id": "22",
+                  "text": "你会说汉语吗？",
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 几 (jǐ) | B. 月 (yuè) | C. 号 (hào) | D. 名字 (míngzi) | E. 星期 (xīngqī) | F. 问 (wèn) | G. 去 (qù) | H. 做 (zuò) | I. 会 (huì)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "昨天是 ( ___ ) 三。",
+                  "answer": "E",
+                  "pinyin": "Zuótiān shì ___ sān."
+                },
+                {
+                  "id": "24",
+                  "text": "明天星期 ( ___ ) ？",
+                  "answer": "A",
+                  "pinyin": "Míngtiān xīngqī ___ ?"
+                },
+                {
+                  "id": "25",
+                  "text": "今天是 9 ( ___ ) 31 ( ___ ) ，星期六。",
+                  "answer": "B / C",
+                  "pinyin": "Jīntiān shì 9 ___ 31 ___ , xīngqīliù."
+                },
+                {
+                  "id": "26",
+                  "text": "你 10 月几 ( ___ ) 去中国？",
+                  "answer": "C",
+                  "pinyin": "Nǐ 10 yuè jǐ ___ qù Zhōngguó?"
+                },
+                {
+                  "id": "27",
+                  "text": "明天我 ( ___ ) 一个中国朋友家吃饭。",
+                  "answer": "G",
+                  "pinyin": "Míngtiān wǒ ___ yí ge Zhōngguó péngyou jiā chī fàn."
+                },
+                {
+                  "id": "28",
+                  "text": "明天星期六，你 ( ___ ) 什么？",
+                  "answer": "H",
+                  "pinyin": "Míngtiān xīngqīliù, nǐ ___ shénme?"
+                },
+                {
+                  "id": "29",
+                  "text": "我 ( ___ ) 说汉语，不会写汉字。",
+                  "answer": "I",
+                  "pinyin": "Wǒ ___ shuō Hànyǔ, bú huì xiě Hànzì."
+                },
+                {
+                  "id": "30",
+                  "text": "请 ( ___ ) ，这个汉字怎么读？",
+                  "answer": "F",
+                  "pinyin": "Qǐng ___ , zhège Hànzì zěnme dú?"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 8,
+          "lessonTitle": "我想喝茶。",
+          "vocabulary": [
+            {
+              "hanzi": "想",
+              "pinyin": "xiǎng",
+              "meaning": "muốn, nhớ",
+              "example": "我想喝茶。",
+              "analysis": "Chứa bộ Tâm (心) ở phía dưới, chỉ ý nghĩ nảy sinh từ trong lòng."
+            },
+            {
+              "hanzi": "喝",
+              "pinyin": "hē",
+              "meaning": "uống",
+              "example": "喝水。",
+              "analysis": "Chứa bộ Khẩu (口). Hành động uống bắt buộc phải dùng miệng."
+            },
+            {
+              "hanzi": "茶",
+              "pinyin": "chá",
+              "meaning": "trà",
+              "example": "中国茶。",
+              "analysis": "Chứa bộ Thảo đầu (艹) chỉ các loại cỏ cây, thực vật (trà là một loại lá cây)."
+            },
+            {
+              "hanzi": "吃",
+              "pinyin": "chī",
+              "meaning": "ăn",
+              "example": "吃饭。",
+              "analysis": "Chứa bộ Khẩu (口). Tương tự như uống, ăn cũng phải dùng miệng."
+            },
+            {
+              "hanzi": "米饭",
+              "pinyin": "mǐfàn",
+              "meaning": "cơm",
+              "example": "我吃米饭。",
+              "analysis": "Chữ 饭 chứa bộ Thực (饣). Thường xuất hiện trong các chữ liên quan đến đồ ăn."
+            },
+            {
+              "hanzi": "下午",
+              "pinyin": "xiàwǔ",
+              "meaning": "buổi chiều",
+              "example": "下午去商店。",
+              "analysis": "Chữ 下 (dưới) có nét gạch dưới ranh giới ngang. 午 chỉ mốc thời gian trưa."
+            },
+            {
+              "hanzi": "商店",
+              "pinyin": "shāngdiàn",
+              "meaning": "cửa hàng",
+              "example": "商店买东西。",
+              "analysis": "Chữ 店 (điếm) chứa bộ Quảng (广) chỉ tòa nhà, cửa tiệm."
+            },
+            {
+              "hanzi": "买",
+              "pinyin": "mǎi",
+              "meaning": "mua",
+              "example": "买杯子。",
+              "analysis": "Chứa bộ Đầu (罒) ở trên."
+            },
+            {
+              "hanzi": "个",
+              "pinyin": "gè",
+              "meaning": "cái, chiếc",
+              "example": "一个杯子。",
+              "analysis": "Lượng từ phổ biến nhất. Gốc ban đầu chỉ một người (cá nhân)."
+            },
+            {
+              "hanzi": "杯子",
+              "pinyin": "bēizi",
+              "meaning": "ly, tách",
+              "example": "这个杯子多少钱？",
+              "analysis": "Chữ 杯 chứa bộ Mộc (木). Ngày xưa ly uống nước thường làm từ gỗ."
+            },
+            {
+              "hanzi": "这",
+              "pinyin": "zhè",
+              "meaning": "đây, này",
+              "example": "这个。",
+              "analysis": "Chứa bộ Xước (辶) liên quan đến việc di chuyển, đi lại."
+            },
+            {
+              "hanzi": "多少",
+              "pinyin": "duōshao",
+              "meaning": "bao nhiêu",
+              "example": "多少钱？",
+              "analysis": "Ghép từ chữ 多 (nhiều) và chữ 少 (ít, hình hạt cát nhỏ)."
+            },
+            {
+              "hanzi": "钱",
+              "pinyin": "qián",
+              "meaning": "tiền",
+              "example": "三块钱。",
+              "analysis": "Chứa bộ Kim (钅). Tiền xu ngày xưa được đúc bằng kim loại."
+            },
+            {
+              "hanzi": "块",
+              "pinyin": "kuài",
+              "meaning": "đồng (tệ)",
+              "example": "十块。",
+              "analysis": "Chứa bộ Thổ (土) ở bên trái. Đơn vị tiền tệ thường dùng trong khẩu ngữ."
+            },
+            {
+              "hanzi": "那",
+              "pinyin": "nà",
+              "meaning": "kia, đó",
+              "example": "那个。",
+              "analysis": "Đại từ chỉ thị vị trí ở xa. Chứa bộ Ấp (阝)."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Động từ năng nguyện \"想\"",
+              "formula": "S + 想 + V",
+              "explanation": "Diễn tả mong muốn hoặc dự định.",
+              "example": "我想喝茶。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "你想喝什么？ (Nǐ xiǎng hē shénme?)",
+              "speakerB": "我想喝茶。 (Wǒ xiǎng hē chá.)",
+              "translationA": "Bạn muốn uống gì? (Ở quán ăn)",
+              "translationB": "Tôi muốn uống trà."
+            },
+            {
+              "speakerA": "你想吃什么？ (Nǐ xiǎng chī shénme?)",
+              "speakerB": "我想吃米饭。 (Wǒ xiǎng chī mǐfàn.)",
+              "translationA": "Bạn muốn ăn gì?",
+              "translationB": "Tôi muốn ăn cơm."
+            },
+            {
+              "speakerA": "下午你想做什么？ (Xiàwǔ nǐ xiǎng zuò shénme?)",
+              "speakerB": "下午我想去商店。 (Xiàwǔ wǒ xiǎng qù shāngdiàn.)",
+              "translationA": "Buổi chiều bạn muốn làm gì? (Trong phòng khách)",
+              "translationB": "Buổi chiều tôi muốn đi cửa hàng."
+            },
+            {
+              "speakerA": "你想买什么？ (Nǐ xiǎng mǎi shénme?)",
+              "speakerB": "我想买一个杯子。 (Wǒ xiǎng mǎi yí ge bēizi.)",
+              "translationA": "Bạn muốn mua gì?",
+              "translationB": "Tôi muốn mua một cái ly."
+            },
+            {
+              "speakerA": "你好！这个杯子多少钱？ (Nǐ hǎo! Zhège bēizi duōshao qián?)",
+              "speakerB": "28块。 (Èrshíbā kuài.)",
+              "translationA": "Chào bạn! Cái ly này bao nhiêu tiền? (Ở cửa hàng)",
+              "translationB": "28 đồng."
+            },
+            {
+              "speakerA": "那个杯子多少钱？ (Nàge bēizi duōshao qián?)",
+              "speakerB": "那个杯子 18 块钱。 (Nàge bēizi shíbā kuài qián.)",
+              "translationA": "Cái ly kia bao nhiêu tiền?",
+              "translationB": "Cái ly kia 18 đồng."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 吃 (chī) | B. 喝 (hē) | C. 买 (mǎi) | D. 名字 (míngzi) | E. 做 (zuò) | F. 几 (jǐ) | G. 多少 (duōshao)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "我想 ( ___ ) 米饭。",
+                  "answer": "A",
+                  "pinyin": "Wǒ xiǎng ___ mǐfàn."
+                },
+                {
+                  "id": "24",
+                  "text": "您好，您 ( ___ ) 茶吗？",
+                  "answer": "B",
+                  "pinyin": "Nínhǎo, nín ___ chá ma?"
+                },
+                {
+                  "id": "25",
+                  "text": "我妈妈会 ( ___ ) 中国菜。",
+                  "answer": "E",
+                  "pinyin": "Wǒ māma huì ___ Zhōngguó cài."
+                },
+                {
+                  "id": "26",
+                  "text": "你想去商店 ( ___ ) 什么？",
+                  "answer": "C",
+                  "pinyin": "Nǐ xiǎng qù shāngdiàn ___ shénme?"
+                },
+                {
+                  "id": "27",
+                  "text": "你家有 ( ___ ) 口人？",
+                  "answer": "F",
+                  "pinyin": "Nǐ jiā yǒu ___ kǒu rén?"
+                },
+                {
+                  "id": "28",
+                  "text": "你们学校 có ( ___ ) 学生？",
+                  "answer": "G",
+                  "pinyin": "Nǐmen xuéxiào yǒu ___ xuésheng?"
+                },
+                {
+                  "id": "29",
+                  "text": "你好，这个杯子 ( ___ ) 钱？",
+                  "answer": "G",
+                  "pinyin": "Nǐhǎo, zhège bēizi ___ qián?"
+                },
+                {
+                  "id": "30",
+                  "text": "A: 你有 ( ___ ) 个中国朋友？ B: 两个。",
+                  "answer": "F",
+                  "pinyin": "A: Nǐ yǒu ___ ge Zhōngguó péngyou? B: Liǎng ge."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 9,
+          "lessonTitle": "你儿子在哪儿工作？",
+          "vocabulary": [
+            {
+              "hanzi": "小",
+              "pinyin": "xiǎo",
+              "meaning": "nhỏ",
+              "example": "小猫。",
+              "analysis": "Chữ đơn thể mang hình dáng giống những hạt cát nhỏ li ti."
+            },
+            {
+              "hanzi": "猫",
+              "pinyin": "māo",
+              "meaning": "con mèo",
+              "example": "小猫在哪儿？",
+              "analysis": "Chứa bộ Khuyển (犭) thường dùng cho các loài động vật."
+            },
+            {
+              "hanzi": "在",
+              "pinyin": "zài",
+              "meaning": "ở",
+              "example": "在椅子下面。",
+              "analysis": "Hình ảnh giống như mầm cây đang đâm chồi trên mặt đất, mang nghĩa tồn tại, sinh sống."
+            },
+            {
+              "hanzi": "那儿",
+              "pinyin": "nàr",
+              "meaning": "chỗ kia",
+              "example": "他在那儿。",
+              "analysis": "Đại từ chỉ vị trí ở xa người nói."
+            },
+            {
+              "hanzi": "狗",
+              "pinyin": "gǒu",
+              "meaning": "con chó",
+              "example": "小狗。",
+              "analysis": "Tương tự chữ 猫 (mèo), cũng chứa bộ Khuyển (犭) chỉ loài vật."
+            },
+            {
+              "hanzi": "椅子",
+              "pinyin": "yǐzi",
+              "meaning": "cái ghế",
+              "example": "椅子上。",
+              "analysis": "Chữ 椅 (Kỷ) chứa bộ Mộc (木). Đồ dùng nội thất như ghế thường làm bằng gỗ."
+            },
+            {
+              "hanzi": "下面",
+              "pinyin": "xiàmiàn",
+              "meaning": "phía dưới",
+              "example": "在椅子下面。",
+              "analysis": "Chữ 下 biểu thị vị trí thấp (một vạch ngắn dưới ranh giới vạch dài)."
+            },
+            {
+              "hanzi": "哪儿",
+              "pinyin": "nǎr",
+              "meaning": "ở đâu",
+              "example": "你在哪儿？",
+              "analysis": "Chứa bộ Khẩu (口). Dùng để hỏi về nơi chốn."
+            },
+            {
+              "hanzi": "工作",
+              "pinyin": "gōngzuò",
+              "meaning": "làm việc",
+              "example": "你在哪儿工作？",
+              "analysis": "Chữ 工 có hình dạng giống chiếc thước đo của thợ thủ công, liên quan đến lao động."
+            },
+            {
+              "hanzi": "儿子",
+              "pinyin": "érzi",
+              "meaning": "con trai",
+              "example": "我儿子是医生。",
+              "analysis": "Chữ Tử (子) vốn có nghĩa là đứa trẻ sơ sinh, nay chỉ con cái."
+            },
+            {
+              "hanzi": "医院",
+              "pinyin": "yīyuàn",
+              "meaning": "bệnh viện",
+              "example": "他在医院工作。",
+              "analysis": "Chữ 医 (y) có kết cấu bao quanh một nửa, như mũi tên được che chở."
+            },
+            {
+              "hanzi": "医生",
+              "pinyin": "yīshēng",
+              "meaning": "bác sĩ",
+              "example": "他是医生。",
+              "analysis": "Nghề nghiệp khám chữa bệnh. Chữ 医 có kết cấu bao quanh."
+            },
+            {
+              "hanzi": "爸爸",
+              "pinyin": "bàba",
+              "meaning": "bố",
+              "example": "我爸爸在家。",
+              "analysis": "Chứa bộ Phụ (父) ở trên biểu thị người cha."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Động từ và giới từ \"在\"",
+              "formula": "S + 在 + Vị trí",
+              "explanation": "Diễn tả sự vật ở vị trí nào đó.",
+              "example": "你在哪儿？"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 我是学生，我不工作。\nB. 不在，李老师在医院。\nC. 在那儿，椅子下面。\nD. 她是老师，在学校工作。\nE. 杯子在这儿。\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "18",
+                  "text": "你在哪儿工作？",
+                  "answer": "A"
+                },
+                {
+                  "id": "19",
+                  "text": "我的小狗在哪儿？",
+                  "answer": "C"
+                },
+                {
+                  "id": "20",
+                  "text": "我的杯子呢？",
+                  "answer": "E"
+                },
+                {
+                  "id": "21",
+                  "text": "你女儿在哪儿工作？",
+                  "answer": "D"
+                },
+                {
+                  "id": "22",
+                  "text": "请问，李老师在吗？",
+                  "answer": "B"
+                }
+              ]
+            },
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 在 (zài) | B. 哪儿 (nǎr) | C. 呢 (ne) | D. 名字 (míngzi) | E. 什么 (shénme)\nF. 家 (jiā) | G. 学校 (xuéxiào) | H. 医院 (yīyuàn) | I. 商店 (shāngdiàn)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "你爸爸做 ( ___ ) 工作？",
+                  "answer": "E",
+                  "pinyin": "Nǐ bàba zuò ___ gōngzuò?"
+                },
+                {
+                  "id": "24",
+                  "text": "你好，请问王老师在 ( ___ ) ？",
+                  "answer": "B",
+                  "pinyin": "Nǐ hǎo, qǐngwèn Wáng lǎoshī zài ___ ?"
+                },
+                {
+                  "id": "25",
+                  "text": "我儿子 là bác sĩ, ( ___ ) bệnh viện làm việc.",
+                  "answer": "A",
+                  "pinyin": "Wǒ érzi shì yīshēng, ___ yīyuàn gōngzuò."
+                },
+                {
+                  "id": "26",
+                  "text": "你的猫 ( ___ ) ？",
+                  "answer": "C",
+                  "pinyin": "Nǐ de māo ___ ?"
+                },
+                {
+                  "id": "27",
+                  "text": "你 ( ___ ) 有几口人？",
+                  "answer": "F",
+                  "pinyin": "Nǐ ___ yǒu jǐ kǒu rén?"
+                },
+                {
+                  "id": "28",
+                  "text": "我想去 ( ___ ) 买一个杯子。",
+                  "answer": "I",
+                  "pinyin": "Wǒ xiǎng qù ___ mǎi yí ge bēizi."
+                },
+                {
+                  "id": "29",
+                  "text": "明天下午我想去 ( ___ ) 看书。",
+                  "answer": "G",
+                  "pinyin": "Míngtiān xiàwǔ wǒ xiǎng qù ___ kàn shū."
+                },
+                {
+                  "id": "30",
+                  "text": "他爸爸 là bác sĩ, ở ( ___ ) làm việc.",
+                  "answer": "H",
+                  "pinyin": "Tā bàba shì yīshēng, zài ___ gōngzuò."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 10,
+          "lessonTitle": "我能坐这儿吗？",
+          "vocabulary": [
+            {
+              "hanzi": "桌子",
+              "pinyin": "zhuōzi",
+              "meaning": "cái bàn",
+              "example": "桌子上有电脑。",
+              "analysis": "Chữ 桌 chứa bộ Mộc (木). Bàn thường được đóng bằng gỗ."
+            },
+            {
+              "hanzi": "上",
+              "pinyin": "shang",
+              "meaning": "trên",
+              "example": "桌面上。",
+              "analysis": "Nét ngang ngắn nằm phía trên ranh giới nét ngang dài, chỉ vị trí phía trên."
+            },
+            {
+              "hanzi": "电脑",
+              "pinyin": "diànnǎo",
+              "meaning": "máy vi tính",
+              "example": "一台电脑。",
+              "analysis": "Chữ 电 (điện) vốn là hình ảnh tia chớp nhiều răng cưa trên trời."
+            },
+            {
+              "hanzi": "和",
+              "pinyin": "hé",
+              "meaning": "và",
+              "example": "我和你。",
+              "analysis": "Liên từ chứa bộ Khẩu (口)."
+            },
+            {
+              "hanzi": "本",
+              "pinyin": "běn",
+              "meaning": "quyển, cuốn",
+              "example": "一本书。",
+              "analysis": "Chữ 木 (cây) thêm dấu gạch (-) ở dưới chỉ phần gốc rễ. Dùng làm lượng từ cho sách."
+            },
+            {
+              "hanzi": "里",
+              "pinyin": "li",
+              "meaning": "trong",
+              "example": "家里。",
+              "analysis": "Chứa bộ Điền (田) chỉ ruộng đất. Biểu thị vị trí bên trong."
+            },
+            {
+              "hanzi": "前面",
+              "pinyin": "qiánmiàn",
+              "meaning": "phía trước",
+              "example": "前面那个人。",
+              "analysis": "Chữ 前 (tiền) chứa bộ Đao (刂)."
+            },
+            {
+              "hanzi": "后面",
+              "pinyin": "hòumiàn",
+              "meaning": "phía sau",
+              "example": "后面。",
+              "analysis": "Danh từ chỉ phương hướng đằng sau."
+            },
+            {
+              "hanzi": "这儿",
+              "pinyin": "zhèr",
+              "meaning": "chỗ này",
+              "example": "这儿有人吗？",
+              "analysis": "Chữ 这 chứa bộ Xước (辶). Đại từ chỉ vị trí gần người nói."
+            },
+            {
+              "hanzi": "没有",
+              "pinyin": "méiyǒu",
+              "meaning": "không có",
+              "example": "这儿没有人。",
+              "analysis": "Chữ 没 chứa bộ Thủy (氵) chỉ nước. Đây là hình thức phủ định của 有."
+            },
+            {
+              "hanzi": "能",
+              "pinyin": "néng",
+              "meaning": "có thể",
+              "example": "我能坐这儿吗？",
+              "analysis": "Động từ năng nguyện dùng để xin phép hoặc diễn tả khả năng."
+            },
+            {
+              "hanzi": "坐",
+              "pinyin": "zuò",
+              "meaning": "ngồi",
+              "example": "请坐。",
+              "analysis": "Gồm hai chữ 人 (người) ngồi trên chữ 土 (đất). Tượng hình hai người đang ngồi bệt đàm đạo."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Câu tồn tại với \"有\"",
+              "formula": "Vị trí + 有 + Vật/Người",
+              "explanation": "Miêu tả người/vật đang tồn tại ở đâu.",
+              "example": "桌子上有电脑。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "桌子上有什么？ (Zhuōzi shang yǒu shénme?)",
+              "speakerB": "桌子上有一个电脑和一本书。 (Zhuōzi shang yǒu yí ge diànnǎo hé yì běn shū.)",
+              "translationA": "Trên bàn có gì? (Trong văn phòng)",
+              "translationB": "Trên bàn có một cái máy tính và một quyển sách."
+            },
+            {
+              "speakerA": "杯子在哪儿？ (Bēizi zài nǎr?)",
+              "speakerB": "杯子在桌子里。 (Bēizi zài zhuōzi li.)",
+              "translationA": "Cái ly ở đâu?",
+              "translationB": "Cái ly ở trong bàn."
+            },
+            {
+              "speakerA": "前面那个人叫什么名字？ (Qiánmiàn nàge rén jiào shénme míngzi?)",
+              "speakerB": "他叫王方，在医院工作。 (Tā jiào Wáng Fāng, zài yīyuàn gōngzuò.)",
+              "translationA": "Người phía trước tên gì? (Ở phòng tập)",
+              "translationB": "Anh ấy tên Vương Phương, làm việc ở bệnh viện."
+            },
+            {
+              "speakerA": "后面那个人呢？他叫什么名字？ (Hòumiàn nàge rén ne? Tā jiào shénme míngzi?)",
+              "speakerB": "他叫谢朋，在商店工作。 (Tā jiào Xiè Péng, zài shāngdiàn gōngzuò.)",
+              "translationA": "Còn người phía sau? Anh ấy tên gì?",
+              "translationB": "Anh ấy tên Tạ Bằng, làm việc ở cửa hàng."
+            },
+            {
+              "speakerA": "这儿有人吗？ (Zhèr yǒu rén ma?)",
+              "speakerB": "没有。 (Méiyǒu.)",
+              "translationA": "Chỗ này có ai không? (Ở thư viện)",
+              "translationB": "Không có."
+            },
+            {
+              "speakerA": "我能坐这儿吗？ (Wǒ néng zuò zhèr ma?)",
+              "speakerB": "请坐。 (Qǐng zuò.)",
+              "translationA": "Tôi có thể ngồi đây không?",
+              "translationB": "Mời ngồi."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 有 (yǒu) | B. 在 (zài) | C. 请 (qǐng) | D. 名字 (míngzi) | E. 能 (néng)\nF. 不 (bù) | G. 没 (méi) | H. 很 (hěn) | I. 多 (duō)",
+              "questions": [
+                {
+                  "id": "23",
+                  "text": "我 ( ___ ) 看看你的汉语书吗？",
+                  "answer": "E",
+                  "pinyin": "Wǒ ___ kànkan nǐ de Hànyǔ shū ma?"
+                },
+                {
+                  "id": "24",
+                  "text": "我爸爸 hôm nay không ( ___ ) nhà.",
+                  "answer": "B",
+                  "pinyin": "Wǒ bàba jīntiān bù ___ jiā."
+                },
+                {
+                  "id": "25",
+                  "text": "您好，( ___ ) 喝茶。",
+                  "answer": "C",
+                  "pinyin": "Nín hǎo, ___ hē chá."
+                },
+                {
+                  "id": "26",
+                  "text": "学校里 ( ___ ) 一个商店。",
+                  "answer": "A",
+                  "pinyin": "Xuéxiào lǐ ___ yí ge shāngdiàn."
+                },
+                {
+                  "id": "27",
+                  "text": "你爸爸今年 ( ___ ) 大了？",
+                  "answer": "I",
+                  "pinyin": "Nǐ bàba jīnnián ___ dà le?"
+                },
+                {
+                  "id": "28",
+                  "text": "请坐，这儿的中国菜 ( ___ ) 好吃。",
+                  "answer": "H",
+                  "pinyin": "Qǐng zuò, zhèr de Zhōngguó cài ___ hǎochī."
+                },
+                {
+                  "id": "29",
+                  "text": "他 ( ___ ) là học sinh, anh ta là giáo viên.",
+                  "answer": "F",
+                  "pinyin": "Tā ___ shì xuésheng, tā shì lǎoshī."
+                },
+                {
+                  "id": "30",
+                  "text": "Tiên bàn tôi ( ___ ) có máy tính.",
+                  "answer": "G",
+                  "pinyin": "Wǒ de zhuōzi shang ___ yǒu diànnǎo."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 11,
+          "lessonTitle": "现在几点？",
+          "vocabulary": [
+            {
+              "hanzi": "现在",
+              "pinyin": "xiànzài",
+              "meaning": "bây giờ",
+              "example": "现在几点？",
+              "analysis": "Chữ 在 (tồn tại/ở) chỉ sự vật hiện tượng đang diễn ra trong thời điểm này."
+            },
+            {
+              "hanzi": "点",
+              "pinyin": "diǎn",
+              "meaning": "giờ",
+              "example": "十点。",
+              "analysis": "Chứa bộ Hỏa (灬) biểu thị lửa ở dưới đáy. Đơn vị chỉ giờ."
+            },
+            {
+              "hanzi": "分",
+              "pinyin": "fēn",
+              "meaning": "phút",
+              "example": "十分。",
+              "analysis": "Chứa bộ Đao (刀) ở dưới. Đơn vị chỉ phút."
+            },
+            {
+              "hanzi": "中午",
+              "pinyin": "zhōngwǔ",
+              "meaning": "buổi trưa",
+              "example": "中午十二点。",
+              "analysis": "Chữ 午 (Ngọ) chỉ mốc thời gian khoảng 11h-13h trưa."
+            },
+            {
+              "hanzi": "吃饭",
+              "pinyin": "chīfàn",
+              "meaning": "ăn cơm",
+              "example": "去吃饭。",
+              "analysis": "Chữ 饭 chứa bộ Thực (饣) luôn đi kèm với các từ liên quan đến thức ăn."
+            },
+            {
+              "hanzi": "时候",
+              "pinyin": "shíhou",
+              "meaning": "lúc, khi",
+              "example": "什么时候？",
+              "analysis": "Chữ 时 chứa bộ Nhật (日). Mặt trời là thước đo đếm thời gian của người xưa."
+            },
+            {
+              "hanzi": "回",
+              "pinyin": "huí",
+              "meaning": "về",
+              "example": "回家。",
+              "analysis": "Hình dáng một dòng nước cuộn tròn, uốn quanh, mang nghĩa quay về chốn cũ."
+            },
+            {
+              "hanzi": "我们",
+              "pinyin": "wǒmen",
+              "meaning": "chúng ta",
+              "example": "我们去看电影。",
+              "analysis": "Chữ 们 chứa bộ Nhân đứng (亻) biểu thị số nhiều của người."
+            },
+            {
+              "hanzi": "电影",
+              "pinyin": "diànyǐng",
+              "meaning": "phim",
+              "example": "看电影。",
+              "analysis": "Chữ 电 (điện) là năng lượng tạo ra hình ảnh phát sáng (phim)."
+            },
+            {
+              "hanzi": "住",
+              "pinyin": "zhù",
+              "meaning": "ở",
+              "example": "你住在哪儿？",
+              "analysis": "Chứa bộ Nhân đứng (亻). Người thì cần nơi để lưu trú."
+            },
+            {
+              "hanzi": "前",
+              "pinyin": "qián",
+              "meaning": "trước",
+              "example": "三天前。",
+              "analysis": "Chứa bộ Đao (刂). Danh từ chỉ mốc thời gian trước một thời điểm."
+            },
+            {
+              "hanzi": "北京",
+              "pinyin": "Běijīng",
+              "meaning": "Bắc Kinh",
+              "example": "他在北京。"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Cách diễn tả thời gian",
+              "formula": "Số + 点 / 分",
+              "explanation": "Dùng 点 chỉ giờ và 分 chỉ phút.",
+              "example": "11:10 -> 十一点十分。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "现在几点？ (Xiànzài jǐ diǎn?)",
+              "speakerB": "现在十点十分。 (Xiànzài shí diǎn shí fēn.)",
+              "translationA": "Bây giờ mấy giờ? (Ở thư viện)",
+              "translationB": "Bây giờ 10 giờ 10 phút."
+            },
+            {
+              "speakerA": "中午几点吃饭？ (Zhōngwǔ jǐ diǎn chī fàn?)",
+              "speakerB": "十二点吃饭。 (Shí'èr diǎn chī fàn.)",
+              "translationA": "Buổi trưa mấy giờ ăn cơm?",
+              "translationB": "12 giờ ăn cơm."
+            },
+            {
+              "speakerA": "爸爸什么时候回家？ (Bàba shénme shíhou huí jiā?)",
+              "speakerB": "下午五点。 (Xiàwǔ wǔ diǎn.)",
+              "translationA": "Bố khi nào về nhà? (Ở nhà)",
+              "translationB": "5 giờ chiều."
+            },
+            {
+              "speakerA": "我们什么时候去看电影？ (Wǒmen shénme shíhou qù kàn diànyǐng?)",
+              "speakerB": "六点三十分。 (Liù diǎn sānshí fēn.)",
+              "translationA": "Chúng ta khi nào đi xem phim?",
+              "translationB": "6 giờ 30 phút."
+            },
+            {
+              "speakerA": "我星期一去北京。 (Wǒ xīngqī yī qù Běijīng.)",
+              "speakerB": "你想在北京住几天？ (Nǐ xiǎng zài Běijīng zhù jǐ tiān?)",
+              "translationA": "Thứ hai tôi đi Bắc Kinh. (Ở nhà)",
+              "translationB": "Bạn muốn ở Bắc Kinh mấy ngày?"
+            },
+            {
+              "speakerA": "住三天。 (Zhù sān tiān.)",
+              "speakerB": "星期五前能回家吗？ (Xīngqī wǔ qián néng huí jiā ma?)",
+              "translationA": "Ở 3 ngày.",
+              "translationB": "Trước thứ sáu có thể về nhà không?"
+            },
+            {
+              "speakerA": "能。 (Néng.)",
+              "speakerB": "",
+              "translationA": "Có thể.",
+              "translationB": ""
+            }
+          ],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 不去学校，我在家。\nB. 我不去，没有时间。\nC. 不工作，你12点来吧。\nD. 星期五前。\nE. 他不想去。\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "21",
+                  "text": "下午三点你去学校吗？",
+                  "answer": "A"
+                },
+                {
+                  "id": "22",
+                  "text": "你什么时候回北京？",
+                  "answer": "D"
+                },
+                {
+                  "id": "23",
+                  "text": "中午你工作吗？",
+                  "answer": "C"
+                },
+                {
+                  "id": "24",
+                  "text": "你中午去吃饭吗？",
+                  "answer": "B"
+                },
+                {
+                  "id": "25",
+                  "text": "大卫去看电影吗？",
+                  "answer": "E"
+                }
+              ]
+            },
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 点 (diǎn) | B. 分 (fēn) | C. 时候 (shíhou) | D. 名字 (míngzi) | E. 前 (qián) | F. 住 (zhù)",
+              "questions": [
+                {
+                  "id": "26",
+                  "text": "我在王方家 ( ___ ) 了一个星期，星期六回家。",
+                  "answer": "F",
+                  "pinyin": "Wǒ zài Wáng Fāng jiā ___ le yí ge xīngqī, xīngqīliù huí jiā."
+                },
+                {
+                  "id": "27",
+                  "text": "你什么 ( ___ ) có thời gian? Chúng ta đi xem phim.",
+                  "answer": "C",
+                  "pinyin": "Nǐ shénme ___ yǒu shíjiān? Wǒmen qù kàn diànyǐng."
+                },
+                {
+                  "id": "28",
+                  "text": "现在 buổi trưa 12 ( ___ ) , bạn đi ăn cơm không?",
+                  "answer": "A",
+                  "pinyin": "Xiànzài zhōngwǔ shí'èr ___ , nǐ qù chī fàn ma?"
+                },
+                {
+                  "id": "29",
+                  "text": "Tôi bây giờ làm việc, 12h 10 ( ___ ) đi ăn cơm.",
+                  "answer": "B",
+                  "pinyin": "Wǒ xiànzài gōngzuò, shí'èr diǎn shí ___ qù chī fàn."
+                },
+                {
+                  "id": "30",
+                  "text": "Tôi 8 giờ ( ___ ) ở nhà.",
+                  "answer": "E",
+                  "pinyin": "Wǒ bā diǎn ___ zài jiā."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 12,
+          "lessonTitle": "明天天气怎么样？",
+          "vocabulary": [
+            {
+              "hanzi": "天气",
+              "pinyin": "tiānqì",
+              "meaning": "thời tiết",
+              "example": "今天天气很好。",
+              "analysis": "Chữ 气 (khí) hình dáng uốn lượn như hơi nước tự do phân tán trong không khí."
+            },
+            {
+              "hanzi": "怎么样",
+              "pinyin": "zěnmeyàng",
+              "meaning": "như thế nào",
+              "example": "北京天气怎么样？",
+              "analysis": "Đại từ nghi vấn dùng để hỏi trạng thái, tình hình."
+            },
+            {
+              "hanzi": "太",
+              "pinyin": "tài",
+              "meaning": "quá, lắm",
+              "example": "太热了！",
+              "analysis": "Phó từ chỉ mức độ cao. Là chữ Đại (大) thêm dấu chấm."
+            },
+            {
+              "hanzi": "热",
+              "pinyin": "rè",
+              "meaning": "nóng",
+              "example": "今天很热。",
+              "analysis": "Chứa bộ Hỏa (灬) ở dưới, biểu thị ngọn lửa đốt nóng."
+            },
+            {
+              "hanzi": "冷",
+              "pinyin": "lěng",
+              "meaning": "lạnh",
+              "example": "不太冷。",
+              "analysis": "Chứa bộ Băng (冫) biểu thị băng giá, tuyết lạnh."
+            },
+            {
+              "hanzi": "下雨",
+              "pinyin": "xià yǔ",
+              "meaning": "mưa",
+              "example": "下雨了。",
+              "analysis": "Chữ 雨 (vũ) vẽ lại hình ảnh những giọt nước mưa đang rơi xuống."
+            },
+            {
+              "hanzi": "下",
+              "pinyin": "xià",
+              "meaning": "rơi/xuống",
+              "example": "下雪。",
+              "analysis": "Vạch nằm dưới ranh giới, trái ngược với 上. Trong thời tiết mang nghĩa rơi (mưa, tuyết)."
+            },
+            {
+              "hanzi": "雨",
+              "pinyin": "yǔ",
+              "meaning": "mưa",
+              "example": "大雨。",
+              "analysis": "Chữ tượng hình sinh động về giọt nước từ trời rơi xuống."
+            },
+            {
+              "hanzi": "小姐",
+              "pinyin": "xiǎojiě",
+              "meaning": "cô, tiểu thư",
+              "example": "王小姐。",
+              "analysis": "Chữ 姐 chứa bộ Nữ (女) chỉ người phụ nữ."
+            },
+            {
+              "hanzi": "来",
+              "pinyin": "lái",
+              "meaning": "đến",
+              "example": "你什么时候来？",
+              "analysis": "Động từ biểu thị sự di chuyển tiến về phía người nói."
+            },
+            {
+              "hanzi": "身体",
+              "pinyin": "shēntǐ",
+              "meaning": "cơ thể, sức khỏe",
+              "example": "你身体怎么样？",
+              "analysis": "Chữ 体 chứa bộ Nhân đứng (亻) biểu thị phần thân thể người."
+            },
+            {
+              "hanzi": "爱",
+              "pinyin": "ài",
+              "meaning": "yêu, thích",
+              "example": "我爱吃水果。",
+              "analysis": "Chứa bộ Tâm (心) biểu thị tình cảm nảy sinh từ con tim."
+            },
+            {
+              "hanzi": "些",
+              "pinyin": "xiē",
+              "meaning": "một ít",
+              "example": "一些水果。",
+              "analysis": "Lượng từ chỉ số lượng chưa xác định. Chứa bộ Nhị (二)."
+            },
+            {
+              "hanzi": "水果",
+              "pinyin": "shuǐguǒ",
+              "meaning": "trái cây",
+              "example": "买些水果。",
+              "analysis": "Chữ 水 (thủy) mang hình ảnh dòng nước. Quả tươi mọng nước."
+            },
+            {
+              "hanzi": "水",
+              "pinyin": "shuǐ",
+              "meaning": "nước",
+              "example": "喝水。",
+              "analysis": "Hình ảnh dòng nước chảy."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Đại từ nghi vấn \"怎么样\"",
+              "formula": "S + 怎么样?",
+              "explanation": "Dùng để hỏi tình trạng, trạng thái.",
+              "example": "你身体怎么样？"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "今天会下雨吗？ (Jīntiān huì xià yǔ ma?)",
+              "speakerB": "今天不会下雨。 (Jīntiān bú huì xià yǔ.)",
+              "translationA": "Hôm nay có mưa không? (Ở phòng tập)",
+              "translationB": "Hôm nay không mưa."
+            },
+            {
+              "speakerA": "王小姐今天会来吗？ (Wáng xiǎojiě jīntiān huì lái ma?)",
+              "speakerB": "不会来，天气太冷了。 (Bú huì lái, tiānqì tài lěng le.)",
+              "translationA": "Cô Vương hôm nay đến không?",
+              "translationB": "Không đến, thời tiết lạnh quá."
+            },
+            {
+              "speakerA": "你身体怎么样？ (Nǐ shēntǐ zěnmeyàng?)",
+              "speakerB": "我身体不太好。天气太热了，不爱吃饭。 (Wǒ shēntǐ bú tài hǎo. Tiānqì tài rè le, bú ài chī fàn.)",
+              "translationA": "Sức khỏe bạn thế nào? (Trong phòng bệnh)",
+              "translationB": "Sức khỏe tôi không tốt lắm. Thời tiết nóng quá, không muốn ăn cơm."
+            },
+            {
+              "speakerA": "你多吃些水果，多喝水。 (Nǐ duō chī xiē shuǐguǒ, duō hē shuǐ.)",
+              "speakerB": "谢谢你，医生。 (Xièxie nǐ, yīshēng.)",
+              "translationA": "Bạn ăn nhiều trái cây vào, uống nhiều nước.",
+              "translationB": "Cảm ơn bác sĩ."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 太……了 (tài... le) | B. 多 (duō) | C. 爱 (ài) | D. 名字 (míngzi) | E. 些 (xiē) | F. 怎么样 (zěnmeyàng)",
+              "questions": [
+                {
+                  "id": "26",
+                  "text": "北京的天气 ( ___ ) ？",
+                  "answer": "F",
+                  "pinyin": "Běijīng de tiānqì ___ ?"
+                },
+                {
+                  "id": "27",
+                  "text": "你 ( ___ ) uống nước, thời tiết nóng quá rồi.",
+                  "answer": "B",
+                  "pinyin": "Nǐ ___ hē shuǐ, tiānqì tài rè le."
+                },
+                {
+                  "id": "28",
+                  "text": "Chúng tôi không muốn ở đây, ở đây ( Thái ) lạnh ( ___ ) .",
+                  "answer": "A",
+                  "pinyin": "Wǒmen bù xiǎng zhù zhèr, zhèr Tài lěng ___ ."
+                },
+                {
+                  "id": "29",
+                  "text": "Tuần này sức khỏe tôi không tốt lắm, không ( ___ ) ăn cơm.",
+                  "answer": "C",
+                  "pinyin": "Zhège xīngqī wǒ shēntǐ bú tài hǎo, bù ___ chī fàn."
+                },
+                {
+                  "id": "30",
+                  "text": "Thời tiết rất nóng, bạn ăn nhiều ( ___ ) hoa quả.",
+                  "answer": "E",
+                  "pinyin": "Tiānqì hěn rè, nǐ duō chī ___ shuǐguǒ."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 13,
+          "lessonTitle": "他在学做中国菜呢。",
+          "vocabulary": [
+            {
+              "hanzi": "喂",
+              "pinyin": "wèi",
+              "meaning": "a lô, này",
+              "example": "喂，你在做什么？",
+              "analysis": "Chứa bộ Khẩu (口). Dùng miệng để cất tiếng gọi/nghe máy."
+            },
+            {
+              "hanzi": "也",
+              "pinyin": "yě",
+              "meaning": "cũng",
+              "example": "我也在学习。",
+              "analysis": "Phó từ diễn tả sự tương đồng, giống nhau."
+            },
+            {
+              "hanzi": "学习",
+              "pinyin": "xuéxí",
+              "meaning": "học tập",
+              "example": "学习汉语。",
+              "analysis": "Chữ 习 (Tập) mang nghĩa con chim tập vỗ cánh nhiều lần cho quen."
+            },
+            {
+              "hanzi": "上午",
+              "pinyin": "shàngwǔ",
+              "meaning": "buổi sáng",
+              "example": "上午我在学校。",
+              "analysis": "Chữ 午 (Ngọ) chỉ mốc thời gian."
+            },
+            {
+              "hanzi": "睡觉",
+              "pinyin": "shuìjiào",
+              "meaning": "ngủ",
+              "example": "他在睡觉。",
+              "analysis": "Chữ 睡 chứa bộ Mục (目) là con mắt. Ngủ thì phải nhắm mắt lại."
+            },
+            {
+              "hanzi": "电视",
+              "pinyin": "diànshì",
+              "meaning": "tivi",
+              "example": "看电视。",
+              "analysis": "Chữ 视 (thị) chứa bộ Kiến (见) liên quan đến việc nhìn bằng mắt."
+            },
+            {
+              "hanzi": "喜欢",
+              "pinyin": "xǐhuan",
+              "meaning": "thích",
+              "example": "我喜欢看电影。",
+              "analysis": "Chữ 欢 chứa bộ Khiếm (欠). Diễn tả sự yêu thích."
+            },
+            {
+              "hanzi": "给",
+              "pinyin": "gěi",
+              "meaning": "cho",
+              "example": "给我打电话。",
+              "analysis": "Chứa bộ Mịch (纟). Giới từ giới thiệu đối tượng tiếp nhận hành động."
+            },
+            {
+              "hanzi": "打电话",
+              "pinyin": "dǎ diànhuà",
+              "meaning": "gọi điện thoại",
+              "example": "他在打电话。",
+              "analysis": "Chữ 打 (đánh/gọi) chứa bộ Thủ (扌) biểu thị hành động dùng tay thao tác bấm máy."
+            },
+            {
+              "hanzi": "吧",
+              "pinyin": "ba",
+              "meaning": "nhé, đi",
+              "example": "我们去吧。",
+              "analysis": "Trợ từ ngữ khí mang bộ Khẩu (口). Đặt cuối câu để đưa ra đề nghị mềm mỏng."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Cấu trúc \"在...呢\"",
+              "formula": "S + 在 + V + 呢",
+              "explanation": "Diễn tả hành động đang diễn ra.",
+              "example": "他在学做中国菜呢。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "昨天上午你在做什么呢？ (Zuótiān shàngwǔ nǐ zài zuò shénme ne?)",
+              "speakerB": "我在睡觉呢。你呢？ (Wǒ zài shuì jiào ne. Nǐ ne?)",
+              "translationA": "Sáng hôm qua bạn đang làm gì? (Ở quán cà phê)",
+              "translationB": "Tôi đang ngủ. Còn bạn?"
+            },
+            {
+              "speakerA": "我在家看电视呢。你喜欢看电视 ma? (Wǒ zài jiā kàn diànshì ne. Nǐ xǐhuan kàn diànshì ma?)",
+              "speakerB": "我不喜欢看电视，我喜欢看电影。 (Wǒ bù xǐhuan kàn diànshì, wǒ xǐhuan kàn diànyǐng.)",
+              "translationA": "Tôi ở nhà xem tivi. Bạn thích xem tivi không?",
+              "translationB": "Tôi không thích xem tivi, tôi thích xem phim."
+            },
+            {
+              "speakerA": "82304155，这是李老师的电话吗？ (Bā'èrsānliángsìyāo wǔ wǔ, zhè shì Lǐ lǎoshī de diànhuà ma?)",
+              "speakerB": "不是。她的电话是82304156。 (Bú shì. Tā de diànhuà shì bā'èrsānliángsìyāo wǔ liù.)",
+              "translationA": "82304155, đây là số điện thoại của cô Lý à? (Văn phòng trường)",
+              "translationB": "Không phải. Số điện thoại cô ấy là 82304156."
+            },
+            {
+              "speakerA": "好，我现在给她打电话。 (Hǎo, wǒ xiànzài gěi tā dǎ diànhuà.)",
+              "speakerB": "她在工作呢，你下午打吧。 (Tā zài gōngzuò ne, nǐ xiàwǔ dǎ ba.)",
+              "translationA": "Được, bây giờ tôi gọi cho cô ấy.",
+              "translationB": "Cô ấy đang làm việc, chiều hãy gọi nhé."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 在下雨呢。\nB. 我和朋友在看书呢。\nC. 我没看电视，我在学习呢。\nD. 在家吃吧。\nE. 我喜欢喝水。\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "21",
+                  "text": "今天我们去哪儿吃饭？",
+                  "answer": "D"
+                },
+                {
+                  "id": "22",
+                  "text": "昨天下午你在家做什么呢？",
+                  "answer": "B"
+                },
+                {
+                  "id": "23",
+                  "text": "你喜欢喝茶吗？",
+                  "answer": "E"
+                },
+                {
+                  "id": "24",
+                  "text": "今天天气怎么样？",
+                  "answer": "A"
+                },
+                {
+                  "id": "25",
+                  "text": "你在看电视吗？",
+                  "answer": "C"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 14,
+          "lessonTitle": "她买了不少衣服。",
+          "vocabulary": [
+            {
+              "hanzi": "东西",
+              "pinyin": "dōngxi",
+              "meaning": "đồ đạc",
+              "example": "买东西。",
+              "analysis": "Ghép từ chữ Đông (东) và Tây (西)."
+            },
+            {
+              "hanzi": "一点儿",
+              "pinyin": "yìdiǎnr",
+              "meaning": "một ít",
+              "example": "我买了一点儿苹果。",
+              "analysis": "Số lượng cực kỳ ít."
+            },
+            {
+              "hanzi": "苹果",
+              "pinyin": "píngguǒ",
+              "meaning": "táo",
+              "example": "这些苹果很大。",
+              "analysis": "Chữ 苹 chứa bộ Thảo đầu (艹) vì là thực vật."
+            },
+            {
+              "hanzi": "看见",
+              "pinyin": "kànjiàn",
+              "meaning": "nhìn thấy",
+              "example": "我看见张先生了。",
+              "analysis": "Chữ 见 có bộ Mục (目) và bộ Nhân (人) biểu thị việc người trợn tròn mắt nhìn."
+            },
+            {
+              "hanzi": "先生",
+              "pinyin": "xiānsheng",
+              "meaning": "ông, ngài",
+              "example": "王先生。",
+              "analysis": "Danh xưng lịch sự dành cho nam giới."
+            },
+            {
+              "hanzi": "开",
+              "pinyin": "kāi",
+              "meaning": "mở, lái",
+              "example": "开车。",
+              "analysis": "Hình ảnh hai tay đang kéo rút chốt mở cửa, nay dùng với nghĩa lái xe (khởi động)."
+            },
+            {
+              "hanzi": "车",
+              "pinyin": "chē",
+              "meaning": "xe",
+              "example": "他在开车。",
+              "analysis": "Mô phỏng hình công cụ có hai bánh xe ở hai bên."
+            },
+            {
+              "hanzi": "回来",
+              "pinyin": "huílái",
+              "meaning": "quay về",
+              "example": "他什么时候回来？",
+              "analysis": "Chữ 回 (hồi) mang hình ảnh dòng nước uốn lượn xoáy tròn trở về điểm xuất phát."
+            },
+            {
+              "hanzi": "后",
+              "pinyin": "hòu",
+              "meaning": "sau",
+              "example": "四点后。",
+              "analysis": "Chỉ mốc thời gian diễn ra sau một điểm cố định."
+            },
+            {
+              "hanzi": "漂亮",
+              "pinyin": "piàoliang",
+              "meaning": "đẹp",
+              "example": "这些衣服很漂亮。",
+              "analysis": "Tính từ dùng để khen ngợi nhan sắc hay đồ vật."
+            },
+            {
+              "hanzi": "少",
+              "pinyin": "shǎo",
+              "meaning": "ít",
+              "example": "不少。",
+              "analysis": "Chữ đơn thể, hình dạng hạt cát nhỏ, mô tả số lượng ít ỏi."
+            },
+            {
+              "hanzi": "都",
+              "pinyin": "dōu",
+              "meaning": "đều",
+              "example": "我们都是学生。",
+              "analysis": "Phó từ bao quát, tóm gọn toàn bộ đối tượng đã nhắc đến."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Trợ từ \"了\"",
+              "formula": "V + 了",
+              "explanation": "Diễn tả sự việc đã xảy ra.",
+              "example": "她买了不少衣服。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "昨天上午你去哪儿了？ (Zuótiān shàngwǔ nǐ qù nǎr le?)",
+              "speakerB": "我去商店买东西了。 (Wǒ qù shāngdiàn mǎi dōngxi le.)",
+              "translationA": "Sáng hôm qua bạn đi đâu? (Ở ký túc xá)",
+              "translationB": "Tôi đi cửa hàng mua đồ."
+            },
+            {
+              "speakerA": "你买什么了？ (Nǐ mǎi shénme le?)",
+              "speakerB": "我买了一点儿苹果。 (Wǒ mǎi le yìdiǎnr píngguǒ.)",
+              "translationA": "Bạn mua gì?",
+              "translationB": "Tôi mua một ít táo."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 我去了。\nB. 我买了一点儿苹果。\nC. 是，这些 đều là của anh ta.\nD. Cảm ơn, tôi thích mua đồ đẹp.\nE. Nhìn thấy rồi, anh lái xe đi trường rồi.\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "21",
+                  "text": "昨天下午你去商店了吗？",
+                  "answer": "A"
+                },
+                {
+                  "id": "22",
+                  "text": "你买水果了吗？",
+                  "answer": "B"
+                },
+                {
+                  "id": "23",
+                  "text": "你看见小王了吗？",
+                  "answer": "E"
+                },
+                {
+                  "id": "24",
+                  "text": "你的衣服太漂亮了！",
+                  "answer": "D"
+                },
+                {
+                  "id": "25",
+                  "text": "这些东西是王老师的吗？",
+                  "answer": "C"
+                }
+              ]
+            },
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 一点儿 (yìdiǎnr) | B. 不少 (bù shǎo) | C. 都 (dōu) | D. 名字 (míngzi) | E. 回来 (huílái) | F. 看见 (kànjiàn)",
+              "questions": [
+                {
+                  "id": "26",
+                  "text": "Các bạn đều đến nhà tôi ăn cơm đi, tôi đã nấu ( ___ ) thức ăn.",
+                  "answer": "B",
+                  "pinyin": "Nǐmen dōu lái wǒ jiā chī fàn ba, wǒ zuòle ___ cài."
+                },
+                {
+                  "id": "27",
+                  "text": "Hôm nay thứ sáu, tôi muốn xem phim, bạn khi nào ( ___ ) ?",
+                  "answer": "E",
+                  "pinyin": "Jīntiān xīngqīwǔ, wǒ xiǎng kàn diànyǐng, nǐ shénme shíhou ___ ?"
+                },
+                {
+                  "id": "28",
+                  "text": "Tôi chưa ( ___ ) bạn gái thầy Vương, đẹp lắm hả?",
+                  "answer": "F",
+                  "pinyin": "Wǒ méi ___ Wáng lǎoshī de nǚpéngyou, hěn piàoliang ba?"
+                },
+                {
+                  "id": "29",
+                  "text": "Cô Trương sống ở đây, mèo nhỏ và chó nhỏ ( ___ ) là của cô ấy.",
+                  "answer": "C",
+                  "pinyin": "Zhāng xiǎojiě zhù zài zhèr, xiǎo māo hé xiǎo gǒu ___ shì tā de."
+                },
+                {
+                  "id": "30",
+                  "text": "Bạn ăn ít quá, ăn thêm ( ___ ) đi.",
+                  "answer": "A",
+                  "pinyin": "Nǐ chī de tài shǎo le, duō chī ___ ba."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "lessonId": 15,
+          "lessonTitle": "我是坐飞机来的。",
+          "vocabulary": [
+            {
+              "hanzi": "认识",
+              "pinyin": "rènshi",
+              "meaning": "quen biết",
+              "example": "认识你很高兴。",
+              "analysis": "Cả hai chữ đều chứa bộ Ngôn (讠), ý nói gặp gỡ phải dùng ngôn ngữ chào hỏi nhau mới quen biết."
+            },
+            {
+              "hanzi": "年",
+              "pinyin": "nián",
+              "meaning": "năm",
+              "example": "二〇一一年。",
+              "analysis": "Hình ảnh người nông dân cõng ngũ cốc vừa thu hoạch, đánh dấu hoàn thành 1 năm."
+            },
+            {
+              "hanzi": "大学",
+              "pinyin": "dàxué",
+              "meaning": "đại học",
+              "example": "在北京大学。",
+              "analysis": "Chữ 大 có hình người giang tay chân, chỉ bậc giáo dục cao."
+            },
+            {
+              "hanzi": "饭店",
+              "pinyin": "fàndiàn",
+              "meaning": "nhà hàng/khách sạn",
+              "example": "在饭店门口。",
+              "analysis": "Chữ 饭 chứa bộ Thực (饣) chuyên dùng cho chữ liên quan thức ăn."
+            },
+            {
+              "hanzi": "出租车",
+              "pinyin": "chūzūchē",
+              "meaning": "taxi",
+              "example": "坐出租车。",
+              "analysis": "Chữ 出 (xuất) mô tả hình ảnh bàn chân bước ra ngoài cửa."
+            },
+            {
+              "hanzi": "一起",
+              "pinyin": "yìqǐ",
+              "meaning": "cùng nhau",
+              "example": "我们一起去。",
+              "analysis": "Phó từ biểu thị hành động diễn ra đồng thời cùng nhiều người. Chữ 起 có bộ Tẩu (走) là đi."
+            },
+            {
+              "hanzi": "高兴",
+              "pinyin": "gāoxìng",
+              "meaning": "vui vẻ",
+              "example": "很高兴。",
+              "analysis": "Tính từ diễn tả trạng thái hân hoan, vui mừng."
+            },
+            {
+              "hanzi": "听",
+              "pinyin": "tīng",
+              "meaning": "nghe",
+              "example": "听老师说。",
+              "analysis": "Chứa bộ Khẩu (口). Động từ tiếp nhận thông tin âm thanh."
+            },
+            {
+              "hanzi": "飞机",
+              "pinyin": "fēijī",
+              "meaning": "máy bay",
+              "example": "坐飞机来北京。",
+              "analysis": "Chữ 飞 (phi) vẽ đúng hình ảnh đôi cánh chim đang tung bay trên trời."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Cấu trúc \"是...的\"",
+              "formula": "是 + Cách thức + V + 的",
+              "explanation": "Dùng để nhấn mạnh chi tiết của sự việc đã xảy ra.",
+              "example": "我是坐飞机来的。"
+            }
+          ],
+          "dialogues": [
+            {
+              "speakerA": "你们是怎么来饭店的？ (Nǐmen shì zěnme lái fàndiàn de?)",
+              "speakerB": "我们是坐出租车来的。 (Wǒmen shì zuò chūzūchē lái de.)",
+              "translationA": "Các bạn đến nhà hàng bằng cách nào? (Trước khách sạn)",
+              "translationB": "Chúng tôi đi taxi đến."
+            },
+            {
+              "speakerA": "李先生呢？ (Lǐ xiānsheng ne?)",
+              "speakerB": "他是和朋友一起开车来的。 (Tā shì hé péngyou yìqǐ kāi chē lái de.)",
+              "translationA": "Còn ông Lý?",
+              "translationB": "Ông ấy cùng bạn lái xe đến."
+            },
+            {
+              "speakerA": "很高兴认识您！李小姐。 (Hěn gāoxìng rènshi nín! Lǐ xiǎojiě.)",
+              "speakerB": "认识你我也很高兴！ (Rènshi nǐ wǒ yě hěn gāoxìng!)",
+              "translationA": "Rất vui được quen biết cô! Cô Lý. (Trong công ty)",
+              "translationB": "Quen biết anh tôi cũng rất vui!"
+            },
+            {
+              "speakerA": "听张先生说，您是坐飞机来北京的？ (Tīng Zhāng xiānsheng shuō, nín shì zuò fēijī lái Běijīng de?)",
+              "speakerB": "是的。 (Shì de.)",
+              "translationA": "Nghe ông Trương nói, cô đáp máy bay đến Bắc Kinh à?",
+              "translationB": "Đúng vậy."
+            }
+          ],
+          "exercises": [
+            {
+              "type": "match",
+              "title": "Nối câu hỏi và câu trả lời",
+              "options": "A. 我们是大学同学。\nB. 我也很高兴。\nC. 在一个小商店买的。\nD. 明天吧，小王 là hôm nay đi.\nE. Tôi nhìn thấy anh ta lái xe về nhà rồi.\nF. 好的，谢谢！ (Ví dụ)",
+              "questions": [
+                {
+                  "id": "21",
+                  "text": "你们是怎么认识的？",
+                  "answer": "A"
+                },
+                {
+                  "id": "22",
+                  "text": "你的衣服是在哪儿买的？",
+                  "answer": "C"
+                },
+                {
+                  "id": "23",
+                  "text": "小王回家了吗？",
+                  "answer": "E"
+                },
+                {
+                  "id": "24",
+                  "text": "我很高兴你来我们学校。",
+                  "answer": "B"
+                },
+                {
+                  "id": "25",
+                  "text": "你想什么时候去？",
+                  "answer": "D"
+                }
+              ]
+            },
+            {
+              "type": "workbook",
+              "title": "Điền từ ngữ thích hợp vào chỗ trống",
+              "options": "A. 认识 (rènshi) | B. 坐 (zuò) | C. 一起 (yìqǐ) | D. 名字 (míngzi) | E. 高兴 (gāoxìng) | F. 听 (tīng)",
+              "questions": [
+                {
+                  "id": "26",
+                  "text": "( ___ ) 老师说，明天我们去看电影。",
+                  "answer": "F",
+                  "pinyin": "___ lǎoshī shuō, míngtiān wǒmen qù kàn diànyǐng."
+                },
+                {
+                  "id": "27",
+                  "text": "Chúng tôi biết nhau trên ( ___ ) máy bay.",
+                  "answer": "A",
+                  "pinyin": "Wǒmen shì zài fēijī shang ___ de."
+                },
+                {
+                  "id": "28",
+                  "text": "Tôi không thích ( ___ ) taxi, tôi thích lái xe.",
+                  "answer": "B",
+                  "pinyin": "Wǒ bù xǐhuan ___ chūzūchē, wǒ xǐhuan kāi chē."
+                },
+                {
+                  "id": "29",
+                  "text": "Bạn muốn cùng chúng tôi ( ___ ) đi mua đồ không?",
+                  "answer": "C",
+                  "pinyin": "Nǐ xiǎng bu xiǎng hé wǒmen ___ qù shāngdiàn mǎi yīfu?"
+                },
+                {
+                  "id": "30",
+                  "text": "Hôm nay thời tiết rất tốt, tôi rất ( ___ ) 。",
+                  "answer": "E",
+                  "pinyin": "Jīntiān tiānqì hěn hǎo, wǒ hěn ___ ."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "HSK 2",
+      "lessons": [
+        {
+          "lessonId": 1,
+          "lessonTitle": "九月去北京旅游最好。",
+          "vocabulary": [
+            {
+              "hanzi": "旅游",
+              "pinyin": "lǚyóu",
+              "meaning": "Du lịch",
+              "analysis": "Chữ 游 (du) có chứa bộ Thủy (氵) ở bên trái, liên quan đến nước hoặc sự bơi lội, di chuyển trên mặt nước.",
+              "example": "我要去北京旅游，你觉得什么时候去最好？ (Tôi muốn đi Bắc Kinh du lịch, bạn thấy khi nào đi là tốt nhất?)"
+            },
+            {
+              "hanzi": "觉得",
+              "pinyin": "juéde",
+              "meaning": "Cảm thấy, cho rằng",
+              "analysis": "Chữ 觉 (giác) có chứa bộ Kiến (见) ở dưới cùng, mang ý nghĩa là \"nhìn thấy, nhận thức được\".",
+              "example": "你觉得什么时候去最好？ (Bạn cảm thấy khi nào đi là tốt nhất?)"
+            },
+            {
+              "hanzi": "最",
+              "pinyin": "zuì",
+              "meaning": "Nhất",
+              "analysis": "Phía trên là bộ Viết (曰) (nói), phía dưới là chữ 取 (lấy). Gom lại mang ý nghĩa chọn lấy cái nổi bật nhất.",
+              "example": "九月的北京天气不冷也不热，去北京旅游最好。 (Thời tiết Bắc Kinh tháng 9 không lạnh cũng không nóng, đi du lịch là tốt nhất.)"
+            },
+            {
+              "hanzi": "为什么",
+              "pinyin": "wèi shénme",
+              "meaning": "Tại sao",
+              "analysis": "Chữ 为 (wèi) có phồn thể là 爲, hình tượng gốc vẽ một bàn tay đang dắt con voi đi làm việc cho người",
+              "example": "为什么？ (Tại sao?)"
+            },
+            {
+              "hanzi": "也",
+              "pinyin": "yě",
+              "meaning": "Cũng",
+              "analysis": "Chữ 也 (dã) có hình dạng mô phỏng một con rắn đang ngóc đầu uốn lượn, sau này được mượn làm phó từ mang nghĩa \"cũng\"",
+              "example": "九月的北京天气不冷也不热。 (Thời tiết Bắc Kinh tháng 9 không lạnh cũng không nóng.)"
+            },
+            {
+              "hanzi": "运动",
+              "pinyin": "yùndòng",
+              "meaning": "Thể thao, vận động",
+              "analysis": "Chữ 运 (vận) có chứa bộ Xước (辶), luôn liên quan đến việc đi lại, di chuyển.",
+              "example": "你喜欢什么运动？ (Bạn thích môn thể thao nào?)"
+            },
+            {
+              "hanzi": "踢足球",
+              "pinyin": "tī zúqiú",
+              "meaning": "Đá bóng",
+              "analysis": "Chữ 踢 (đá) và 足 (bóng đá) đều có chứa bộ Túc (足) liên quan đến cái chân",
+              "example": "我最喜欢踢足球。 (Tôi thích đá bóng nhất.)"
+            },
+            {
+              "hanzi": "一起",
+              "pinyin": "yìqǐ",
+              "meaning": "Cùng nhau",
+              "analysis": "Chữ 起 (khởi) có chứa bộ Tẩu (走), biểu thị hành động bước đi, khởi hành.",
+              "example": "下午我们一起去踢足球吧。 (Buổi chiều chúng ta cùng nhau đi đá bóng nhé.)"
+            },
+            {
+              "hanzi": "要",
+              "pinyin": "yào",
+              "meaning": "Muốn, cần",
+              "analysis": "Phía trên là bộ Á (襾), phía dưới là bộ Nữ (女).",
+              "example": "我要去北京旅游。 (Tôi muốn đi Bắc Kinh du lịch.)"
+            },
+            {
+              "hanzi": "新",
+              "pinyin": "xīn",
+              "meaning": "Mới",
+              "analysis": "Chữ 新 (tân) có chứa bộ Cân (斤) hình cái rìu, biểu tượng của việc đốn củi, tạo ra đồ vật mới.",
+              "example": "王方买一个新杯子。 (Vương Phương mua một chiếc ly mới.)"
+            },
+            {
+              "hanzi": "它",
+              "pinyin": "tā",
+              "meaning": "Nó (chỉ vật/động vật)",
+              "analysis": "Có chứa bộ Miên (宀) (mái nhà) ở trên. Khác với đại từ chỉ người (他/她).",
+              "example": "我的小猫不想吃东西，我觉得它生病了。 (Con mèo của tôi không muốn ăn, tôi thấy nó ốm rồi.)"
+            },
+            {
+              "hanzi": "眼睛",
+              "pinyin": "yǎnjing",
+              "meaning": "Mắt",
+              "analysis": "Cả chữ 眼 và 睛 đều có chứa bộ Mục (目) mang ý nghĩa là con mắt.",
+              "example": "你们班有没有一个着大眼睛、爱穿红衣服的学生？ (Lớp các bạn có học sinh nào mắt to, thích mặc áo đỏ không?)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Trợ động từ \"要\" (yào - muốn, cần)",
+              "formula": "Chủ ngữ + 要 + Động từ + Tân ngữ",
+              "explanation": "Dùng trước động từ để diễn tả một nguyện vọng, mong muốn thực hiện việc gì đó. Phủ định của nó thường dùng \"不想\" (bù xiǎng - không muốn).",
+              "example": "我要去北京旅游。 (Tôi muốn đi Bắc Kinh du lịch.) / 我不想去。 (Tôi không muốn đi.)"
+            },
+            {
+              "title": "Phó từ chỉ mức độ \"最\" (zuì - nhất)",
+              "formula": "最 + Tính từ / Động từ tâm lý",
+              "explanation": "Đứng trước tính từ hoặc động từ chỉ tâm lý để biểu thị mức độ cao nhất.",
+              "example": "大卫的汉语最好。 (Tiếng Trung của David tốt nhất.) / 我最喜欢吃米饭。 (Tôi thích ăn cơm nhất.)"
+            },
+            {
+              "title": "Cách diễn tả số ước lượng \"几\" (jǐ) và \"多\" (duō)",
+              "formula": "几 + Lượng từ + Danh từ (Ví dụ: 几个老师 - Vài giáo viên). Nếu dùng với \"十\" (mười) để chỉ số từ 10 đến 99: 十几个人 (Mười mấy người). Dùng \"多\" (hơn): Nếu số lượng < 10: Số đếm + Lượng từ + 多 + Danh từ. (Ví dụ: 三个多星期 - Hơn 3 tuần). Nếu số lượng > 10 (số chẵn chục): Số đếm + 多 + Lượng từ + Danh từ. (Ví dụ: 十多个月 - Hơn mười tháng).",
+              "explanation": "Dùng \"几\" (mấy, vài): Chỉ số lượng không xác định dưới 10.",
+              "example": ""
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 为什么 B. 要 C. 最 D. 觉得 E. 贵 F. 也\n21. 王方 ( ___ ) 买一个新杯子。\n22. 昨天你 ( ___ ) 没来我家吃饭？\n23. 我 ( ___ ) 这个衣服太大了，你看看那个吧。\n24. 我的小猫两岁多了，大卫的小猫 ( ___ ) 两岁多了。\n25. 王老师 ( ___ ) 喜欢吃苹果。",
+              "answer": "21-B, 22-A, 23-D, 24-F, 25-C",
+              "hint": "Chú ý ngữ cảnh của câu. 21 cần động từ muốn/cần. 22 hỏi nguyên nhân. 23 diễn đạt ý kiến. 24 thể hiện sự tương đồng. 25 chỉ mức độ cao nhất."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai\n26. 她喜欢在家看电影，也喜欢睡觉，不喜欢出去。 ➔ 她最喜欢运动。 ( ___ )\n27. 王小姐的小猫在我家，我的小猫在我妈妈家。 ➔ 我有一只小猫。 ( ___ )\n28. 我不想买桌子，我要买几个新椅子。 ➔ 我要去商店买桌子。 ( ___ )\n29. 听说你在学做中国菜呢，我们一起做吧。 ➔ 他们要一起做中国菜。 ( ___ )\n30. 八月北京很热，九月天气好，你来吧。 ➔ 八月去北京旅游最好。 ( ___ )",
+              "answer": "26-Sai, 27-Đúng, 28-Sai, 29-Đúng, 30-Sai",
+              "hint": "Đọc kĩ nghĩa câu gốc và so sánh với câu Phán đoán."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 桌子上有一本新书。那是你的书吗？ B. 王老师什么时候能到？ C. 他们都去踢足球了，你去不去？ D. 这个小猫很漂亮。它多大了？ E. 他在哪儿呢？你看见他了吗？(Ví dụ) F. 你为什么不开车去学校？\n31. 不是我的，我没买书。 ( ___ )\n32. 三岁多。 ( ___ )\n33. 他已经走了，十分钟后能到。 ( ___ )\n34. 我没时间，明天吧。 ( ___ )\n35. 我不想开，我觉得坐出租车很好。 ( ___ )",
+              "answer": "31-A, 32-D, 33-B, 34-C, 35-F",
+              "hint": "Tìm sự liên kết về nội dung (ví dụ: tuổi con mèo, ai đó đến lúc nào)."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 跑 B. 跳 C. 玩 D. 球 E. 路 F. 现 G. 趴 H. 玥\nThuộc bộ Ngọc (王): ________\nThuộc bộ Túc (足): ________",
+              "answer": "Bộ Ngọc: C, D, F, H. Bộ Túc: A, B, E, G.",
+              "hint": "Nhìn phía trước của các chữ Hán để xác định bộ Vương/Ngọc (王) hoặc bộ Túc (足)."
+            }
+          ]
+        },
+        {
+          "lessonId": 2,
+          "lessonTitle": "我每天六点起床。",
+          "vocabulary": [
+            {
+              "hanzi": "生病",
+              "pinyin": "shēng bìng",
+              "meaning": "Bị ốm",
+              "analysis": "Chữ 生 (sinh) có hình dáng gốc là cây cỏ đâm chồi trên mặt đất",
+              "example": "我的小猫生病了，你知道去哪个医院好吗？ (Con mèo của tôi bị ốm rồi, bạn biết đi bệnh viện nào tốt không?)"
+            },
+            {
+              "hanzi": "每",
+              "pinyin": "měi",
+              "meaning": "Mỗi",
+              "analysis": "Chữ 每 chứa bộ Vô (毋) và bộ Mẫu (母) chỉ người mẹ.",
+              "example": "我每天六点起床。 (Tôi thức dậy lúc 6 giờ mỗi ngày.)"
+            },
+            {
+              "hanzi": "早上",
+              "pinyin": "zǎoshang",
+              "meaning": "Buổi sáng",
+              "analysis": "Chữ 早 (tảo) có bộ Nhật (日) là mặt trời mọc, ngụ ý sự bắt đầu một ngày mới.",
+              "example": "妈妈每天早上七点前起床。 (Mẹ mỗi ngày thức dậy trước 7 giờ sáng.)"
+            },
+            {
+              "hanzi": "跑步",
+              "pinyin": "pǎobù",
+              "meaning": "Chạy bộ",
+              "analysis": "Chữ 跑 (chạy) chứa bộ Túc (足) ở bên trái, vì hành động chạy phải dùng đến đôi chân",
+              "example": "我每天下午和同学一起去跑步。 (Mỗi chiều tôi đều cùng bạn học đi chạy bộ.)"
+            },
+            {
+              "hanzi": "起床",
+              "pinyin": "qǐ chuáng",
+              "meaning": "Thức dậy",
+              "analysis": "Chữ 床 (giường) chứa bộ Nghiễm (广) mang hình dáng một tòa nhà rộng hay mái hiên",
+              "example": "妈妈每天早上七点前起床。 (Mẹ mỗi ngày thức dậy trước 7 giờ sáng.)"
+            },
+            {
+              "hanzi": "药",
+              "pinyin": "yào",
+              "meaning": "Thuốc",
+              "analysis": "Chữ 药 có bộ Thảo đầu (艹) ở trên cùng, vì y học cổ truyền Trung Hoa đa phần dùng thảo mộc (cỏ cây) làm thuốc.",
+              "example": "这个药每天中午吃，晚饭后不要吃。 (Thuốc này uống vào buổi trưa mỗi ngày, sau bữa tối không được uống.)"
+            },
+            {
+              "hanzi": "身体",
+              "pinyin": "shēntǐ",
+              "meaning": "Cơ thể, sức khỏe",
+              "analysis": "Chữ 体 (thể) có chứa bộ Nhân đứng (亻) chỉ thân thể con người.",
+              "example": "你身体不好，多喝水，休息一下吧。 (Sức khỏe bạn không tốt, uống nhiều nước, nghỉ ngơi một lát đi.)"
+            },
+            {
+              "hanzi": "出院",
+              "pinyin": "chū yuàn",
+              "meaning": "Xuất viện",
+              "analysis": "Chữ 出 (xuất) mô tả hình ảnh bàn chân đang bước rời khỏi cửa/hang động",
+              "example": "医生说我要住两天院，明天能出院。 (Bác sĩ nói tôi phải nằm viện 2 ngày, ngày mai có thể xuất viện.)"
+            },
+            {
+              "hanzi": "高",
+              "pinyin": "gāo",
+              "meaning": "Cao",
+              "analysis": "Chữ 高 là một chữ tượng hình, vẽ lại hình dáng một lầu gác cao tầng",
+              "example": "我儿子不太高，他今年十四岁，一米五几。 (Con trai tôi không cao lắm, năm nay cháu 14 tuổi, cao 1m5 mấy.)"
+            },
+            {
+              "hanzi": "米",
+              "pinyin": "mǐ",
+              "meaning": "Mét (đơn vị đo)",
+              "analysis": "Chữ 米 nguyên gốc là bộ Mễ (米) chỉ hạt gạo, hạt lúa. Ở đây được mượn âm để phiên dịch từ \"Meter\" (Mét).",
+              "example": "他今年十四岁，一米五几。 (Năm nay cháu 14 tuổi, cao 1m5 mấy.)"
+            },
+            {
+              "hanzi": "知道",
+              "pinyin": "zhīdào",
+              "meaning": "Biết",
+              "analysis": "Chữ 道 (đạo) chứa bộ Xước (辶) chỉ con đường, quá trình đi lại học hỏi để thấu hiểu.",
+              "example": "我的小猫生病了，你知道去哪个医院好吗？ (Con mèo của tôi bị ốm rồi, bạn biết đi bệnh viện nào tốt không?)"
+            },
+            {
+              "hanzi": "休息",
+              "pinyin": "xiūxi",
+              "meaning": "Nghỉ ngơi",
+              "analysis": "Chữ 休 (hưu) gồm bộ Nhân đứng (亻) và bộ Mộc (木). Hình tượng con người tựa lưng vào gốc cây để nghỉ ngơi.",
+              "example": "爸爸每天工作很忙，星期六也不休息。 (Bố mỗi ngày công việc rất bận, thứ bảy cũng không nghỉ ngơi.)"
+            },
+            {
+              "hanzi": "忙",
+              "pinyin": "máng",
+              "meaning": "Bận rộn",
+              "analysis": "Chữ 忙 có chứa bộ Tâm đứng (忄) biểu thị trạng thái tinh thần lo âu, bận rộn trong lòng",
+              "example": "爸爸每天工作很忙。 (Bố mỗi ngày công việc rất bận.)"
+            },
+            {
+              "hanzi": "时间",
+              "pinyin": "shíjiān",
+              "meaning": "Thời gian",
+              "analysis": "Cả hai chữ đều chứa các bộ liên quan: 时 có bộ Nhật (日) (đo thời gian bằng mặt trời); 间 có bộ Môn (门) (khoảng không giữa cánh cửa)",
+              "example": "对不起，我很忙，没时间去看电影。 (Xin lỗi, tôi rất bận, không có thời gian đi xem phim.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Câu hỏi phỏng đoán \"是不是\" (shì bú shì - có phải không)",
+              "formula": "Chủ ngữ + 是不是 + Vị ngữ?",
+              "explanation": "Dùng khi người nói đã có sự phỏng đoán về một sự việc và muốn xác nhận lại xem có đúng không. Có thể đặt \"是不是\" ở trước vị ngữ hoặc đầu câu.",
+              "example": "你很少生病，是不是喜欢运动？ (Bạn rất ít khi ốm, có phải thích thể thao không?) / 是不是明天爸爸休息？ (Có phải ngày mai bố được nghỉ không?)"
+            },
+            {
+              "title": "Đại từ \"每\" (měi - mỗi, mọi)",
+              "formula": "每 + Lượng từ + Danh từ",
+              "explanation": "Dùng trước lượng từ để chỉ từng cá thể trong một tổng thể. Lưu ý: \"天\" (ngày) và \"年\" (năm) bản thân nó đã mang tính chất lượng từ nên không cần thêm lượng từ \"个\" ở giữa.",
+              "example": "每年 (mỗi năm), 每个月 (mỗi tháng), 每天 (mỗi ngày). / 我每天六点起床。 (Mỗi ngày tôi thức dậy lúc 6 giờ.)"
+            },
+            {
+              "title": "Đại từ nghi vấn \"多\" (duō - bao nhiêu)",
+              "formula": "多 + Tính từ (大, 高, 远...)?",
+              "explanation": "Dùng trước tính từ để hỏi về mức độ (thường dùng hỏi tuổi tác, chiều cao, khoảng cách...).",
+              "example": "你今年多大？ (Năm nay bạn bao nhiêu tuổi?) / 他多高？ (Anh ấy cao bao nhiêu?)"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 出去 B. 每 C. 忙 D. 知道 E. 贵 F. 生病\n21. 我们 ( ___ ) 个星期六都工作。\n22. 对不起，我很 ( ___ )，没时间去看电影。\n23. 他不在家，下午四点 ( ___ ) 买东西了。\n24. 我的小猫不想吃东西，我觉得它 ( ___ ) 了。\n25. 我也不 ( ___ ) 北京的天气，你问问小李。",
+              "answer": "21-B, 22-C, 23-A, 24-F, 25-D",
+              "hint": "Cần điền từ hợp ngữ cảnh: 21 (mỗi), 22 (bận), 23 (ra ngoài), 24 (bị ốm), 25 (biết)."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai\n26. 医生说我要住两天院，明天能出院。 ➔ 我今天不能出院。 ( ___ )\n27. 我的小猫生病了，你知道去哪个医院好吗？ ➔ 我的小猫现在好多了。 ( ___ )\n28. 你星期天也去学校吗？太忙了！ ➔ 他星期天不休息。 ( ___ )\n29. 这个药每天中午吃，晚饭后不要吃。 ➔ 每天晚饭后吃药。 ( ___ )\n30. 我儿子不太高，他今年十四岁，一米五几。 ➔ 他儿子今年十多岁。 ( ___ )",
+              "answer": "26-Đúng, 27-Sai, 28-Đúng, 29-Sai, 30-Đúng",
+              "hint": "Hiểu nghĩa câu để tìm sự đối lập hoặc tương đồng."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 他儿子今年八岁了。 B. 星期六也不休息，你工作累不累？ C. 我不喜欢早上运动，我喜欢下午。 D. 医生说他不能出院。 E. 他在哪儿呢？(Ví dụ) F. 你每天什么时候睡觉？\n31. 什么？已经三天了，为什么？ ( ___ )\n32. 我也不喜欢，我早上没时间。 ( ___ )\n33. 是啊，已经一米四了。 ( ___ )\n34. 没关系，星期天我有不少时间休息。 ( ___ )\n35. 九点多吧，很早。我早上起床也很早。 ( ___ )",
+              "answer": "31-D, 32-C, 33-A, 34-B, 35-F",
+              "hint": "Dựa vào ngữ cảnh để tìm câu trả lời tương ứng."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 筷 B. 等 C. 吹 D. 歌 E. 笔 F. 欢 G. 次 H. 第\nThuộc bộ Trúc (⺮): ________\nThuộc bộ Khiếm (欠): ________",
+              "answer": "Bộ Trúc: A, B, E, H. Bộ Khiếm: C, D, F, G.",
+              "hint": "Bộ Trúc (⺮) ở trên đầu; Bộ Khiếm (欠) ở bên phải."
+            }
+          ]
+        },
+        {
+          "lessonId": 3,
+          "lessonTitle": "左边那个红色的是我的。",
+          "vocabulary": [
+            {
+              "hanzi": "手表",
+              "pinyin": "shǒubiǎo",
+              "meaning": "Đồng hồ đeo tay",
+              "analysis": "Chữ 手 (thủ) là chữ tượng hình mô phỏng năm ngón tay xòe ra của bàn tay",
+              "example": "这块手表是你的吗？ (Chiếc đồng hồ này là của bạn phải không?)"
+            },
+            {
+              "hanzi": "千",
+              "pinyin": "qiān",
+              "meaning": "Nghìn",
+              "analysis": "Chữ Thập (十 - mười) thêm một nét phẩy ở trên cùng biểu thị số lượng nhân lên nhiều lần (Nghìn).",
+              "example": "三千多块。 (Hơn ba nghìn đồng.)"
+            },
+            {
+              "hanzi": "报纸",
+              "pinyin": "bàozhǐ",
+              "meaning": "Báo, giấy báo",
+              "analysis": "Chữ 纸 (chỉ) có chứa bộ Mịch (纟). Bộ Mịch liên quan đến tơ lụa, sợi (do thời xưa giấy được làm từ sợi/lụa).",
+              "example": "这块手表是你的吗？ 不是我的。是我爸爸的。多少钱买的？ 三千多块。 (Phân đoạn thoại liên quan đến mua đồ) Ví dụ (cho 报纸): 桌子上的报纸是昨天的，今天送报纸的没来。 (Tờ báo trên bàn là của hôm qua, hôm nay người giao báo chưa đến.)"
+            },
+            {
+              "hanzi": "送",
+              "pinyin": "sòng",
+              "meaning": "Đưa, tặng, giao",
+              "analysis": "Chữ 送 có bộ Xước (辶) biểu thị hành động đi lại, di chuyển (mang đồ đến giao cho ai đó)",
+              "example": "桌子上的报纸是昨天的，今天送报纸的没来。 (Tờ báo trên bàn là của hôm qua, hôm nay người giao báo chưa đến.)"
+            },
+            {
+              "hanzi": "一下",
+              "pinyin": "yíxià",
+              "meaning": "Một chút, một lát",
+              "analysis": "Dùng sau động từ chỉ hành động xảy ra trong thời gian ngắn (xem một chút, thử một lát).",
+              "example": "我看一下。 不是，是送牛奶的。 (Để tôi xem một chút. Không phải, là người giao sữa.)"
+            },
+            {
+              "hanzi": "牛奶",
+              "pinyin": "niúnǎi",
+              "meaning": "Sữa bò",
+              "analysis": "Chữ 牛 (ngưu) hình sừng bò; chữ 奶 (nãi - sữa) có chứa bộ Nữ (女).",
+              "example": "我看一下。 不是，是送牛奶的。 (Để tôi xem một chút. Không phải, là người giao sữa.)"
+            },
+            {
+              "hanzi": "房间",
+              "pinyin": "fángjiān",
+              "meaning": "Căn phòng",
+              "analysis": "Chữ 房 có bộ Hộ (户) chỉ cánh cửa, chữ 间 có bộ Môn (门) đều liên quan đến nhà cửa, phòng ốc",
+              "example": "这个房间不是我的，是丽丽和文文的。 (Căn phòng này không phải của tôi, là của Lệ Lệ và Văn Văn.)"
+            },
+            {
+              "hanzi": "丈夫",
+              "pinyin": "zhàngfu",
+              "meaning": "Chồng",
+              "analysis": "Chữ 丈 (trượng) hình người cầm gậy ; chữ 夫 (phu) là hình ảnh nam giới đã trưởng thành trong gia đình (có cài trâm trên tóc)",
+              "example": "昨天是我的生日，这是我丈夫送给我的。 (Hôm qua là sinh nhật tôi, đây là đồ chồng tôi tặng.)"
+            },
+            {
+              "hanzi": "旁边",
+              "pinyin": "pángbiān",
+              "meaning": "Bên cạnh",
+              "analysis": "Chữ 边 có chứa bộ Xước (辶) chỉ phương hướng, vị trí xung quanh.",
+              "example": "妈妈在做饭呢，爸爸在桌子旁边看报纸呢。 (Mẹ đang nấu cơm, bố đang xem báo ở bên cạnh cái bàn.)"
+            },
+            {
+              "hanzi": "真",
+              "pinyin": "zhēn",
+              "meaning": "Thật, thực sự",
+              "analysis": "Phó từ biểu thị ngữ khí cảm thán (Thật là...).",
+              "example": "今天的天气真好，我们出去玩儿玩儿吧。 (Thời tiết hôm nay thật đẹp, chúng ta ra ngoài chơi chút đi.)"
+            },
+            {
+              "hanzi": "粉色",
+              "pinyin": "fěnsè",
+              "meaning": "Màu hồng",
+              "analysis": "Chữ 粉 (phấn) chứa bộ Mễ (米) (hạt gạo, bột).",
+              "example": "这个房间是丽丽的，她喜欢粉色的房间。 (Căn phòng này là của Lệ Lệ, cô ấy thích phòng màu hồng.)"
+            },
+            {
+              "hanzi": "颜色",
+              "pinyin": "yánsè",
+              "meaning": "Màu sắc",
+              "analysis": "Chữ 颜 (nhan) chứa bộ Hiệt (页) liên quan đến đầu hoặc màu sắc khuôn mặt.",
+              "example": "小王的杯子是什么颜色的？ (Chiếc ly của Tiểu Vương màu gì?)"
+            },
+            {
+              "hanzi": "左边",
+              "pinyin": "zuǒbian",
+              "meaning": "Bên trái",
+              "analysis": "Chữ 左 (tả) có bộ Công (工) ở dưới, tay trái thường cầm công cụ làm việc.",
+              "example": "左边那个红色的是我的。 (Cái màu đỏ ở bên trái là của tôi.)"
+            },
+            {
+              "hanzi": "红色",
+              "pinyin": "hóngsè",
+              "meaning": "Màu đỏ",
+              "analysis": "Chữ 红 (hồng) có chứa bộ Mịch (纟). Chỉ các dải tơ lụa màu đỏ ngày xưa.",
+              "example": "左边那个红色的是我的。 (Cái màu đỏ ở bên trái là của tôi.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Cụm từ có \"的\" (de)",
+              "formula": "Đại từ / Tính từ / Động từ + 的",
+              "explanation": "Khi danh từ trung tâm đã được nhắc đến trước đó hoặc ngữ cảnh đã quá rõ ràng, ta có thể lược bỏ danh từ đó và chỉ dùng \"的\".",
+              "example": "这本书不是我的。 (Cuốn sách này không phải (sách) của tôi. - Lược bỏ chữ 书). / 这个杯子是昨天买的。 (Cái ly này là (cái ly) mua hôm qua.)"
+            },
+            {
+              "title": "Cách dùng \"一下\" (yíxià - một chút, một lát)",
+              "formula": "Động từ + 一下",
+              "explanation": "Đặt sau động từ để diễn tả hành động xảy ra trong thời gian ngắn, làm thử việc gì đó. Nó giúp câu nói nhẹ nhàng, uyển chuyển hơn.",
+              "example": "我看一 下。 (Để tôi xem một chút.) / 你休息一下吧。 (Bạn nghỉ ngơi một lát đi.)"
+            },
+            {
+              "title": "Phó từ ngữ khí \"真\" (zhēn - thật, thật là)",
+              "formula": "真 + Tính từ!",
+              "explanation": "Dùng trong câu cảm thán để biểu thị ý nghĩa \"thật sự là, quả thật là\".",
+              "example": "你真好！ (Bạn thật tốt!) / 你女儿的房间真漂亮！ (Phòng của con gái bạn đẹp thật!)"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 送 B. 真 C. 一下 D. 旁边 E. 贵 F. 千\n21. 今天的天气 ( ___ ) 好，我们出去玩儿玩儿吧。\n22. 我也不知道吃什么，我想 ( ___ )。\n23. 我丈夫在医院呢，我要去给他 ( ___ ) 饭。\n24. 这块手表一 ( ___ ) 多块钱，我有八百块，你有多少钱？\n25. 妈妈在做饭呢，爸爸在桌子 ( ___ ) 看报纸呢。",
+              "answer": "21-B, 22-C, 23-A, 24-F, 25-D",
+              "hint": "Chọn từ phù hợp: 21 (thật sự), 22 (một lát), 23 (giao/gửi), 24 (nghìn), 25 (bên cạnh)."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai\n26. 这个房间是丽丽的，她喜欢粉色的房间。 ➔ 丽丽的房间是粉色的。 ( ___ )\n27. 桌子上的报纸是昨天的，今天送报纸的没来。 ➔ 桌子上的报纸不是今天的。 ( ___ )\n28. 你的药在房间里，这是爸爸的。 ➔ 房间里的药是爸爸的。 ( ___ )\n29. 这块手表是昨天买的，我很喜欢。 ➔ 我昨天买了一块手表。 ( ___ )\n30. 小王，你喜欢哪个颜色的杯子？给你一个。 ➔ 他要给小王一个红色杯子。 ( ___ )",
+              "answer": "26-Đúng, 27-Đúng, 28-Đúng, 29-Đúng, 30-Sai",
+              "hint": "Câu 30 người hỏi chưa đưa sắc đỏ cụ thể, nên Sai."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 我不认识前边的那两个人，他们是谁？ B. 来了，你休息一下吧，看看报纸。 C. 我想给爸爸买一块手表，你觉得这块怎么样？ D. 今天我要给儿子、女儿早饭，丈夫午饭... E. 他在哪儿呢？(Ví dụ) F. 我的房间太小，住不下两个人。\n31. 做三次饭，真累啊！ ( ___ )\n32. 左边的是王老师，旁边的是张老师。 ( ___ )\n33. 没关系，我去大卫家，他家很大。 ( ___ )\n34. 今天的报纸来了吗？ ( ___ )\n35. 我觉得这块很漂亮。 ( ___ )",
+              "answer": "31-D, 32-A, 33-F, 34-B, 35-C",
+              "hint": "31 đáp lại việc mệt mỏi; 32 trả lời 'họ là ai'."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 到 B. 树 C. 杯 D. 机 E. 别 F. 利 G. 刷 H. 林\nThuộc bộ Mộc (木): ________\nThuộc bộ Đao đứng (刂): ________",
+              "answer": "Bộ Mộc: B, C, D, H. Bộ Đao đứng: A, E, F, G.",
+              "hint": "Bộ Mộc (木) có hình cái cây; Bộ Đao đứng (刂) nằm bên phải."
+            }
+          ]
+        },
+        {
+          "lessonId": 4,
+          "lessonTitle": "这个工作是他帮我介绍的。",
+          "vocabulary": [
+            {
+              "hanzi": "生日",
+              "pinyin": "shēngrì",
+              "meaning": "Sinh nhật",
+              "analysis": "Chữ 生 (sinh) mô phỏng mầm cây vươn lên mặt đất chỉ sự sinh ra",
+              "example": "这是我爸爸送给我的，昨天是我的生日。 (Đây là đồ bố tặng cho tôi, hôm qua là sinh nhật tôi.)"
+            },
+            {
+              "hanzi": "快乐",
+              "pinyin": "kuàilè",
+              "meaning": "Vui vẻ, hạnh phúc",
+              "analysis": "Chữ 快 (khoái) chứa bộ Tâm đứng (忄) liên quan đến trạng thái tâm lý. Chữ 乐 (lạc/nhạc) nguồn gốc là hình ảnh một loại nhạc khí tạo ra âm thanh vui nhộn",
+              "example": "祝你生日快乐！ (Chúc bạn sinh nhật vui vẻ!)."
+            },
+            {
+              "hanzi": "给",
+              "pinyin": "gěi",
+              "meaning": "Cho, đưa cho",
+              "analysis": "Chứa bộ Mịch (纟), bộ này thường liên quan đến tơ tằm, vải vóc",
+              "example": "爸爸，您看这本书是给您的。 (Bố, bố xem cuốn sách này là (mua) cho bố đây.)"
+            },
+            {
+              "hanzi": "接",
+              "pinyin": "jiē",
+              "meaning": "Nhận, đón, nghe (điện thoại)",
+              "analysis": "Có chứa bộ Thủ (扌) ở bên trái, đại diện cho bàn tay, vì hành động nhận hay cầm máy đều phải dùng tay",
+              "example": "是王方打的，我没接。 (Là Vương Phương gọi, tôi đã không nghe máy.)"
+            },
+            {
+              "hanzi": "晚上",
+              "pinyin": "wǎnshang",
+              "meaning": "Buổi tối",
+              "analysis": "Chữ 晚 (vãn) có chứa bộ Nhật (日). Khi mặt trời lặn đi thì sẽ là buổi tối.",
+              "example": "昨天晚上是谁打的电话？ (Tối hôm qua là ai đã gọi điện thoại vậy?)"
+            },
+            {
+              "hanzi": "问",
+              "pinyin": "wèn",
+              "meaning": "Hỏi",
+              "analysis": "Chứa bộ Môn (门) (cái cửa) bao quanh bộ Khẩu (口) (cái miệng). Hình tượng đứng trước cửa mở miệng cất tiếng hỏi thăm",
+              "example": "你怎么不问问他？ (Sao bạn không hỏi cậu ấy thử xem?)."
+            },
+            {
+              "hanzi": "非常",
+              "pinyin": "fēicháng",
+              "meaning": "Rất, vô cùng",
+              "analysis": "Chữ 常 (thường) mang nghĩa là bình thường, 非 (phi) là phủ định. Không bình thường (vượt mức bình thường) nghĩa là rất, vô cùng. Phó từ chỉ mức độ.",
+              "example": "非常喜欢。 (Vô cùng thích.)"
+            },
+            {
+              "hanzi": "开始",
+              "pinyin": "kāishǐ",
+              "meaning": "Bắt đầu",
+              "analysis": "Chữ 开 (khai) hình dáng hai tay kéo chốt mở cửa ra",
+              "example": "你是什么时候开始踢足球的？ (Bạn bắt đầu chơi bóng đá từ khi nào vậy?)"
+            },
+            {
+              "hanzi": "已经",
+              "pinyin": "yǐjīng",
+              "meaning": "Đã",
+              "analysis": "Chữ 已 (dĩ) giống hình một con rắn há miệng. Đây là phó từ chỉ sự việc đã hoàn thành hoặc đạt đến một mức độ nào đó.",
+              "example": "我十一岁的时候开始踢足球，已经踢了十年了。 (Tôi bắt đầu đá bóng từ năm 11 tuổi, đã đá được 10 năm rồi.)"
+            },
+            {
+              "hanzi": "长",
+              "pinyin": "cháng",
+              "meaning": "Dài, lâu",
+              "analysis": "Chữ 长 gốc là hình ảnh người già chống gậy. Nay ngoài biểu thị tuổi tác, nó biểu thị khoảng cách về độ dài hoặc thời gian",
+              "example": "你在这儿工作多长时间了？ (Bạn làm việc ở đây bao lâu rồi?)"
+            },
+            {
+              "hanzi": "两",
+              "pinyin": "liǎng",
+              "meaning": "Hai",
+              "analysis": "Chữ 两 có hình dạng giống cái ách được mắc lên cổ của hai con ngựa (một cặp song mã), nên mang ý nghĩa là \"hai\" hoặc \"cặp\"",
+              "example": "已经两年多了，我是2011年来的。 (Đã hơn 2 năm rồi, tôi đến từ năm 2011.)"
+            },
+            {
+              "hanzi": "帮",
+              "pinyin": "bāng",
+              "meaning": "Giúp đỡ",
+              "analysis": "Phần trên cùng mượn âm, phần dưới là bộ Cân (巾) mang hình ảnh dải lụa, khăn",
+              "example": "这个工作是他帮我介绍的。 (Công việc này là ông ấy đã giúp tôi giới thiệu.)"
+            },
+            {
+              "hanzi": "介绍",
+              "pinyin": "jièshào",
+              "meaning": "Giới thiệu",
+              "analysis": "Chữ 绍 chứa bộ Mịch (纟). Bộ Mịch liên quan đến tơ tằm, sợi dây , ngụ ý việc giới thiệu giống như hành động kết nối, chắp nối các mối quan hệ.",
+              "example": "这个工作是他帮我介绍的。 (Công việc này là ông ấy đã giúp tôi giới thiệu.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Cấu trúc nhấn mạnh \"是......的\" (shì... de)",
+              "formula": "Chủ ngữ + (是) + Ai / Khi nào / Ở đâu + Động từ + 的",
+              "explanation": "Dùng để nhấn mạnh người thực hiện, thời gian, địa điểm hoặc cách thức của một hành động đã xảy ra trong quá khứ.",
+              "example": "这本书是我买的。 (Cuốn sách này là do tôi mua. -> Nhấn mạnh người mua) / 晚饭是妈妈做的。 (Bữa tối là mẹ nấu.) / Phủ định: Đặt \"不\" trước \"是\". (这本书不是我买的 - Sách này không phải tôi mua)."
+            },
+            {
+              "title": "Cấu trúc thời gian \"......的时候\" (...de shíhou - lúc, khi)",
+              "formula": "Cấu trúc 1: Cụm từ chỉ số lượng + 的时候 (Ví dụ: 八点的时候我没在家 - Lúc 8 giờ tôi không có ở nhà). Cấu trúc 2: Động từ + 的时候 (Ví dụ: 我睡觉的时候，妈妈在做饭 - Lúc tôi ngủ, mẹ đang nấu cơm).",
+              "explanation": "Dùng để nói về thời điểm diễn ra một sự việc.",
+              "example": ""
+            },
+            {
+              "title": "Phó từ chỉ thời gian \"已经\" (yǐjīng - đã)",
+              "formula": "已经 + Động từ / Cụm từ + 了",
+              "explanation": "Chỉ một hành động đã hoàn thành hoặc trạng thái đã đạt đến một mức độ nào đó. Thường đi kèm với \"了\" ở cuối câu.",
+              "example": "王老师已经回家了。 (Thầy Vương đã về nhà rồi.) / 我的身体已经好了。 (Cơ thể tôi đã khỏe rồi.)"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 介绍 B. 帮 C. 给 D. 非常 E. 贵 F. 已经\n21. 我不能去学校，你 ( ___ ) 我给王老师打个电话吧。\n22. 明天是丽丽的生日，你想送 ( ___ ) 她什么？\n23. 这本书 ( ___ ) 好，我们都看了，你也看看吧。\n24. 医生说你的病 ( ___ ) 好了，明天开始不吃这个药了。\n25. 你认识李先生吗？能不能给我 ( ___ ) 一下。",
+              "answer": "21-B, 22-C, 23-D, 24-F, 25-A",
+              "hint": "Cần chọn từ: 21 (giúp), 22 (cho), 23 (cực kỳ), 24 (đã), 25 (giới thiệu)."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai\n26. 妈妈做晚饭了，晚上我们回家吃饭吧。 ➔ 他们晚上不出去吃饭。 ( ___ )\n27. 下午我睡觉的时候有一个电话，我没接。 ➔ 我不知道电话是谁打的。 ( ___ )\n28. 明天是你的生日，明天晚上我不工作。 ➔ 他明天晚上没有时间。 ( ___ )\n29. 你问一下爸爸什么时候去踢足球。 ➔ 爸爸要踢足球。 ( ___ )\n30. 山姆，我给你介绍一下，这是我的大学同学谢力。 ➔ 我和谢力是大学的时候认识的。 ( ___ )",
+              "answer": "26-Đúng, 27-Đúng, 28-Sai, 29-Đúng, 30-Đúng",
+              "hint": "Câu 28 là anh ấy không bận -> anh ấy CÓ thời gian (Sai)."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 这本书是你什么时候写的？ B. 昨天晚上的电话是谁打的？ C. 你的汉字非常漂亮！ D. 今天我非常高兴，你们多吃点儿。 E. 他在哪儿呢？(Ví dụ) F. 这儿几天我不想吃饭，觉得很累。\n31. 王方打的，她说今天不能去学校了。 ( ___ )\n32. 谢谢！我是大学的时候开始学的。 ( ___ )\n33. 是不是病了？你问一下医生吧。 ( ___ )\n34. 2011年吧，已经两年了。 ( ___ )\n35. 我们也很高兴，生日快乐！ ( ___ )",
+              "answer": "31-B, 32-C, 33-F, 34-A, 35-D",
+              "hint": "31 trả lời ai gọi điện thoại. 32 đáp lại lời khen chữ Hán."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 快 B. 纸 C. 情 D. 给 E. 慢 F. 红 G. 忙 H. 绍\nThuộc bộ Mịch (纟): ________\nThuộc bộ Tâm đứng (忄): ________",
+              "answer": "Bộ Mịch: B, D, F, H. Bộ Tâm đứng: A, C, E, G.",
+              "hint": "Bộ Mịch (纟) đi với đồ dùng bằng tơ sợi. Bộ Tâm đứng (忄) liên quan tình cảm, cảm xúc."
+            }
+          ]
+        },
+        {
+          "lessonId": 5,
+          "lessonTitle": "就买这件吧。",
+          "vocabulary": [
+            {
+              "hanzi": "外面",
+              "pinyin": "wàimian",
+              "meaning": "Bên ngoài",
+              "analysis": "Chữ 外 (ngoại) được cấu tạo bởi chữ Tịch (夕 - chiều tối) và Bốc (卜 - bói toán).",
+              "example": "外面下雨，我们都在家里呢。 (Bên ngoài trời mưa, chúng tôi đều đang ở trong nhà.)"
+            },
+            {
+              "hanzi": "准备",
+              "pinyin": "zhǔnbèi",
+              "meaning": "Chuẩn bị",
+              "analysis": "Chữ 准 chứa bộ Băng (冫) biểu thị nước đóng băng.",
+              "example": "那你准备做什么呢？ (Vậy bạn chuẩn bị làm gì?)"
+            },
+            {
+              "hanzi": "就",
+              "pinyin": "jiù",
+              "meaning": "Thì, liền",
+              "analysis": "Phó từ dùng để kết nối, đưa ra kết luận giải pháp dựa trên tình huống đã cho",
+              "example": "就做你爱吃的鱼吧。 (Thì nấu món cá mà anh thích ăn đi.)"
+            },
+            {
+              "hanzi": "鱼",
+              "pinyin": "yú",
+              "meaning": "Con cá",
+              "analysis": "Là chữ tượng hình sinh động vẽ lại thân hình một con cá có đầu vươn lên, có vảy và đuôi",
+              "example": "就做你爱吃的鱼吧。 (Thì nấu món cá mà anh thích ăn đi.)"
+            },
+            {
+              "hanzi": "吧",
+              "pinyin": "ba",
+              "meaning": "Nhé, đi, nha",
+              "analysis": "Chứa bộ Khẩu (口), là trợ từ ngữ khí đặt cuối câu dùng để đưa ra lời đề nghị, thương lượng",
+              "example": "就做你爱吃的鱼吧。 (Thì nấu món cá mà anh thích ăn đi.)"
+            },
+            {
+              "hanzi": "件",
+              "pinyin": "jiàn",
+              "meaning": "Chiếc, cái (lượng từ)",
+              "analysis": "Gồm bộ Nhân đứng (亻) (người) và chữ Ngưu (牛 - con bò). Thường dùng làm lượng từ cho quần áo, sự việc.",
+              "example": "帮看一下这件衣服怎么样。 (Giúp xem thử chiếc áo này thế nào.)"
+            },
+            {
+              "hanzi": "还",
+              "pinyin": "hái",
+              "meaning": "Còn, vẫn, cũng tạm",
+              "analysis": "Chứa bộ Xước (辶) biểu thị sự kéo dài, di chuyển. Dùng làm phó từ để đánh giá mức độ \"cũng tạm được, có thể chấp nhận\"",
+              "example": "颜色还可以，就是有点儿大。 (Màu sắc cũng tạm được, chỉ là hơi to một chút.)"
+            },
+            {
+              "hanzi": "可以",
+              "pinyin": "kěyǐ",
+              "meaning": "Có thể, tạm được",
+              "analysis": "Chữ 可 (khả) chứa bộ Khẩu (口) biểu thị sự đồng ý.",
+              "example": "颜色还可以，就是有点儿大。 (Màu sắc cũng tạm được, chỉ là hơi to một chút.)"
+            },
+            {
+              "hanzi": "不错",
+              "pinyin": "búcuò",
+              "meaning": "Không tồi, tốt",
+              "analysis": "Chữ 错 (lỗi, sai) chứa bộ Kim (钅). \"Bất thác\" (không sai) có nghĩa là tốt, rất tuyệt.",
+              "example": "这件不错，就买这件吧。 (Chiếc này không tồi đâu, mua chiếc này đi.)"
+            },
+            {
+              "hanzi": "考试",
+              "pinyin": "kǎoshì",
+              "meaning": "Thi, kiểm tra",
+              "analysis": "Chữ 试 (thí) chứa bộ Ngôn (讠), nghĩa là dùng lời nói (hoặc ngôn ngữ, bài viết) để kiểm tra, thử nghiệm.",
+              "example": "是在想昨天的考试吗？ (Là đang nghĩ về bài thi hôm qua à?)"
+            },
+            {
+              "hanzi": "意思",
+              "pinyin": "yìsi",
+              "meaning": "Ý nghĩa",
+              "analysis": "Cả hai chữ 意 (Ý) và 思 (Tư) đều có chứa bộ Tâm (心) (hoặc tâm nằm), vì nó biểu thị ý nghĩ, tư tưởng xuất phát từ trong lòng con người",
+              "example": "我都不知道是什么意思。 (Mình hoàn toàn không biết có ý nghĩa gì.)"
+            },
+            {
+              "hanzi": "咖啡",
+              "pinyin": "kāfēi",
+              "meaning": "Cà phê",
+              "analysis": "Đây là một từ mượn âm thanh (Coffee). Cả 咖 và 啡 đều có bộ Khẩu (口) vì nó là đồ uống dùng miệng để thưởng thức.",
+              "example": "休息一下吧，喝咖啡吗？ (Nghỉ ngơi một lát đi, uống cà phê không?)"
+            },
+            {
+              "hanzi": "对",
+              "pinyin": "duì",
+              "meaning": "Đối với",
+              "analysis": "Chữ 对 có bộ Hựu (又). Ở đây dùng như một giới từ biểu thị đối tượng tiếp nhận ảnh hưởng (uống cà phê đối với sức khỏe...).",
+              "example": "喝咖啡对身体不好。 (Uống cà phê không tốt cho sức khỏe.)"
+            },
+            {
+              "hanzi": "以后",
+              "pinyin": "yǐhòu",
+              "meaning": "Sau này, về sau",
+              "analysis": "Chữ 后 (hậu) mang nghĩa là phía sau, dùng để chỉ một khoảng thời gian trong tương lai",
+              "example": "以后我少喝一点儿，每天喝一杯。 (Sau này tôi sẽ uống ít lại, mỗi ngày uống một ly.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Phó từ \"就\" (jiù - thì, bèn)",
+              "formula": "Tình huống + 就 + Động từ + ...",
+              "explanation": "Dùng để nối tiếp câu nói trước, nhằm đưa ra một kết luận, quyết định hoặc giải pháp cho tình huống vừa được nhắc đến.",
+              "example": "你不想去，就在家休息吧。 (Bạn không muốn đi, thì ở nhà nghỉ ngơi đi.) / 这儿的咖啡不错，就喝咖啡吧。 (Cà phê ở đây không tồi, thì uống cà phê đi.)"
+            },
+            {
+              "title": "Phó từ ngữ khí \"还\" (hái - vẫn, còn, cũng tạm)",
+              "formula": "还 + Tính từ",
+              "explanation": "Chỉ một sự vật/sự việc có thể chấp nhận được, ở mức độ trung bình khá, không quá xuất sắc nhưng không tệ.",
+              "example": "这件衣服大吗？ 还行，不太大。 (Chiếc áo này to không? Cũng tạm, không to lắm.) / 昨天的考试怎么样？我觉得还可以。 (Bài thi hôm qua thế nào? Tôi thấy cũng tàm tạm.)"
+            },
+            {
+              "title": "Phó từ chỉ mức độ \"有点儿\" (yǒudiǎnr - hơi, có chút)",
+              "formula": "有点儿 + Tính từ",
+              "explanation": "Đi kèm với tính từ hoặc động từ tâm lý, thường dùng để biểu đạt sự không hài lòng, tiêu cực đối với người nói.",
+              "example": "今天天气有点儿冷。 (Thời tiết hôm nay hơi lạnh.) / 这件衣服有点儿大。 (Chiếc áo này hơi to.)"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 就 B. 吧 C. 还 D. 对 E. 贵 F. 以后\n21. 王方，你去买一点儿水果 ( ___ )。\n22. 我下午四点考试，考试 ( ___ ) 给你打电话。\n23. 我有两本，你喜欢 ( ___ ) 送给你一本。\n24. 我太忙了，没时间运动，我知道运动 ( ___ ) 身体很好。\n25. 今天的菜 ( ___ ) 可以，都是我丈夫做的。",
+              "answer": "21-B, 22-F, 23-A, 24-D, 25-C",
+              "hint": "21 dùng 'ba' mời mọc; 22 dùng 'sau đó'; 23 dùng 'thì'; 24 dùng 'đối với'; 25 dùng 'tạm được'."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 我今天早上六点起床的，现在有点儿累。 B. 你会做什么菜？ C. 明天我去公司，不去打球了。 D. 昨天的考试你觉得怎么样？ E. 他在哪儿呢？(Ví dụ) F. 你准备去北京旅游的东西了吗？\n31. 我会做鱼，你爱吃鱼吗？ ( ___ )\n32. 你休息一下吧。 ( ___ )\n33. 我觉得还不错。 ( ___ )\n34. 我们下个星期去，明天再准备吧。 ( ___ )\n35. 好吧，你明天回家以后给我打电话。 ( ___ )",
+              "answer": "31-B, 32-A, 33-D, 34-F, 35-C",
+              "hint": "31 trả lời 'bạn biết làm món gì'; 32 khuyên 'nên nghỉ ngơi'."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 庆 B. 床 C. 孩 D. 应 E. 孙 F. 孔 G. 店 H. 孤\nThuộc bộ Tử (子): ________\nThuộc bộ Quảng (广): ________",
+              "answer": "Bộ Tử: C, E, F, H. Bộ Quảng: A, B, D, G.",
+              "hint": "Bộ Tử (con cháu) ở một bên. Bộ Quảng (mái nhà) ở trên bao bọc."
+            }
+          ]
+        },
+        {
+          "lessonId": 6,
+          "lessonTitle": "你怎么不吃了？",
+          "vocabulary": [
+            {
+              "hanzi": "门",
+              "pinyin": "mén",
+              "meaning": "Cửa, cổng",
+              "analysis": "Chữ 门 (môn) là một chữ tượng hình rõ nét, hình dáng giống hai cánh cửa có thể đóng mở ở cổng vào của một ngôi nhà",
+              "example": "你知道小王今天什么时候来学校吗？他在门外看见他的自行车了。 (Bạn có biết Tiểu Vương hôm nay khi nào đến trường không? Cậu ấy đã nhìn thấy xe đạp của anh ấy ở ngoài cửa rồi.)"
+            },
+            {
+              "hanzi": "外",
+              "pinyin": "wài",
+              "meaning": "Bên ngoài",
+              "analysis": "Là vị trí, phương hướng. Trái nghĩa với 里 (bên trong).",
+              "example": "他在门外看见他的自行车了。 (Cậu ấy đã nhìn thấy xe đạp của anh ấy ở ngoài cửa rồi.)"
+            },
+            {
+              "hanzi": "自行车",
+              "pinyin": "zìxíngchē",
+              "meaning": "Xe đạp",
+              "analysis": "自 (tự mình), 行 (đi/di chuyển), 车 (xe cộ - có hình dáng công cụ có bánh xe ). Đây là loại xe di chuyển bằng sức người tự đạp.",
+              "example": "他在门外看见他的自行车了。 (Cậu ấy đã nhìn thấy xe đạp của anh ấy ở ngoài cửa rồi.)"
+            },
+            {
+              "hanzi": "羊肉",
+              "pinyin": "yángròu",
+              "meaning": "Thịt cừu, thịt dê",
+              "analysis": "Chữ 羊 (dương) là chữ tượng hình vẽ chính diện cái đầu của con dê/cừu với hai cái sừng trên đầu",
+              "example": "今天的羊肉很好吃，你怎么不吃了？ (Thịt cừu hôm nay rất ngon, sao anh không ăn nữa?)"
+            },
+            {
+              "hanzi": "好吃",
+              "pinyin": "hǎochī",
+              "meaning": "Ngon (món ăn)",
+              "analysis": "Ăn (吃) phải dùng miệng nên có bộ Khẩu (口).",
+              "example": "今天的羊肉很好吃。 (Thịt cừu hôm nay rất ngon.)"
+            },
+            {
+              "hanzi": "面条",
+              "pinyin": "miàntiáo",
+              "meaning": "Mì sợi",
+              "analysis": "面 (diện) là bột mì, bề mặt. 条 (điều) thường dùng làm lượng từ cho những thứ dài và thon. Miàntiáo là sợi mì dài.",
+              "example": "这个星期天天都吃羊肉，不想吃了。那你还想吃什么？来一点儿面条吧。 (Tuần này ngày nào cũng ăn thịt cừu, không muốn ăn nữa. Vậy anh còn muốn ăn gì? Cho một ít mì sợi đi.)"
+            },
+            {
+              "hanzi": "打篮球",
+              "pinyin": "dǎ lánqiú",
+              "meaning": "Chơi bóng rổ",
+              "analysis": "Đánh/chơi (打) bóng bằng tay nên có bộ Thủ (扌). Rổ (篮) đan bằng tre trúc nên chứa bộ Trúc (⺮) ở trên cùng",
+              "example": "昨天你们怎么都没去打篮球？ (Hôm qua sao các anh không đi chơi bóng rổ?)"
+            },
+            {
+              "hanzi": "因为",
+              "pinyin": "yīnwèi",
+              "meaning": "Bởi vì",
+              "analysis": "Chữ 因 (nhân) có bộ Vi (囗) bao quanh chữ Đại (大). Chữ 为 có nghĩa là làm",
+              "example": "因为昨天下雨，所以我们都没去。 (Bởi vì hôm qua trời mưa, cho nên chúng tôi đều không đi.)"
+            },
+            {
+              "hanzi": "所以",
+              "pinyin": "suǒyǐ",
+              "meaning": "Cho nên",
+              "analysis": "Chữ 所 (sở) chứa bộ Hộ (户) chỉ cánh cửa. Đây là liên từ chỉ kết quả của cặp câu nguyên nhân - kết quả",
+              "example": "因为昨天下雨，所以我们都没去。 (Bởi vì hôm qua trời mưa, cho nên chúng tôi đều không đi.)"
+            },
+            {
+              "hanzi": "游泳",
+              "pinyin": "yóuyǒng",
+              "meaning": "Bơi lội",
+              "analysis": "Vì bơi lội diễn ra dưới nước nên cả hai chữ 游 và 泳 đều có chứa bộ Thủy (氵) (ba chấm thủy) chỉ nước",
+              "example": "我去游泳了。 (Tôi đã đi bơi rồi.)"
+            },
+            {
+              "hanzi": "经常",
+              "pinyin": "jīngcháng",
+              "meaning": "Thường xuyên",
+              "analysis": "Chữ 经 (kinh) chứa bộ Mịch (纟). Phó từ chỉ một hành động lặp đi lặp lại nhiều lần.",
+              "example": "你经常游泳吗？ (Bạn có thường xuyên đi bơi không?)"
+            },
+            {
+              "hanzi": "公斤",
+              "pinyin": "gōngjīn",
+              "meaning": "Kilogram",
+              "analysis": "公 (công), 斤 (cân). Người Trung Quốc hay dùng 斤 (0.5 kg), để nói 1 kg chuẩn quốc tế họ dùng 公斤.",
+              "example": "这个月我天天游泳，我现在七十公斤了。 (Tháng này ngày nào tôi cũng đi bơi, hiện giờ tôi đã 70 kg rồi.)"
+            },
+            {
+              "hanzi": "姐姐",
+              "pinyin": "jiějie",
+              "meaning": "Chị gái",
+              "analysis": "Chứa bộ Nữ (女)",
+              "example": "这两天怎么没看见小张？他去北京了。去北京了？是去旅游吗？不是，听说是去看他姐姐。 (Hai ngày nay sao không thấy Tiểu Trương? Cậu ấy đi Bắc Kinh rồi. Đi Bắc Kinh à? Là đi du lịch hả? Không phải, nghe nói là đi thăm chị gái của cậu ấy.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Đại từ nghi vấn \"怎么\" (zěnme - sao, vì sao)",
+              "formula": "怎么 + Động từ / Tính từ?",
+              "explanation": "Đứng trước động từ hoặc tính từ để hỏi về nguyên nhân, lý do. Thường mang theo ngữ khí ngạc nhiên, kỳ lạ.",
+              "example": "你怎么不高兴？ (Sao bạn lại không vui?) / 昨天你们怎么都没去打篮球？ (Hôm qua sao các bạn đều không đi chơi bóng rổ vậy?)"
+            },
+            {
+              "title": "Sự lặp lại của Lượng từ",
+              "formula": "Lượng từ + Lượng từ + 都 + Vị ngữ",
+              "explanation": "Trong tiếng Trung, lượng từ lặp lại (AA) biểu thị ý nghĩa \"mỗi\", \"mọi\" thành viên trong một nhóm đều có chung một đặc điểm nào đó. Sau nó thường đi kèm chữ 都.",
+              "example": "同学们个个都很高兴。 (Các bạn học sinh ai ai (mỗi người) cũng đều rất vui.) / 这个商店的衣服件件都很漂亮。 (Quần áo của cửa hàng này chiếc nào cũng rất đẹp.)"
+            },
+            {
+              "title": "Cấu trúc nguyên nhân - kết quả \"因为......，所以......\"",
+              "formula": "因为 + Nguyên nhân，所以 + Kết quả.",
+              "explanation": "Kết nối hai phân câu, vế trước chỉ nguyên nhân, vế sau chỉ kết quả. Có thể lược bỏ một trong hai từ trong giao tiếp thực tế.",
+              "example": "因为昨天下雨，所以我们都没去。 (Bởi vì hôm qua trời mưa, cho nên chúng tôi đều không đi.) / 因为他每天跑步，所以身体很好。 (Bởi vì cậu ấy chạy bộ mỗi ngày, nên sức khỏe rất tốt.)"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 件件 B. 因为 C. 打 D. 经常 E. 贵 F. 公斤\n21. 昨天下雨了，所以我们都没去 ( ___ ) 篮球。\n22. 这家商店的衣服 ( ___ ) 都漂亮。\n23. 我 ( ___ ) 跟同学们一起学习汉语。\n24. ( ___ ) 工作很忙，所以我没有时间运动。\n25. 你知道一 ( ___ ) 苹果多少钱吗？",
+              "answer": "21-C, 22-A, 23-D, 24-B, 25-F",
+              "hint": "21 chơi bóng (打); 22 lặp lượng từ (件件); 23 (经常); 24 (因为); 25 đơn vị đo (公斤)."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai\n26. 我在门外看见小王的自行车了。 ➔ 小王来了，我看见他了。 ( ___ )\n27. 天天都吃羊肉，有鸡蛋面条吗？ ➔ 我不想吃羊肉了。 ( ___ )\n28. 因为昨天下雨，所以我们都没去打篮球。 ➔ 昨天天气不好。 ( ___ )\n29. 听说小王去北京看他姐姐了，所以没来学校。 ➔ 小王现在在北京呢。 ( ___ )\n30. 爸爸在医院工作，他每天都很忙，所以很少有时间休息。 ➔ 爸爸是大夫，他在医院工作。 ( ___ )",
+              "answer": "26-Sai, 27-Đúng, 28-Đúng, 29-Đúng, 30-Đúng",
+              "hint": "26-Người nói chỉ thấy xe đạp, chưa thấy người nên Sai."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 是啊，下雨了。 B. 他已经来了，你没看见吗？ C. 他今天身体不太好。 D. 天天吃米饭，我想来点儿面条。 E. 他在哪儿呢？(Ví dụ) F. 昨天下雨了。\n31. 小王今天怎么没来学校？ ( ___ )\n32. 你们昨天怎么没去打篮球？ ( ___ )\n33. 大卫什么时候来学校？ ( ___ )\n34. 你还想吃什么？ ( ___ )\n35. 今天天气很冷。 ( ___ )",
+              "answer": "31-C, 32-F, 33-B, 34-D, 35-A",
+              "hint": "31 hỏi lí do chưa đến; 32 trả lời vì trời mưa; 35 xác nhận trời mưa/lạnh."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 想 B. 独 C. 狗 D. 念 E. 猫 F. 怎 G. 猪 H. 息\nThuộc bộ Khuyển (犭): ________\nThuộc bộ Tâm (心): ________",
+              "answer": "Bộ Khuyển: B, C, E, G. Bộ Tâm: A, D, F, H.",
+              "hint": "Bộ Khuyển để chỉ động vật (chó, mèo...). Bộ Tâm nằm bên dưới."
+            }
+          ]
+        },
+        {
+          "lessonId": 7,
+          "lessonTitle": "你家离公司远吗？",
+          "vocabulary": [
+            {
+              "hanzi": "教室",
+              "pinyin": "jiàoshì",
+              "meaning": "Phòng học, lớp học",
+              "analysis": "Chữ 教 (giáo) mang nghĩa là dạy học. Chữ 室 (thất) có chứa bộ Miên (宀) biểu thị mái nhà. Nơi có mái che để dạy học chính là phòng học.",
+              "example": "他还在教室里学习。 (Anh ấy vẫn còn đang học trong lớp.)"
+            },
+            {
+              "hanzi": "机场",
+              "pinyin": "jīchǎng",
+              "meaning": "Sân bay",
+              "analysis": "Chữ 机 (cơ) chứa bộ Mộc (木) vì máy móc thời xưa làm bằng gỗ. Chữ 场 (tràng/trường) chứa bộ Thổ (土) chỉ một bãi đất rộng lớn. Bãi đất rộng cho máy bay đậu là sân bay.",
+              "example": "从学校到机场，坐出租车要一个小时。 (Từ trường đến sân bay, đi xe taxi phải mất một tiếng đồng hồ.)"
+            },
+            {
+              "hanzi": "路",
+              "pinyin": "lù",
+              "meaning": "Đường, con đường",
+              "analysis": "Chữ 路 chứa bộ Túc (足) ở bên trái (liên quan đến bàn chân). Đường sá vốn dĩ không có, do bước chân con người đi mãi mà thành.",
+              "example": "我在去机场的路上。 (Tôi đang ở trên đường đến sân bay.)"
+            },
+            {
+              "hanzi": "离",
+              "pinyin": "lí",
+              "meaning": "Cách, rời xa",
+              "analysis": "Dùng làm giới từ biểu thị khoảng cách giữa hai địa điểm hoặc thời gian.",
+              "example": "你家离公司远吗？ (Nhà bạn có cách xa công ty không?)"
+            },
+            {
+              "hanzi": "公司",
+              "pinyin": "gōngsī",
+              "meaning": "Công ty",
+              "analysis": "Chữ 公 (công) chứa bộ Bát (八) mang ý nghĩa phân chia công bằng, của chung.",
+              "example": "你家离公司远吗？ (Nhà bạn có cách xa công ty không?)"
+            },
+            {
+              "hanzi": "远",
+              "pinyin": "yuǎn",
+              "meaning": "Xa",
+              "analysis": "Chữ 远 chứa bộ Xước (辶) biểu thị sự di chuyển, đi lại vất vả trên một khoảng cách dài.",
+              "example": "你家离学校远不远？ (Nhà bạn cách trường có xa không?)"
+            },
+            {
+              "hanzi": "公共汽车",
+              "pinyin": "gōnggòng qìchē",
+              "meaning": "Xe buýt",
+              "analysis": "公共 (công cộng - của chung). 汽车 (xe hơi), trong đó chữ 汽 chứa bộ Thủy (氵) (hơi nước) và chữ 车 mang bộ Xa (车) (xe cộ). Xe của chung dành cho mọi người là xe buýt.",
+              "example": "坐公共汽车太慢了。 (Đi xe buýt chậm quá.)"
+            },
+            {
+              "hanzi": "小时",
+              "pinyin": "xiǎoshí",
+              "meaning": "Tiếng đồng hồ, giờ",
+              "analysis": "Chữ 时 (thời) có bộ Nhật (日). Người xưa dùng mặt trời (nhật) làm công cụ để đo đạc thời gian.",
+              "example": "北京到上海坐飞机一个多小时到了。 (Từ Bắc Kinh đến Thượng Hải đi máy bay hơn 1 tiếng là tới.)"
+            },
+            {
+              "hanzi": "慢",
+              "pinyin": "màn",
+              "meaning": "Chậm",
+              "analysis": "Chứa bộ Tâm đứng (忄) ở bên trái, biểu thị trạng thái thong thả, từ tốn, không vội vã trong lòng.",
+              "example": "坐公共汽车太慢了。 (Đi xe buýt chậm quá.)"
+            },
+            {
+              "hanzi": "快",
+              "pinyin": "kuài",
+              "meaning": "Nhanh",
+              "analysis": "Cũng chứa bộ Tâm đứng (忄). Ý nói tâm trạng sảng khoái, cảm giác thời gian trôi qua rất nhanh. Trái nghĩa với 慢.",
+              "example": "开车也不快，路上车太多了！ (Lái xe cũng không nhanh đâu, trên đường xe đông quá!)"
+            },
+            {
+              "hanzi": "过",
+              "pinyin": "guò",
+              "meaning": "Qua, đi qua, đón (lễ/tết)",
+              "analysis": "Chứa bộ Xước (辶). Biểu thị hành động bước đi vượt qua một mốc không gian hoặc thời gian nào đó.",
+              "example": "从这儿右走，过一个路口，就是北京医院。 (Từ đây đi về bên phải, qua một ngã tư, chính là bệnh viện Bắc Kinh.)"
+            },
+            {
+              "hanzi": "走",
+              "pinyin": "zǒu",
+              "meaning": "Đi, bước đi",
+              "analysis": "Chữ này mang bộ Tẩu (走). Hình ảnh một người đang sải bước chạy/đi trên đất.",
+              "example": "从这儿右走，过一个路口，就是北京医院。 (Từ đây đi về bên phải, qua một ngã tư, chính là bệnh viện Bắc Kinh.)"
+            },
+            {
+              "hanzi": "到",
+              "pinyin": "dào",
+              "meaning": "Đến, tới",
+              "analysis": "Chữ 到 chứa bộ Đao (刂) ở bên phải. Động từ chỉ hành động di chuyển đạt tới đích đến.",
+              "example": "北京到上海坐飞机一个多小时到了。 (Từ Bắc Kinh đến Thượng Hải đi máy bay hơn 1 tiếng là tới nơi.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Phó từ ngữ khí \"还\" (hái - vẫn, còn đang)",
+              "formula": "还 + Động từ / 还没 + Động từ",
+              "explanation": "Biểu thị một hành động hoặc trạng thái vẫn đang được tiếp diễn. Dạng phủ định là \"还没\" (vẫn chưa).",
+              "example": "八点了，他还在睡觉。 (8 giờ rồi, cậu ấy vẫn đang ngủ.) / 你怎么还没吃饭？ (Sao bạn vẫn chưa ăn cơm?)"
+            },
+            {
+              "title": "Phó từ chỉ thời gian \"就\" (jiù - đã, liền)",
+              "formula": "Không có",
+              "explanation": "Nhấn mạnh theo quan điểm của người nói rằng sự việc xảy ra rất nhanh, rất sớm hoặc rất thuận lợi. (Trái nghĩa với 才 - diễn tả sự chậm trễ).",
+              "example": "同学们七点半就来教室了。 (Các bạn học sinh 7 rưỡi đã đến lớp rồi. -> Đến rất sớm) / 坐飞机一个半小时就到北京了。 (Ngồi máy bay một tiếng rưỡi là đã đến Bắc Kinh rồi. -> Rất nhanh)"
+            },
+            {
+              "title": "Động từ khoảng cách \"离\" (lí - cách)",
+              "formula": "A 离 B + (很远/很近/Số lượng...)",
+              "explanation": "Dùng để diễn tả khoảng cách giữa hai địa điểm, hai mốc thời gian hoặc mục đích.",
+              "example": "我家离学校很远。 (Nhà tôi cách trường rất xa.) / 学校离机场有20多公里。 (Trường học cách sân bay hơn 20 kilomet.)"
+            },
+            {
+              "title": "Trợ từ ngữ khí \"呢\" (ne - nhé, đang... đấy)",
+              "formula": "Không có",
+              "explanation": "Đặt ở cuối câu trần thuật để xác nhận một sự việc đang diễn ra, có tác dụng nhấn mạnh hoặc khoa trương sự thật để thuyết phục người nghe.",
+              "example": "八点上课，时间还早呢。 (8 giờ mới vào học, thời gian còn sớm chán.) / 医院离这儿远呢。 (Bệnh viện cách đây xa lắm đấy.)"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 离 B. 教室 C. 就 D. 过 E. 贵 F. 公司\n21. 我家 ( ___ ) 学校不太远。\n22. 北京到上海坐飞机一个多小时 ( ___ ) 到了。\n23. 晚上十点多了，爸爸还在 ( ___ ) 工作呢。\n24. 明天有考试，大卫还在 ( ___ ) 学习呢。\n25. 今天是你的生日，你想怎么 ( ___ ) ？",
+              "answer": "21-A, 22-C, 23-F, 24-B, 25-D",
+              "hint": "Giới từ khoảng cách dùng '离'. Để nhấn mạnh thời gian ngắn dùng '就'."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai\n26. 大卫明天有考试，所以还在教室学习呢。 ➔ 大卫不在家。 ( ___ )\n27. 我在去机场的路上呢，还有十分钟就到了。 ➔ 我到机场十分钟了。 ( ___ )\n28. 离我家不远有一个饭馆，走几分钟就到了。 ➔ 饭馆离我家不远。 ( ___ )\n29. 坐公共汽车太慢了，我们还是坐出租车吧。 ➔ 坐出租车也很慢。 ( ___ )\n30. 从学校到机场，坐出租车要一个小时，我们8点走，可以吗？ ➔ 他们要坐8点的飞机。 ( ___ )",
+              "answer": "26-Đúng, 27-Sai, 28-Đúng, 29-Sai, 30-Sai",
+              "hint": "Cần hiểu được trạng thái hành động sắp xảy ra hay đã kết thúc."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 还没有呢。 B. 坐公共汽车太慢了。 C. 不远，我每天走路去学校。 D. 我们家前面有一个小饭馆，走几分钟就到了。 E. 他在哪儿呢？(Ví dụ) F. 我在去机场的路上。\n31. 大卫回来了吗？ ( ___ )\n32. 你现在在哪儿呢？ ( ___ )\n33. 你为什么不坐公共汽车去公司？ ( ___ )\n34. 我今天很累，不想做饭了，我们出去吃吧。 ( ___ )\n35. 你家离学校远不远？ ( ___ )",
+              "answer": "31-A, 32-F, 33-B, 34-D, 35-C",
+              "hint": "Nối các câu hỏi và trả lời tự nhiên nhất trong giao tiếp."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 放 B. 行 C. 故 D. 做 E. 往 F. 彷 G. 敌 H. 待\nThuộc bộ Xích (彳): ________\nThuộc bộ Phộc (攵): ________",
+              "answer": "Bộ Xích: B, E, F, H. Bộ Phộc: A, C, D, G.",
+              "hint": "Bộ Xích có 2 vạch chéo (như bước chân); Bộ Phộc giống chữ 'phộc' đánh khẽ."
+            }
+          ]
+        },
+        {
+          "lessonId": 8,
+          "lessonTitle": "让我想想再告诉你。",
+          "vocabulary": [
+            {
+              "hanzi": "再",
+              "pinyin": "zài",
+              "meaning": "Lại, nữa",
+              "analysis": "Phó từ biểu thị một hành động chưa xảy ra nhưng dự định sẽ lặp lại hoặc tiếp tục diễn ra trong tương lai.",
+              "example": "让我先想想，再告诉你。 (Để tôi suy nghĩ trước đã, rồi sẽ nói cho bạn biết.)"
+            },
+            {
+              "hanzi": "让",
+              "pinyin": "ràng",
+              "meaning": "Để, cho, bảo, nhường",
+              "analysis": "Chứa bộ Ngôn (讠) ở bên trái. Dùng lời nói để yêu cầu, sai bảo hoặc nhường nhịn ai đó làm việc gì.",
+              "example": "让我想想再告诉你。 (Để tôi suy nghĩ rồi sẽ nói cho bạn biết.)"
+            },
+            {
+              "hanzi": "告诉",
+              "pinyin": "gàosu",
+              "meaning": "Nói với, bảo cho biết",
+              "analysis": "Chữ 告 (cáo) có bộ Khẩu (口), chữ 诉 (tố) có bộ Ngôn (讠). Cả hai đều nhấn mạnh việc dùng lời nói, miệng để truyền đạt thông tin.",
+              "example": "让我想想再告诉你。 (Để tôi suy nghĩ rồi sẽ nói cho bạn biết.)"
+            },
+            {
+              "hanzi": "等",
+              "pinyin": "děng",
+              "meaning": "Đợi, chờ",
+              "analysis": "Chữ 等 có chứa bộ Trúc (⺮) ở trên cùng.",
+              "example": "等等我，我也想去。 (Đợi tôi với, tôi cũng muốn đi.)"
+            },
+            {
+              "hanzi": "找",
+              "pinyin": "zhǎo",
+              "meaning": "Tìm, bối thối (tiền)",
+              "analysis": "Chứa bộ Thủ (扌) ở bên trái. Hành động lục lọi, tìm kiếm đồ vật phải dùng đến thao tác của đôi tay.",
+              "example": "你找大卫有什么事情吗？ (Bạn tìm David có việc gì không?)"
+            },
+            {
+              "hanzi": "事情",
+              "pinyin": "shìqing",
+              "meaning": "Sự việc, việc",
+              "analysis": "Chữ 情 (tình) chứa bộ Tâm đứng (忄), liên quan đến tình hình, hoàn cảnh của sự vật sự việc tác động đến tâm lý.",
+              "example": "你找大卫有什么事情吗？ (Bạn tìm David có việc gì không?)"
+            },
+            {
+              "hanzi": "服务员",
+              "pinyin": "fúwùyuán",
+              "meaning": "Nhân viên phục vụ",
+              "analysis": "Chữ 务 (vụ) mang bộ Lực (力 - sức lực), chữ 员 (viên) mang bộ Khẩu (口) chỉ người. Người bỏ công sức ra làm việc phục vụ là nhân viên phục vụ.",
+              "example": "服务员，我房间的门打不开了。 (Nhân viên phục vụ ơi, cửa phòng tôi không mở được.)"
+            },
+            {
+              "hanzi": "白",
+              "pinyin": "bái",
+              "meaning": "Trắng",
+              "analysis": "Đây là chữ đơn thể và là bộ Bạch (白) luôn. Biểu thị màu trắng trong trẻo.",
+              "example": "这件白的有点儿长，那件黑的有点儿贵。 (Chiếc màu trắng này hơi dài một chút, chiếc màu đen kia hơi đắt một chút.)"
+            },
+            {
+              "hanzi": "黑",
+              "pinyin": "hēi",
+              "meaning": "Đen",
+              "analysis": "Đây cũng là bộ Hắc (黑). Phía dưới cùng có bộ Hỏa (灬 - bốn chấm hỏa) mô phỏng ngọn lửa đốt cháy tạo ra muội than có màu đen thui.",
+              "example": "这件白的有点儿长，那件黑的有点儿贵。 (Chiếc màu trắng này hơi dài một chút, chiếc màu đen kia hơi đắt một chút.)"
+            },
+            {
+              "hanzi": "贵",
+              "pinyin": "guì",
+              "meaning": "Đắt, quý giá",
+              "analysis": "Chữ 贵 chứa bộ Bối (贝) ở phía dưới. Bộ Bối liên quan đến vỏ sò, tiền bạc, tài sản quý giá thời xưa. Do đó 贵 mang nghĩa là đắt đỏ.",
+              "example": "那件黑的有点儿贵。 (Chiếc màu đen kia hơi đắt một chút.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Câu hỏi xin ý kiến \"......，好吗？\" (...hǎo ma - ...có được không / ...nhé?)",
+              "formula": "Không có",
+              "explanation": "Đặt ở cuối câu để hỏi ý kiến người nghe, thể hiện sự thương lượng, bàn bạc một cách lịch sự.",
+              "example": "我们一起去吃饭，好吗？ (Chúng ta cùng đi ăn cơm, được không?) / 你明天给我打电话，好吗？ (Ngày mai bạn gọi điện cho mình nhé?)"
+            },
+            {
+              "title": "Phó từ \"再\" (zài - lại, hẵng)",
+              "formula": "再 + Động từ",
+              "explanation": "Đứng trước động từ, biểu thị một hành động hoặc trạng thái chưa xảy ra nhưng dự định sẽ được lặp lại hoặc tiếp tục diễn ra trong tương lai.",
+              "example": "你明天再来。 (Ngày mai bạn lại đến nhé.) / 让我想想再告诉你。 (Để tôi nghĩ đã rồi hẵng nói cho bạn.)"
+            },
+            {
+              "title": "Câu kiêm ngữ (Mời, bảo, để)",
+              "formula": "Chủ ngữ 1 + 请/让/叫 + Tân ngữ 1 (Chủ ngữ 2) + Động từ 2.",
+              "explanation": "Là câu có hai động từ. Tân ngữ của động từ thứ nhất đồng thời đóng vai trò làm chủ ngữ cho động từ thứ hai. Thường dùng với các từ: 请 (mời), 让 (để, nhường), 叫 (kêu, bảo).",
+              "example": "我请你吃饭。 (Tôi mời bạn ăn cơm.) / 老师让我回答问题。 (Thầy giáo bảo tôi trả lời câu hỏi.)"
+            },
+            {
+              "title": "Sự lặp lại của Động từ",
+              "formula": " Động từ đơn âm tiết: AA hoặc A一A (Ví dụ: 说说, 听一听). Động từ song âm tiết: ABAB (Ví dụ: 学习学习, 准备准备).",
+              "explanation": "Động từ lặp lại biểu thị thời gian hành động ngắn, làm thử, hoặc để làm cho ngữ khí câu nói trở nên nhẹ nhàng, thoải mái hơn.",
+              "example": "你看看这本书。 (Bạn xem thử cuốn sách này đi.) / 让我想想再告诉你。 (Để tôi suy nghĩ chút rồi báo bạn.)"
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 等 B. 让 C. 再 D. 事情 E. 贵 F. 找\n21. 我这个星期太忙了，下个星期 ( ___ ) 时间一起去看电影吧。\n22. 张老师在上课呢，他让你 ( ___ ) 一会儿。\n23. 王老师 ( ___ ) 我告诉你，明天他不能来上课了。\n24. 大卫今天不在家，你明天 ( ___ ) 给他打电话吧。\n25. 请问，你找服务员有什么 ( ___ ) ？",
+              "answer": "21-F, 22-A, 23-B, 24-C, 25-D",
+              "hint": "Xác định các động từ và danh từ theo cấu trúc chuẩn."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai\n26. 王老师让我给大卫打个电话。 ➔ 王老师给大卫打电话。 ( ___ )\n27. 今天下午我没时间，明天再去看电影吧。 ➔ 今天不能去看电影。 ( ___ )\n28. 这件白的有点儿长，那件黑的有点儿贵。 ➔ 两件衣服，我都不喜欢。 ( ___ )\n29. 今天天气不太好，等天气好的时候再给你买自行车吧。 ➔ 外面正在下雨。 ( ___ )\n30. 你看，这是我们家的猫，漂亮吧？是我姐姐送给我的。 ➔ 猫不是我家的。 ( ___ )",
+              "answer": "26-Sai, 27-Đúng, 28-Đúng, 29-Đúng, 30-Sai",
+              "hint": "Chú ý chủ ngữ thực hiện hành động."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 这件白的有点儿长，我再看看吧。 B. 服务员，我想要点儿热水。 C. 明天要考试，考试后再去看吧。 D. 让我想想再告诉你。 E. 他在哪儿呢？(Ví dụ) F. 听说他生病了，我想去医院看看他。\n31. 你想看什么电影？ ( ___ )\n32. 你找大卫有什么事情吗？ ( ___ )\n33. 这些都是今天新来的衣服。 ( ___ )\n34. 好的，请问您住哪个房间？ ( ___ )\n35. 晚上去看电影，好吗？ ( ___ )",
+              "answer": "31-D, 32-F, 33-A, 34-B, 35-C",
+              "hint": "Liên kết logic giữa câu hỏi ý muốn và câu trả lời."
+            }
+          ]
+        },
+        {
+          "lessonId": 9,
+          "lessonTitle": "题太多，我没做完。",
+          "vocabulary": [
+            {
+              "hanzi": "错",
+              "pinyin": "cuò",
+              "meaning": "Sai, lỗi",
+              "analysis": "Chữ 错 chứa bộ Kim (钅) ở bên trái. Thường dùng làm bổ ngữ kết quả (Ví dụ: 做错 - làm sai, 听错 - nghe nhầm).",
+              "example": "今天的考试你做错了吗？ (Bài kiểm tra hôm nay bạn có làm sai không? - Mở rộng cấu trúc Bài 9)."
+            },
+            {
+              "hanzi": "从",
+              "pinyin": "cóng",
+              "meaning": "Từ (không gian, thời gian)",
+              "analysis": "Chữ 从 rất tượng hình, gồm hai chữ Nhân (人) đi sát nhau, diễn tả hình ảnh một người đi theo sau một người khác. Dùng để chỉ điểm xuất phát \"từ\" đâu.",
+              "example": "从我家到学校要坐一个小时的公共汽车。 (Từ nhà tôi đến trường phải ngồi xe buýt mất 1 tiếng.)"
+            },
+            {
+              "hanzi": "跳舞",
+              "pinyin": "tiàowǔ",
+              "meaning": "Khiêu vũ, múa",
+              "analysis": "Chữ 跳 (khiêu - nhảy) có chứa bộ Túc (足), vì khi nhảy múa vận động bắt buộc phải dùng đôi chân.",
+              "example": "我会跳舞，但跳得不怎么样。 (Tôi biết múa, nhưng múa không giỏi lắm.)"
+            },
+            {
+              "hanzi": "第一",
+              "pinyin": "dì-yī",
+              "meaning": "Thứ nhất, đầu tiên",
+              "analysis": "Chữ 第 (đệ) có bộ Trúc (⺮) ở trên. Thời xưa người ta khắc số thứ tự lên các thẻ tre trúc. Dùng để cấu tạo số thứ tự.",
+              "example": "第一次来北京吧？北京漂亮吗？ (Lần đầu tiên đến Bắc Kinh phải không? Bắc Kinh có đẹp không?)"
+            },
+            {
+              "hanzi": "希望",
+              "pinyin": "xīwàng",
+              "meaning": "Hy vọng, mong mỏi",
+              "analysis": "Chữ 希 (hy) có bộ Cân (巾), chữ 望 (vọng) có bộ Nguyệt (月). Ngóng trông mặt trăng (Nguyệt) lên cao, biểu thị sự mong mỏi trong lòng.",
+              "example": "我希望能和朋友们一起过生日。 (Tôi hy vọng có thể cùng bạn bè đón sinh nhật.)"
+            },
+            {
+              "hanzi": "问题",
+              "pinyin": "wèntí",
+              "meaning": "Câu hỏi, vấn đề",
+              "analysis": "Chữ 问 (hỏi) chứa bộ Môn (门) và bộ Khẩu (口). Chữ 题 (đề/câu hỏi) chứa bộ Hiệt (页) liên quan đến trang giấy, văn bản.",
+              "example": "你有什么问题都可以问老师。 (Em có câu hỏi gì đều có thể hỏi giáo viên.)"
+            },
+            {
+              "hanzi": "欢迎",
+              "pinyin": "huānyíng",
+              "meaning": "Hoan nghênh, chào mừng",
+              "analysis": "Chữ 欢 (hoan) chứa bộ Khiếm (欠) (người há miệng tươi cười ), chữ 迎 (nghênh) chứa bộ Xước (辶) (đi lại đón khách).",
+              "example": "非常欢迎你来我们公司上班。 (Rất hoan nghênh anh đến công ty chúng tôi làm việc.)"
+            },
+            {
+              "hanzi": "上班",
+              "pinyin": "shàng bān",
+              "meaning": "Đi làm",
+              "analysis": "Chữ 班 (ban) có bộ Ngọc (王) ở hai bên. Ngụ ý sự phân chia ca kíp, đội nhóm để làm việc.",
+              "example": "非常欢迎你来我们公司上班。 (Rất hoan nghênh anh đến công ty chúng tôi làm việc.)"
+            },
+            {
+              "hanzi": "懂",
+              "pinyin": "dǒng",
+              "meaning": "Hiểu",
+              "analysis": "Chữ 懂 có bộ Tâm đứng (忄) ở bên trái. Hiểu là quá trình nhận thức sâu sắc xuất phát từ tư duy và tâm lý của con người.",
+              "example": "老师的话是什么意思，我没听懂。 (Lời của thầy giáo có ý gì, tôi nghe không hiểu.)"
+            },
+            {
+              "hanzi": "完",
+              "pinyin": "wán",
+              "meaning": "Xong, hoàn thành",
+              "analysis": "Chữ 完 có bộ Miên (宀) ở trên, ám chỉ việc hoàn tất công việc ở dưới mái nhà. Thường dùng làm bổ ngữ kết quả.",
+              "example": "题太多，我没做完。 (Câu hỏi quá nhiều, tôi chưa làm xong.)"
+            },
+            {
+              "hanzi": "题",
+              "pinyin": "tí",
+              "meaning": "Đề tài, câu hỏi",
+              "analysis": "Chứa bộ Hiệt (页) ở bên phải. Thường liên quan đến phần đầu hoặc những ghi chép trên trang giấy (đề bài, bài thi).",
+              "example": "题太多，我没做完。 (Câu hỏi quá nhiều, tôi chưa làm xong.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Bổ ngữ kết quả (结果补语)",
+              "formula": "Khẳng định: Động từ + Bổ ngữ kết quả + (Tân ngữ). Phủ định dùng 没(有) đặt trước động từ.",
+              "explanation": "Trong tiếng Trung, một số động từ (hoặc tính từ) được đặt ngay sau một động từ khác để nói rõ kết quả của hành động đó.",
+              "example": "我听懂了。 (Tôi nghe hiểu rồi. -> Động từ \"nghe\", kết quả là \"hiểu\"). / 题太多，我没做完。 (Câu hỏi quá nhiều, tôi chưa làm xong)."
+            },
+            {
+              "title": "Giới từ \"从\" (介词“从”)",
+              "formula": "从 + Điểm xuất phát (Thời gian/Địa điểm) + ...",
+              "explanation": "Dùng để giới thiệu điểm xuất phát về mặt không gian (từ đâu) hoặc thời gian (từ khi nào).",
+              "example": "从我家到学校很远。 (Từ nhà tôi đến trường rất xa). / 他从下个星期开始上班。 (Cậu ấy bắt đầu đi làm từ tuần sau)."
+            },
+            {
+              "title": "Cách diễn tả thứ tự: 第... (“第~”表示顺序)",
+              "formula": "第 (dì) + Số từ + Lượng từ + Danh từ",
+              "explanation": "Dùng để biến số đếm thành số thứ tự.",
+              "example": "这是他的第一个工作。 (Đây là công việc đầu tiên của anh ấy)."
+            }
+          ],
+          "dialogues": [],
+          "exercises": [
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 1: Điền từ - Từ cho sẵn: A. 上班 B. 从 C. 希望 D. 问题 E. 贵 F. 懂\n21. 我每天 ( ___ ) 八点到十二点都在公司工作。\n22. 我家离公司不太远，所以每天走路去 ( ___ ) 。\n23. 今天的课你都听 ( ___ ) 了没有？\n24. 你有什么 ( ___ ) 都可以问老师。\n25. 我 ( ___ ) 能找到一个好的工作。",
+              "answer": "21-B, 22-A, 23-F, 24-D, 25-C",
+              "hint": "Đọc kĩ vị trí chỗ trống để điền lượng từ, giới từ hoặc danh từ."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 2: Phán đoán Đúng/Sai (Tự soạn thay thế bản gốc)\n26. 这里的题太多了，我都没做完。 ➔ 他做完了所有的题。 ( ___ )\n27. 从1990年开始，他就在这里工作了。 ➔ 他在这里工作了很久。 ( ___ )\n28. 第一个工作很重要。 ➔ 他不在乎第一个工作。 ( ___ )\n29. 他上个月在北京，这个月在上海。 ➔ 他每个月都在上海。 ( ___ )\n30. 我希望能考上一个好大学。 ➔ 他不想上大学。 ( ___ )",
+              "answer": "26-Sai, 27-Đúng, 28-Sai, 29-Sai, 30-Sai",
+              "hint": "Dựa vào những nội dung ngữ pháp bài 9 như phó từ 从, 第."
+            },
+            {
+              "type": "fill_in_the_blank",
+              "question": "Dạng 3: Nối câu\nCác câu: A. 就在前面，你还没看见吗？ B. 非常好，我想明年再来一次。 C. 还可以，都做完了。 D. 这些衣服你一个人能洗完吗？ E. 他在哪儿呢？(Ví dụ) F. 等等我，我也想去。\n31. 昨天的考试怎么样？题都做完了吗？ ( ___ )\n32. 没关系，今天洗一些，明天再洗一些。 ( ___ )\n33. 你看见我哥哥了吗？ ( ___ )\n34. 羊肉吃完了，我再去商店买一些吧。 ( ___ )\n35. 第一次来北京吧？北京漂亮吗？ ( ___ )",
+              "answer": "31-C, 32-D, 33-A, 34-F, 35-B",
+              "hint": "Chọn vế sau nối tiếp phù hợp với vế trước nhất."
+            },
+            {
+              "type": "writing",
+              "question": "Dạng 4: Phân loại chữ Hán theo bộ thủ\nCác chữ: A. 地 B. 羔 C. 杰 D. 场 E. 照 F. 埋 G. 热 H. 块\nThuộc bộ Thổ (土): ________\nThuộc bộ Hỏa (灬): ________",
+              "answer": "Bộ Thổ: A, D, F, H. Bộ Hỏa: B, C, E, G.",
+              "hint": "Bộ Thổ biểu thị đất; Bộ Hỏa thường nằm bên dưới chữ, gồm 4 chấm (灬)."
+            }
+          ]
+        },
+        {
+          "lessonId": 10,
+          "lessonTitle": "别找了，手机在桌子上呢。",
+          "vocabulary": [
+            {
+              "hanzi": "课",
+              "pinyin": "kè",
+              "meaning": "Môn học, bài học",
+              "analysis": "Chữ 课 có chứa bộ Ngôn (讠) ở bên trái (chỉ lời nói, ngôn ngữ) và chữ Quả (果) ở bên phải để mượn âm. Học bài hay giảng bài trên lớp thì giáo viên đều phải dùng lời nói (ngôn ngữ) để truyền đạt.",
+              "example": "今天的课你都听懂了吗？ (Bài học hôm nay bạn đã nghe hiểu hết chưa?)."
+            },
+            {
+              "hanzi": "帮助",
+              "pinyin": "bāngzhù",
+              "meaning": "Giúp đỡ",
+              "analysis": "Chữ 帮 (bang) có chứa bộ Cân (巾) ở phía dưới mang hình ảnh mảnh vải, chiếc khăn. Thời xưa, những người cùng một bang hội thường thắt khăn giống nhau để nhận diện và \"giúp đỡ\" lẫn nhau.",
+              "example": "这本书是我写的，希望能对你有帮助。 (Cuốn sách này là do tôi viết, hy vọng có thể giúp ích được cho bạn)"
+            },
+            {
+              "hanzi": "别",
+              "pinyin": "bié",
+              "meaning": "Đừng",
+              "analysis": "Chữ 别 có chứa bộ Đao đứng (刂) ở bên phải. Nghĩa gốc là dùng dao để cắt chia, phân biệt. Sau này được mượn làm phó từ mang nghĩa khuyên can ai đó \"đừng\" làm gì.",
+              "example": "别找了，你的手机在桌子上呢。 (Đừng tìm nữa, điện thoại của bạn ở trên bàn kìa)"
+            },
+            {
+              "hanzi": "哥哥",
+              "pinyin": "gēge",
+              "meaning": "Anh trai",
+              "analysis": "Chữ 哥 được tạo thành bởi hai chữ Khả (可) xếp chồng lên nhau. Chữ 可 lại chứa bộ Khẩu (口) chỉ chiếc miệng.",
+              "example": "我哥哥比我大三岁。 (Anh trai tôi lớn hơn tôi 3 tuổi)."
+            },
+            {
+              "hanzi": "鸡蛋",
+              "pinyin": "jīdàn",
+              "meaning": "Trứng gà",
+              "analysis": "Chữ 鸡 (gà) có bộ Điểu (鸟) chỉ các loài gia cầm, chim chóc. Chữ 蛋 (trứng) có bộ Trùng (虫) ở dưới cùng, thường chỉ các loài động vật nhỏ hoặc côn trùng.",
+              "example": "天天都吃羊肉，有鸡蛋面条吗？ (Ngày nào cũng ăn thịt cừu, có mì trứng gà không?)"
+            },
+            {
+              "hanzi": "西瓜",
+              "pinyin": "xīguā",
+              "meaning": "Dưa hấu",
+              "analysis": "Chữ 西 nghĩa là phía Tây. Chữ 瓜 chính là bộ Qua (瓜), là một chữ tượng hình vẽ lại hình ảnh một dây leo đang rủ xuống và có quả dưa mắc ở giữa.",
+              "example": "我喜欢吃苹果，但是我更喜欢吃西瓜。 (Tôi thích ăn táo, nhưng tôi càng thích ăn dưa hấu hơn)"
+            },
+            {
+              "hanzi": "正在",
+              "pinyin": "zhèngzài",
+              "meaning": "Đang (làm gì đó)",
+              "analysis": "Ghép từ chữ 正 (chính - ngay thẳng) và chữ 在 (tại - tồn tại). Phó từ 正在 đặt trước động từ để nhấn mạnh một hành động đang diễn ra ngay tại thời điểm nói.",
+              "example": "哥哥正在洗衣服呢。 (Anh trai đang giặt quần áo kìa)."
+            },
+            {
+              "hanzi": "手机",
+              "pinyin": "shǒujī",
+              "meaning": "Điện thoại di động",
+              "analysis": "手 (thủ) là bàn tay. 机 (cơ) mang bộ Mộc (木) vì máy móc thời xưa được làm từ gỗ. Một cỗ máy (机) nhỏ gọn cầm được trên tay (手) chính là chiếc điện thoại di động.",
+              "example": "别找了，手机在桌子上呢，电脑旁边。 (Đừng tìm nữa, điện thoại ở trên bàn kìa, bên cạnh máy tính)"
+            },
+            {
+              "hanzi": "洗",
+              "pinyin": "xǐ",
+              "meaning": "Rửa, giặt",
+              "analysis": "Chữ 洗 có chứa bộ Thủy (氵) ở bên trái (ba chấm thủy). Mọi hành động như tắm, rửa tay, giặt quần áo đều bắt buộc phải dùng đến nước (氵).",
+              "example": "那件白色的衣服我帮你洗了，在外面呢。 (Chiếc áo màu trắng đó tôi đã giặt giúp bạn rồi, đang phơi ở bên ngoài kìa)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Câu cầu khiến: 不要...了 / 别...了 (祈使句)",
+              "formula": "不要 / 别 + Động từ + (Tân ngữ) + 了",
+              "explanation": "Dùng để khuyên can hoặc ra lệnh cho ai đó \"Đừng / Không được\" làm một việc gì đó. Hai từ này có thể dùng thay thế cho nhau.",
+              "example": "别找了，手机在桌子上呢。 (Đừng tìm nữa, điện thoại ở trên bàn kìa). / 你不要看电视了。 (Con đừng xem tivi nữa)."
+            },
+            {
+              "title": "Giới từ \"对\" (介词“对”)",
+              "formula": "A 对 B + Động từ / Tính từ",
+              "explanation": "Dùng để giới thiệu đối tượng bị ảnh hưởng bởi một hành động hoặc trạng thái nào đó (Đối với...).",
+              "example": "多运动对身体很好。 (Vận động nhiều rất tốt đối với sức khỏe). / 这本书对你有帮助。 (Cuốn sách này có ích đối với bạn)."
+            }
+          ],
+          "dialogues": [],
+          "exercises": []
+        },
+        {
+          "lessonId": 11,
+          "lessonTitle": "他比我大三岁。",
+          "vocabulary": [
+            {
+              "hanzi": "唱歌",
+              "pinyin": "chàng gē",
+              "meaning": "Hát, ca hát",
+              "analysis": "Chữ 唱 (xướng) có bộ Khẩu (口) vì hát phải mở miệng. Chữ 歌 (ca) có bộ Khiếm (欠) mang hình ảnh một người đang há to miệng vươn lên.",
+              "example": "你唱歌唱得太好了，再来一个吧。 (Bạn hát hay quá, hát thêm bài nữa đi!)"
+            },
+            {
+              "hanzi": "男",
+              "pinyin": "nán",
+              "meaning": "Nam, con trai",
+              "analysis": "Rất thú vị! Chữ 男 gồm bộ Điền (田) là ruộng đất nằm ở trên, và bộ Lực (力) là sức lực nằm ở dưới. Người đàn ông thời xưa là trụ cột, phải bỏ sức lực (力) ra cày cấy trên đồng ruộng (田).",
+              "example": "男的比女的大。 (Người nam lớn tuổi hơn người nữ)"
+            },
+            {
+              "hanzi": "女",
+              "pinyin": "nǚ",
+              "meaning": "Nữ, con gái",
+              "analysis": "Là chữ tượng hình và cũng là bộ Nữ (女). Chữ này vẽ lại hình ảnh một người phụ nữ hai tay khoanh trước ngực đang ngồi quỳ gối trên mặt đất một cách dịu dàng.",
+              "example": "女的比男的大。 (Người nữ lớn tuổi hơn người nam)"
+            },
+            {
+              "hanzi": "孩子",
+              "pinyin": "háizi",
+              "meaning": "Đứa trẻ, con cái",
+              "analysis": "Chữ 孩 (hài) có chứa bộ Tử (子) ở bên trái. Bản thân bộ Tử cũng mang nghĩa là đứa trẻ (hình ảnh đứa trẻ sơ sinh bị quấn tã).",
+              "example": "妹妹是一个非常爱笑的女孩子。 (Em gái là một cô bé rất thích cười)"
+            },
+            {
+              "hanzi": "右边",
+              "pinyin": "yòubian",
+              "meaning": "Bên phải",
+              "analysis": "Chữ 右 (hữu) có chứa bộ Khẩu (口) ở dưới. Người xưa quan niệm tay phải là tay cầm đũa để đưa thức ăn vào miệng (口).",
+              "example": "左边的是王老师，右边的是张老师。 (Người bên trái là thầy Vương, người bên phải là thầy Trương)"
+            },
+            {
+              "hanzi": "比",
+              "pinyin": "bǐ",
+              "meaning": "So với (từ dùng trong câu so sánh)",
+              "analysis": "Là chữ tượng hình và cũng là bộ Tỷ (比). Hình ảnh hai con người đang đứng sát cạnh nhau để \"so kè\" xem ai cao thấp, dài ngắn ra sao.",
+              "example": "他比我大三岁。 (Anh ấy lớn hơn tôi ba tuổi)"
+            },
+            {
+              "hanzi": "便宜",
+              "pinyin": "piányi",
+              "meaning": "Rẻ",
+              "analysis": "Chữ 便 có bộ Nhân đứng (亻). Hàng hóa mà rẻ thì sẽ thuận tiện (tiện lợi) cho người (亻) mua sắm.",
+              "example": "今天的鸡蛋比昨天的便宜一些，您来点儿吧。 (Trứng gà hôm nay rẻ hơn hôm qua một chút, ngài mua một ít nhé)"
+            },
+            {
+              "hanzi": "说话",
+              "pinyin": "shuō huà",
+              "meaning": "Nói chuyện",
+              "analysis": "Cả hai chữ 说 và 话 đều có chứa bộ Ngôn (讠) ở bên trái. Bộ ngôn luôn đại diện cho lời nói, ngôn ngữ và giao tiếp.",
+              "example": "前边说话的那个人是不是你的汉语老师？ (Người đang nói chuyện ở phía trước kia có phải là giáo viên tiếng Trung của bạn không?)"
+            },
+            {
+              "hanzi": "可能",
+              "pinyin": "kěnéng",
+              "meaning": "Có thể",
+              "analysis": "Chữ 可 (khả) chứa bộ Khẩu (口). Chữ 能 (năng) mang hình ảnh một con gấu to lớn biểu thị sức mạnh, năng lực. Dùng để phỏng đoán khả năng xảy ra của một sự việc.",
+              "example": "他们可能明天一起运动。 (Họ có thể ngày mai sẽ đi tập thể dục cùng nhau)"
+            },
+            {
+              "hanzi": "去年",
+              "pinyin": "qùnián",
+              "meaning": "Năm ngoái",
+              "analysis": "Chữ 去 (khư - đi xa/đã qua) có chứa bộ Khư (厶). Năm mà đã trôi qua đi mất (去) thì gọi là năm ngoái.",
+              "example": "今年没有去年冷，北京到现在还没下雪呢。去年这个时候已经下雪了。 (Năm nay không lạnh bằng năm ngoái, Bắc Kinh đến giờ vẫn chưa có tuyết. Năm ngoái tầm này đã rơi tuyết rồi)"
+            },
+            {
+              "hanzi": "姓",
+              "pinyin": "xìng",
+              "meaning": "Họ (trong họ tên)",
+              "analysis": "Gồm bộ Nữ (女) ở bên trái và chữ Sinh (生) đẻ ra ở bên phải. Chữ này phản ánh chế độ mẫu hệ thời cổ đại của Trung Quốc: Đứa trẻ sinh ra (生) sẽ mang họ của người mẹ (女).",
+              "example": "我姓王，叫王月。 (Tôi họ Vương, tên là Vương Nguyệt)."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Cụm động từ làm định ngữ (动词结构做定语)",
+              "formula": "(Cụm) Động từ + 的 + Danh từ",
+              "explanation": "Khi một cụm động từ đóng vai trò miêu tả, bổ nghĩa cho danh từ (Định ngữ), ta bắt buộc phải dùng \"的\" để kết nối.",
+              "example": "买衣服的人 (Người mua quần áo). / 前边说话的那个人是我哥哥。 (Cái người đang nói chuyện ở phía trước kia là anh trai tôi)."
+            },
+            {
+              "title": "Câu so sánh hơn với từ 比 (Phần 1)",
+              "formula": "Khẳng định: A 比 B + Tính từ. (Phủ định dùng 没有: A 没有 B + Tính từ).",
+              "explanation": "Dùng để so sánh sự khác biệt về tính chất giữa 2 đối tượng.",
+              "example": "我哥哥比我大。 (Anh trai tôi lớn tuổi hơn tôi). / 今天没有昨天冷。 (Hôm nay không lạnh bằng hôm qua)."
+            },
+            {
+              "title": "Trợ động từ \"可能\" (助动词“可能”)",
+              "formula": "Chủ ngữ + 可能 + Động từ / Tính từ",
+              "explanation": "Biểu thị sự phỏng đoán, dự đoán một sự việc \"có thể\" xảy ra.",
+              "example": "明天可能下雨。 (Ngày mai có thể trời mưa)."
+            }
+          ],
+          "dialogues": [],
+          "exercises": []
+        },
+        {
+          "lessonId": 12,
+          "lessonTitle": "你穿得太少了。",
+          "vocabulary": [
+            {
+              "hanzi": "得",
+              "pinyin": "de",
+              "meaning": "Trợ từ (đứng sau động từ, trước bổ ngữ)",
+              "analysis": "Chữ 得 chứa bộ Xích (彳) (bước chân trái/bước chân ngắn). Trợ từ này chuyên dùng để nối giữa động từ và bổ ngữ nhằm đánh giá mức độ, trạng thái của hành động.",
+              "example": "你穿得太少了。 (Anh mặc (mức độ) ít quá)"
+            },
+            {
+              "hanzi": "妻子",
+              "pinyin": "qīzi",
+              "meaning": "Vợ",
+              "analysis": "Vợ là người phụ nữ nên chữ 妻 (thê) có chứa bộ Nữ (女) ở phía dưới cùng để chỉ giới tính.",
+              "example": "妻子每天睡觉前都要喝一杯牛奶。 (Vợ tôi mỗi ngày trước khi ngủ đều phải uống một ly sữa)"
+            },
+            {
+              "hanzi": "雪",
+              "pinyin": "xuě",
+              "meaning": "Tuyết",
+              "analysis": "Chữ 雪 có bộ Vũ (雨) nằm ở trên cùng. Bất cứ hiện tượng thời tiết nào rơi từ trên bầu trời xuống (như mưa, tuyết, sương) đều mang bộ Vũ (雨) này.",
+              "example": "北京到现在还没下雪呢。 (Bắc Kinh đến hiện tại vẫn chưa rơi tuyết)"
+            },
+            {
+              "hanzi": "零",
+              "pinyin": "líng",
+              "meaning": "Số 0",
+              "analysis": "Tương tự như tuyết, chữ 零 cũng chứa bộ Vũ (雨) ở trên cùng. (Từ gốc của chữ 零 vốn dùng để miêu tả những giọt mưa phùn lất phất lưa thưa).",
+              "example": "今天零下十度，比昨天冷多了。你多穿点儿衣服吧。 (Hôm nay âm mười độ, lạnh hơn hôm qua nhiều. Bạn mặc thêm nhiều áo vào nhé)"
+            },
+            {
+              "hanzi": "度",
+              "pinyin": "dù",
+              "meaning": "Độ (nhiệt độ)",
+              "analysis": "Chữ 度 chứa bộ Nghiễm (广) mang hình ảnh mái nhà/mái hiên.",
+              "example": "今天零下十度，比昨天冷多了。 (Hôm nay âm mười độ, lạnh hơn hôm qua nhiều)"
+            },
+            {
+              "hanzi": "穿",
+              "pinyin": "chuān",
+              "meaning": "Mặc",
+              "analysis": "Chữ 穿 mang bộ Huyệt (穴) nghĩa là cái hang, cái lỗ hổng ở phía trên. Khi mặc áo hay mặc quần, con người đều phải xuyên đầu và chân tay qua các \"lỗ hổng\" của trang phục.",
+              "example": "你穿得太少了。 (Bạn mặc ít quá)"
+            },
+            {
+              "hanzi": "进",
+              "pinyin": "jìn",
+              "meaning": "Vào, tiến vào",
+              "analysis": "Chữ 进 chứa bộ Xước (辶) biểu thị sự đi lại, di chuyển. Chữ Tỉnh (井) ở trong để mượn âm. Bước chân di chuyển vào bên trong gọi là \"tiến\".",
+              "example": "外面太冷了，快请进房间里来吧。 (Bên ngoài lạnh quá, mau mời vào trong phòng đi)"
+            },
+            {
+              "hanzi": "弟弟",
+              "pinyin": "dìdi",
+              "meaning": "Em trai",
+              "analysis": "Chữ 弟 có chứa bộ Cung (弓) mang hình ảnh cây cung bắn tên.",
+              "example": "我弟弟比我小两岁。 (Em trai nhỏ hơn tôi hai tuổi)."
+            },
+            {
+              "hanzi": "近",
+              "pinyin": "jìn",
+              "meaning": "Gần",
+              "analysis": "Tương tự như chữ 进 (vào), chữ 近 (gần) cũng có bộ Xước (辶) vì nó miêu tả khoảng cách địa lý mà con người cần phải đi lại, di chuyển. Chữ Cân (斤) ở trong mượn âm.",
+              "example": "我们的新学校离我家很近。 (Ngôi trường mới của chúng tôi cách nhà tôi rất gần)."
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Bổ ngữ trạng thái (状态程度补语)",
+              "formula": "Động từ + 得 (de) + (Rất/Quá...) + Tính từ. (Phủ định dùng 不 sau 得).",
+              "explanation": "Dùng để miêu tả, đánh giá mức độ hoặc trạng thái của một hành động đã xảy ra hoặc mang tính thường xuyên.",
+              "example": "你穿得太少。 (Bạn mặc (đến mức độ) quá ít). / 他说得不好。 (Anh ấy nói không tốt)."
+            },
+            {
+              "title": "Câu so sánh hơn với từ 比 (Phần 2)",
+              "formula": "A 比 B + Tính từ + Số lượng từ / 一点儿 / 多了",
+              "explanation": "Dùng khi muốn nói rõ hơn sự chênh lệch cụ thể là bao nhiêu (số lượng) hoặc mức độ chênh lệch (nhiều/ít).",
+              "example": "他比我大三岁。 (Anh ấy lớn hơn tôi 3 tuổi). / 今天比昨天冷得多。 (Hôm nay lạnh hơn hôm qua rất nhiều)."
+            }
+          ],
+          "dialogues": [],
+          "exercises": []
+        },
+        {
+          "lessonId": 13,
+          "lessonTitle": "门开着呢。",
+          "vocabulary": [
+            {
+              "hanzi": "着",
+              "pinyin": "zhe",
+              "meaning": "Đang (trạng thái đang tiếp diễn)",
+              "analysis": "Chữ 着 là trợ từ động thái. Trong ngữ pháp HSK, khi đứng sau động từ (V + 着), nó biểu thị một hành động hoặc trạng thái đang được duy trì, kéo dài",
+              "example": "门开着呢，请进。 (Cửa đang mở kìa, mời vào.)"
+            },
+            {
+              "hanzi": "手",
+              "pinyin": "shǒu",
+              "meaning": "Tay, bàn tay",
+              "analysis": "Chữ 手 (thủ) là một chữ tượng hình, mô phỏng lại hình dáng bàn tay với các ngón tay đang xòe ra",
+              "example": "你手里拿着什么？ (Trong tay bạn đang cầm cái gì vậy?)"
+            },
+            {
+              "hanzi": "铅笔",
+              "pinyin": "qiānbǐ",
+              "meaning": "Bút chì",
+              "analysis": "Chữ 铅 (chì) chứa bộ Kim (钅) chỉ kim loại. Chữ 笔 (bút) có bộ Trúc (⺮) ở trên và chữ 毛 (lông) ở dưới, vì bút thời xưa được làm từ ống trúc và lông thú.",
+              "example": "我买了一支新铅笔。 (Tôi đã mua một chiếc bút chì mới.)"
+            },
+            {
+              "hanzi": "班",
+              "pinyin": "bān",
+              "meaning": "Lớp học, ca làm",
+              "analysis": "Chữ 班 có hai bộ Ngọc (王/玉) ở hai bên và bộ Đao đứng (刂) ở giữa. Nghĩa gốc là dùng dao chia ngọc ra cho mọi người, sau này mở rộng nghĩa thành sự phân chia thành lớp, tổ, nhóm.",
+              "example": "你们班有没有一个大眼睛的学生？ (Lớp các bạn có học sinh nào mắt to không?)"
+            },
+            {
+              "hanzi": "长",
+              "pinyin": "zhǎng",
+              "meaning": "Mọc, phát triển, lớn lên",
+              "analysis": "Chữ 长 (trường) nghĩa gốc là dài/lâu",
+              "example": "她长着一对大眼睛。 (Cô ấy có (mọc) một đôi mắt to.)"
+            },
+            {
+              "hanzi": "笑",
+              "pinyin": "xiào",
+              "meaning": "Cười",
+              "analysis": "Chữ 笑 có chứa bộ Trúc (⺮) ở phía trên và chữ Yêu (夭) ở phía dưới. Hình ảnh nụ cười rạng rỡ.",
+              "example": "妹妹是一个非常爱笑的女孩儿。 (Em gái là một cô bé rất hay cười.)"
+            },
+            {
+              "hanzi": "宾馆",
+              "pinyin": "bīnguǎn",
+              "meaning": "Khách sạn, nhà khách",
+              "analysis": "Chữ 宾 (tân - khách) chứa bộ Miên (宀) chỉ mái nhà. Chữ 馆 (quán) chứa bộ Thực (饣) liên quan đến đồ ăn. Nơi có nhà để ở và có đồ ăn phục vụ khách chính là khách sạn.",
+              "example": "请问，这家宾馆怎么走？ (Xin hỏi, đi đến khách sạn này như thế nào?)"
+            },
+            {
+              "hanzi": "一直",
+              "pinyin": "yìzhí",
+              "meaning": "Liên tục, thẳng",
+              "analysis": "Chữ 直 (trực) có chứa bộ Mục (目) mang hình ảnh con mắt đang nhìn thẳng về phía trước không chớp. Biểu thị sự thẳng tắp hoặc liên tục không ngừng.",
+              "example": "从这儿一直往前走。 (Từ đây cứ đi thẳng về phía trước.)"
+            },
+            {
+              "hanzi": "往",
+              "pinyin": "wǎng",
+              "meaning": "Hướng về, đi tới",
+              "analysis": "Chữ 往 chứa bộ Xích (彳) (bước chân trái), thường xuyên xuất hiện trong các chữ liên quan đến hành động bước đi, di chuyển theo một hướng",
+              "example": "从这儿往右走。 (Từ đây đi về bên phải.)"
+            },
+            {
+              "hanzi": "路口",
+              "pinyin": "lùkǒu",
+              "meaning": "Ngã tư, giao lộ",
+              "analysis": "Chữ 路 (đường) mang bộ Túc (足) chỉ bàn chân. Chữ 口 (khẩu) chỉ cái miệng hoặc lối ra vào. Nơi các con đường giao nhau tạo thành lối đi gọi là giao lộ.",
+              "example": "过一个路口，就是北京医院。 (Đi qua một ngã tư, chính là bệnh viện Bắc Kinh.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Trợ từ động thái \"着\" (动态助词“着”)",
+              "formula": "Động từ + 着 + (Tân ngữ) + (呢)",
+              "explanation": "Đứng sau động từ để biểu thị một hành động hoặc trạng thái đang được duy trì, đang tiếp diễn (giống như V-ing trong tiếng Anh).",
+              "example": "门开着呢。 (Cửa đang mở). 她穿着红衣服。 (Cô ấy đang mặc chiếc áo màu đỏ)."
+            },
+            {
+              "title": "Câu phản vấn: 不是...吗? (反问句)",
+              "formula": "不是 + Sự việc + 吗？",
+              "explanation": "Là dạng câu hỏi tu từ, dùng để nhắc nhở hoặc nhấn mạnh một sự thật mà cả người nói và người nghe đều đã biết. Nghĩa là \"Chẳng phải là... sao?\".",
+              "example": "你不是已经买过这个杯子了吗？ (Chẳng phải bạn đã mua cái ly này rồi sao?)."
+            },
+            {
+              "title": "Giới từ \"往\" (介词“往”)",
+              "formula": "往 + Từ chỉ phương hướng + Động từ",
+              "explanation": "Đi kèm với phương hướng để làm rõ hành động diễn ra theo hướng nào.",
+              "example": "往右走。 (Đi về phía bên phải). / 往前看。 (Nhìn về phía trước)."
+            }
+          ],
+          "dialogues": [],
+          "exercises": []
+        },
+        {
+          "lessonId": 14,
+          "lessonTitle": "你看过那个电影吗？",
+          "vocabulary": [
+            {
+              "hanzi": "意思",
+              "pinyin": "yìsi",
+              "meaning": "Ý nghĩa, thú vị",
+              "analysis": "Cả hai chữ 意 (ý) và 思 (tư) đều có chứa bộ Tâm (心) (trái tim/tâm trí) ở dưới cùng. Bởi vì mọi ý nghĩ, tư duy hay ý nghĩa đều xuất phát từ tâm trí con người",
+              "example": "这个电影很有意思。 (Bộ phim này rất thú vị.)"
+            },
+            {
+              "hanzi": "但是",
+              "pinyin": "dànshì",
+              "meaning": "Nhưng, nhưng mà",
+              "analysis": "Chữ 但 chứa bộ Nhân đứng (亻). Đây là quan hệ từ dùng để tạo bước ngoặt trong câu (chuyển ý).",
+              "example": "今天的羊肉很好吃，但是也很贵。 (Thịt cừu hôm nay rất ngon, nhưng mà cũng rất đắt.)"
+            },
+            {
+              "hanzi": "虽然",
+              "pinyin": "suīrán",
+              "meaning": "Mặc dù",
+              "analysis": "Chữ 然 có chứa bộ Hỏa (灬) ở dưới cùng (4 chấm hỏa). Thường đi kèm với 但是 tạo thành cấu trúc \"Mặc dù... Nhưng...\"",
+              "example": "虽然天气很冷，但是我还要去运动。 (Mặc dù thời tiết rất lạnh, nhưng tôi vẫn phải đi tập thể thao.)"
+            },
+            {
+              "hanzi": "次",
+              "pinyin": "cì",
+              "meaning": "Lần (lượng từ)",
+              "analysis": "Chữ 次 có bộ Băng (冫) ở bên trái và bộ Khiếm (欠) ở bên phải. Dùng làm bổ ngữ động lượng để đếm số lần thực hiện hành động",
+              "example": "这个电影我已经看过两次了。 (Bộ phim này tôi đã xem qua hai lần rồi.)"
+            },
+            {
+              "hanzi": "玩儿",
+              "pinyin": "wánr",
+              "meaning": "Chơi, đi chơi",
+              "analysis": "Chữ 玩 có chứa bộ Ngọc (王/玉) ở bên trái. Thời xưa, ngọc là món đồ quý giá thường được người ta cầm trên tay để chơi đùa, thưởng thức.",
+              "example": "昨天和朋友们在外面玩儿了一个晚上。 (Hôm qua đã cùng bạn bè ra ngoài chơi cả một buổi tối.)"
+            },
+            {
+              "hanzi": "晴",
+              "pinyin": "qíng",
+              "meaning": "Tạnh, nắng, trong xanh",
+              "analysis": "Chữ 晴 (tình) có bộ Nhật (日) ở bên trái chỉ mặt trời, và chữ Thanh (青) ở bên phải chỉ màu xanh. Bầu trời có mặt trời chiếu rọi và trong xanh chính là trời nắng đẹp",
+              "example": "虽然是晴天，但是很冷。 (Mặc dù là trời nắng, nhưng lại rất lạnh.)"
+            },
+            {
+              "hanzi": "百",
+              "pinyin": "bǎi",
+              "meaning": "Trăm (số đếm)",
+              "analysis": "Gồm một nét ngang (一 - số 1) nằm đè lên chữ Bạch (白 - màu trắng). Đơn vị đo lường đếm số trăm.",
+              "example": "这件衣服两百多块。 (Chiếc áo này hơn hai trăm tệ.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Trợ từ động thái \"过\" (动态助词“过”)",
+              "formula": "Động từ + 过 + (Tân ngữ). Phủ định dùng 没(有).",
+              "explanation": "Biểu thị hành động đã từng xảy ra trong quá khứ và để lại \"trải nghiệm, kinh nghiệm\" (hiện tại không còn tiếp diễn nữa). Nghĩa là \"Đã từng...\".",
+              "example": "我没去过中国。 (Tôi chưa từng đi Trung Quốc). 你看过这个电影吗？ (Bạn đã từng xem phim này chưa?)."
+            },
+            {
+              "title": "Cấu trúc 虽然... 但是... (关联词)",
+              "formula": "虽然 + (Mệnh đề 1), 但是 + (Mệnh đề 2 mang ý trái ngược)",
+              "explanation": "Biểu thị mối quan hệ chuyển ý \"Mặc dù... Nhưng...\".",
+              "example": "虽然外面很冷，但是他还要去跑步。 (Mặc dù bên ngoài rất lạnh, nhưng anh ấy vẫn muốn đi chạy bộ)."
+            },
+            {
+              "title": "Bổ ngữ chỉ tần suất \"次\" (动量补语“次”)",
+              "formula": "Động từ + (过) + Số từ + 次 + Tân ngữ (Nếu tân ngữ là đại từ nhân xưng thì \"次\" đứng sau đại từ).",
+              "explanation": "Dùng để đếm số lần một hành động được lặp lại.",
+              "example": "这个电影我已经看过两次了。 (Bộ phim này tôi đã xem qua 2 lần rồi). 我找过他一次。 (Tôi đã từng tìm anh ấy 1 lần)."
+            }
+          ],
+          "dialogues": [],
+          "exercises": []
+        },
+        {
+          "lessonId": 15,
+          "lessonTitle": "新年就要到了。",
+          "vocabulary": [
+            {
+              "hanzi": "日",
+              "pinyin": "rì",
+              "meaning": "Ngày, mặt trời",
+              "analysis": "Đây là một chữ tượng hình nguyên gốc và cũng là bộ Nhật (日). Hình vẽ phác thảo lại hình dáng của mặt trời, dùng để tính toán thời gian, ngày tháng",
+              "example": "今天是十二月二十八日。 (Hôm nay là ngày 28 tháng 12.)"
+            },
+            {
+              "hanzi": "新年",
+              "pinyin": "xīnnián",
+              "meaning": "Năm mới",
+              "analysis": "Chữ 新 (tân - mới) có bộ Cân (斤) hình cái rìu (đẽo gọt tạo ra đồ mới). Chữ 年 (niên) là hình ảnh thu hoạch mùa màng, kết thúc một năm",
+              "example": "新年就要到了。 (Năm mới sắp đến rồi.)"
+            },
+            {
+              "hanzi": "票",
+              "pinyin": "piào",
+              "meaning": "Vé, phiếu",
+              "analysis": "Chữ 票 chứa bộ Thị (示/礻) ở phía dưới, mang ý nghĩa là cho xem, hiển thị (khi soát vé phải đưa ra cho người ta xem).",
+              "example": "你买到去北京的火车票了吗？ (Bạn đã mua được vé tàu hỏa đi Bắc Kinh chưa?)"
+            },
+            {
+              "hanzi": "火车站",
+              "pinyin": "huǒchēzhàn",
+              "meaning": "Ga tàu hỏa",
+              "analysis": "火 (Lửa), 车 (Xe) ghép lại là Xe lửa. Chữ 站 (Trạm) chứa bộ Lập (立) mang hình dáng một người đang đứng thẳng trên mặt đất. Nhà ga là nơi xe lửa dừng lại (đứng lại) để đón khách",
+              "example": "我现在在火车站呢。 (Tôi bây giờ đang ở ga tàu hỏa.)"
+            },
+            {
+              "hanzi": "大家",
+              "pinyin": "dàjiā",
+              "meaning": "Mọi người, cả nhà",
+              "analysis": "Chữ 大 (Đại) là to lớn. Chữ 家 (Gia) có bộ Miên (宀) chỉ mái nhà. Một \"ngôi nhà to lớn\" chứa tất cả chúng ta, dùng để gọi chung mọi người",
+              "example": "谢谢大家这一年对我的帮助。 (Cảm ơn mọi người trong một năm qua đã giúp đỡ tôi.)"
+            },
+            {
+              "hanzi": "更",
+              "pinyin": "gèng",
+              "meaning": "Càng, hơn",
+              "analysis": "Là phó từ chỉ mức độ dùng trong câu so sánh, biểu thị mức độ sâu sắc hơn nữa",
+              "example": "希望明年更好！ (Hy vọng năm sau sẽ càng tốt hơn!)"
+            },
+            {
+              "hanzi": "妹妹",
+              "pinyin": "mèimei",
+              "meaning": "Em gái",
+              "analysis": "Tương tự chữ 姐姐 (chị gái), chữ 妹 cũng chứa bộ Nữ (女) ở bên trái, vì từ này dùng để chỉ quan hệ họ hàng là nữ giới",
+              "example": "妹妹是一个非常爱的女孩儿。 (Em gái là một cô bé rất đáng yêu.)"
+            },
+            {
+              "hanzi": "阴",
+              "pinyin": "yīn",
+              "meaning": "Râm, u ám, âm",
+              "analysis": "Chữ 阴 có chứa bộ Phụ (阝) mang hình ảnh gò đất/ngọn đồi, và chữ Nguyệt (月) chỉ mặt trăng. Có ngọn đồi che khuất tạo ra bóng râm, thiếu ánh sáng mặt trời",
+              "example": "今天是阴天，可能要下雨了。 (Hôm nay trời âm u, có thể sắp mưa rồi.)"
+            }
+          ],
+          "grammar": [
+            {
+              "title": "Cấu trúc diễn tả tương lai: 要...了 (动作的状态: 要……了)",
+              "formula": "Cấu trúc chung: 快要 / 就要 / 要 + Động từ/Sự kiện + 了 Cấu trúc có thời gian chỉ định: Từ chỉ thời gian + 就要 + Động từ + 了 (Lưu ý: Có mốc thời gian thì chỉ được dùng \"就要\").",
+              "explanation": "Dùng để thông báo một sự kiện sắp sửa xảy ra (Sắp... rồi).",
+              "example": "新年快要到了。 (Năm mới sắp đến rồi). / 下个月我就要回国了。 (Tháng sau tôi sắp về nước rồi)."
+            },
+            {
+              "title": "Cấu trúc 都...了 (“都……了”)",
+              "formula": "都 + Thời gian / Tuổi tác / Số lượng + 了",
+              "explanation": "Mang nghĩa là \"đã... rồi\", thường dùng với thái độ phàn nàn, oán trách hoặc cảm thán về thời gian muộn màng, tuổi tác lớn, số lượng nhiều.",
+              "example": "都八点了，快起床吧！ (Đã 8 giờ rồi, mau dậy đi!). / 他都三十岁了，还没结婚。 (Anh ấy đã 30 tuổi rồi mà vẫn chưa kết hôn)."
+            }
+          ],
+          "dialogues": [],
+          "exercises": []
+        }
+      ]
+    },
+    {
+      "id": "HSK 3",
+      "lessons": []
+    }
+  ]
+}

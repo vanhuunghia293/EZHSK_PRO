@@ -1,0 +1,26 @@
+import fitz # PyMuPDF
+import os
+
+pdf_path = r"D:\Tài liệu tiếng Trung\HSK1\1.GIÁO TRÌNH HSK1.pdf"
+output_path = "hsk1_fitz_text.txt"
+
+def run_extraction():
+    if not os.path.exists(pdf_path):
+        print(f"Error: {pdf_path} not found")
+        return
+    
+    try:
+        doc = fitz.open(pdf_path)
+        text = ""
+        for page in doc:
+            text += f"\n--- Page {page.number + 1} ---\n"
+            text += page.get_text("text") # text mode
+        
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(text)
+        print(f"Extraction successful! Saved to {output_path}")
+    except Exception as e:
+        print(f"Error: {e}")
+
+if __name__ == "__main__":
+    run_extraction()

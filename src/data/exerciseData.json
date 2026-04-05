@@ -1,0 +1,62 @@
+{
+  "HSK 1": [
+    {
+      "id": "1",
+      "title": "Bài 1: 你好",
+      "sections": [
+        {
+          "type": "LISTENING",
+          "title": "Phần 1: Nghe và chọn Đúng/Sai (V/X)",
+          "questions": [
+            {
+              "id": "L1", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
+              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q1.jpg", "correct_answer": "TRUE"
+            },
+            {
+              "id": "L2", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
+              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q2.jpg", "correct_answer": "FALSE"
+            },
+            {
+              "id": "L3", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
+              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q3.jpg", "correct_answer": "TRUE"
+            },
+            {
+              "id": "L4", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
+              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q4.jpg", "correct_answer": "FALSE"
+            },
+            {
+              "id": "L5", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
+              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q5.jpg", "correct_answer": "TRUE"
+            }
+          ]
+        },
+        {
+          "type": "READING",
+          "title": "Phần 1: Nhìn hình và chọn Đúng/Sai (V/X)",
+          "questions": [
+            {
+              "id": "R1", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
+              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q1.jpg", "correct_answer": "TRUE"
+            },
+            {
+              "id": "R2", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
+              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q2.jpg", "correct_answer": "FALSE"
+            },
+            {
+              "id": "R3", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
+              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q3.jpg", "correct_answer": "TRUE"
+            },
+            {
+              "id": "R4", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
+              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q4.jpg", "correct_answer": "FALSE"
+            },
+            {
+              "id": "R5", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
+              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q5.jpg", "correct_answer": "TRUE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
