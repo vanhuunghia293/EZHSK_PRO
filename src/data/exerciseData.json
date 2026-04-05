@@ -5,55 +5,108 @@
       "title": "Bài 1: 你好",
       "sections": [
         {
-          "type": "LISTENING",
+          "type": "LISTENING_P1",
           "title": "Phần 1: Nghe và chọn Đúng/Sai (V/X)",
+          "instruction": "1-5题: 听句子, 判断对错 (Câu hỏi 1-5: Cho biết các hình sau có mô tả đúng thông tin không)",
+          "audio_url": "01-1.mp3",
+          "examples": [
+            { "id": "ex1", "image_url": "workbook/hsk1/hsk1_l1_l_p1_ex1.jpg", "correct_answer": "TRUE" },
+            { "id": "ex2", "image_url": "workbook/hsk1/hsk1_l1_l_p1_ex2.jpg", "correct_answer": "FALSE" }
+          ],
+          "questions": [
+            { "id": "1", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q1.jpg", "correct_answer": "TRUE" },
+            { "id": "2", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q2.jpg", "correct_answer": "FALSE" },
+            { "id": "3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q3.jpg", "correct_answer": "TRUE" },
+            { "id": "4", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q4.jpg", "correct_answer": "FALSE" },
+            { "id": "5", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q5.jpg", "correct_answer": "TRUE" }
+          ]
+        },
+        {
+          "type": "LISTENING_P2",
+          "title": "Phần 2: Nghe và chọn hình đúng",
+          "instruction": "6-10题: 听对话, 选择与对话内容一致 (Câu hỏi 6-10: Nghe các mẫu đối thoại và chọn hình phù hợp)",
+          "audio_url": "01-2.mp3",
+          "gallery": [
+            { "label": "A", "image_url": "workbook/hsk1/hsk1_l1_gallery_A.jpg" },
+            { "label": "B", "image_url": "workbook/hsk1/hsk1_l1_gallery_B.jpg" },
+            { "label": "C", "image_url": "workbook/hsk1/hsk1_l1_gallery_C.jpg" },
+            { "label": "D", "image_url": "workbook/hsk1/hsk1_l1_gallery_D.jpg" },
+            { "label": "E", "image_url": "workbook/hsk1/hsk1_l1_gallery_E.jpg" },
+            { "label": "F", "image_url": "workbook/hsk1/hsk1_l1_gallery_F.jpg" }
+          ],
+          "examples": [
+            { "id": "ex", "image_url": "workbook/hsk1/hsk1_l1_l_p2_ex.jpg", "correct_answer": "D" }
+          ],
+          "questions": [
+            { "id": "6", "correct_answer": "A" },
+            { "id": "7", "correct_answer": "B" },
+            { "id": "8", "correct_answer": "C" },
+            { "id": "9", "correct_answer": "E" },
+            { "id": "10", "correct_answer": "F" }
+          ]
+        },
+        {
+          "type": "LISTENING_P3",
+          "title": "Phần 3: Nghe và chọn đáp án đúng",
+          "instruction": "11-15题: 听对话, 选择正确答案 (Câu hỏi 11-15: Nghe các mẫu đối thoại và chọn câu trả lời đúng)",
+          "audio_url": "01-3.mp3",
           "questions": [
             {
-              "id": "L1", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
-              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q1.jpg", "correct_answer": "TRUE"
+              "id": "11",
+              "options": [
+                { "label": "A", "pinyin": "bā yuè", "text": "八月", "meaning": "tháng 8" },
+                { "label": "B", "pinyin": "jǐ ge yuè", "text": "几个月", "meaning": "mấy tháng" },
+                { "label": "C", "pinyin": "jiǔ yuè", "text": "九月", "meaning": "tháng 9" }
+              ],
+              "correct_answer": "A"
             },
             {
-              "id": "L2", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
-              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q2.jpg", "correct_answer": "FALSE"
+              "id": "12",
+              "options": [
+                { "label": "A", "pinyin": "tài yuǎn le", "text": "太远了", "meaning": "xa quá" },
+                { "label": "B", "pinyin": "tài lěng le", "text": "太冷 rồi gì đó", "meaning": "lạnh quá" },
+                { "label": "C", "pinyin": "tài rè le", "text": "太热了", "meaning": "nóng quá" }
+              ],
+              "correct_answer": "B"
             },
             {
-              "id": "L3", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
-              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q3.jpg", "correct_answer": "TRUE"
+              "id": "13",
+              "options": [
+                { "label": "A", "pinyin": "zhuōzi", "text": "桌子", "meaning": "cái bàn" },
+                { "label": "B", "pinyin": "yǐzi", "text": "椅子", "meaning": "cái ghế" },
+                { "label": "C", "pinyin": "bēizi", "text": "杯子", "meaning": "cái cốc" }
+              ],
+              "correct_answer": "C"
             },
             {
-              "id": "L4", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
-              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q4.jpg", "correct_answer": "FALSE"
+              "id": "14",
+              "options": [
+                { "label": "A", "pinyin": "bù dào shí suì", "text": "不到十岁", "meaning": "chưa đến 10 tuổi" },
+                { "label": "B", "pinyin": "sìshí suì", "text": "四十岁", "meaning": "40 tuổi" },
+                { "label": "C", "pinyin": "shí duō suì", "text": "十多岁", "meaning": "hơn 10 tuổi" }
+              ],
+              "correct_answer": "A"
             },
             {
-              "id": "L5", "question_type": "TRUE_FALSE", "instruction": "Nghe và xác định Đúng (V) hay Sai (X)",
-              "audio_url": "01-1.mp3", "image_url": "workbook/hsk1/hsk1_l1_l_p1_q5.jpg", "correct_answer": "TRUE"
+              "id": "15",
+              "options": [
+                { "label": "A", "pinyin": "bēizi", "text": "杯子", "meaning": "cái cốc" },
+                { "label": "B", "pinyin": "Běijīng", "text": "北京", "meaning": "Bắc Kinh" },
+                { "label": "C", "pinyin": "chábēi", "text": "茶杯", "meaning": "tách trà" }
+              ],
+              "correct_answer": "B"
             }
           ]
         },
         {
-          "type": "READING",
+          "type": "READING_P1",
           "title": "Phần 1: Nhìn hình và chọn Đúng/Sai (V/X)",
           "questions": [
-            {
-              "id": "R1", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
-              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q1.jpg", "correct_answer": "TRUE"
-            },
-            {
-              "id": "R2", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
-              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q2.jpg", "correct_answer": "FALSE"
-            },
-            {
-              "id": "R3", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
-              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q3.jpg", "correct_answer": "TRUE"
-            },
-            {
-              "id": "R4", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
-              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q4.jpg", "correct_answer": "FALSE"
-            },
-            {
-              "id": "R5", "question_type": "TRUE_FALSE", "instruction": "Nhìn hình và chọn Đúng (V) hay Sai (X)",
-              "image_url": "workbook/hsk1/hsk1_l1_r_p1_q5.jpg", "correct_answer": "TRUE"
-            }
+            { "id": "R1", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q1.jpg", "correct_answer": "TRUE" },
+            { "id": "R2", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q2.jpg", "correct_answer": "FALSE" },
+            { "id": "R3", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q3.jpg", "correct_answer": "TRUE" },
+            { "id": "R4", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q4.jpg", "correct_answer": "FALSE" },
+            { "id": "R5", "image_url": "workbook/hsk1/hsk1_l1_r_p1_q5.jpg", "correct_answer": "TRUE" }
           ]
         }
       ]
