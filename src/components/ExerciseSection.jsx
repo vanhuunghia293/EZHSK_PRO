@@ -19,16 +19,12 @@ const ExerciseSection = ({ levelId = "HSK 1" }) => {
     setView('QUIZ');
   };
 
-  const handleAnswer = (answer) => {
-    setUserAnswers({ ...userAnswers, [currentIndex]: answer });
+  const handleAnswerSection = (index, answer) => {
+    setUserAnswers({ ...userAnswers, [index]: answer });
   };
 
-  const nextQuestion = () => {
-    if (currentIndex < activeSection.questions.length - 1) {
-      setCurrentIndex(currentIndex + 1);
-    } else {
-      setView('RESULT');
-    }
+  const handleAnswer = (answer) => {
+    setUserAnswers({ ...userAnswers, [currentIndex]: answer });
   };
 
   const calculateScore = () => {
@@ -80,104 +76,138 @@ const ExerciseSection = ({ levelId = "HSK 1" }) => {
     );
   }
 
-  if (view === 'QUIZ') {
-    const question = activeSection.questions[currentIndex];
-    const progress = ((currentIndex + 1) / activeSection.questions.length) * 100;
+  if (view === 'QUIZ' && activeSection) {
+    const totalQuestions = activeSection.questions.length;
+    const answeredCount = Object.keys(userAnswers).length;
+    const progress = (answeredCount / totalQuestions) * 100;
 
     return (
-      <div className="max-w-3xl mx-auto space-y-8 animate-in fade-in slide-in-from-right-8 duration-500">
-        {/* Progress Header */}
-        <div className="flex flex-col gap-4">
-          <div className="flex items-center justify-between px-2">
-            <button onClick={() => setView('LIST')} className="text-slate-400 hover:text-slate-800 font-bold text-xs uppercase tracking-widest flex items-center gap-2">
-              <span>←</span> Thoát
+      <div className="max-w-4xl mx-auto space-y-8 animate-in fade-in slide-in-from-bottom-8 duration-700">
+        {/* Sticky Header with Progress */}
+        <div className="sticky top-4 z-20 bg-white/80 backdrop-blur-xl border-2 border-slate-100 rounded-[2rem] p-4 shadow-xl shadow-slate-200/50 flex flex-col md:flex-row items-center justify-between gap-4">
+          <div className="flex items-center gap-4">
+            <button 
+              onClick={() => setView('LIST')} 
+              className="w-10 h-10 rounded-full bg-slate-50 flex items-center justify-center text-slate-400 hover:bg-slate-900 hover:text-white transition-all"
+            >
+              ←
             </button>
-            <span className="text-xs font-black text-blue-500 uppercase tracking-widest">
-              Câu {currentIndex + 1} / {activeSection.questions.length}
-            </span>
-          </div>
-          <div className="h-3 w-full bg-slate-100 rounded-full overflow-hidden">
-            <div 
-              className="h-full bg-blue-500 transition-all duration-500 ease-out" 
-              style={{ width: `${progress}%` }} 
-            />
-          </div>
-        </div>
-
-        {/* Question Card */}
-        <div className="bg-white rounded-[3rem] border-2 border-slate-100 p-8 md:p-12 shadow-sm space-y-10">
-          <div className="space-y-4">
-            <h4 className="text-blue-400 font-black text-xs uppercase tracking-widest">{activeSection.title}</h4>
-            <h2 className="text-2xl md:text-3xl font-bold text-slate-800 leading-tight">{question.instruction}</h2>
-          </div>
-
-          <div className="space-y-8">
-            {/* Audio Section */}
-            {question.audio_url && (
-              <div className="flex flex-col items-center gap-4 py-8 bg-blue-50/50 rounded-[2rem] border-2 border-dashed border-blue-100">
-                <button 
-                  onClick={() => audioRef.current.play()}
-                  className="w-20 h-20 rounded-full bg-blue-500 text-white flex items-center justify-center text-3xl hover:scale-110 hover:shadow-lg hover:shadow-blue-500/20 active:scale-95 transition-all"
-                >
-                  🔊
-                </button>
-                <audio ref={audioRef} src={`/audio/${question.audio_url}`} />
-                <span className="text-[10px] font-bold text-blue-400 uppercase tracking-[0.2em]">Nhấn để nghe câu hỏi</span>
-              </div>
-            )}
-
-            {/* Image Section */}
-            {question.image_url && (
-              <div className="relative group max-w-sm mx-auto overflow-hidden rounded-[2.5rem] border-4 border-white shadow-xl shadow-slate-200/50">
-                <img src={`/images/${question.image_url}`} alt="question" className="w-full h-auto object-cover group-hover:scale-105 transition-transform duration-700" />
-              </div>
-            )}
-
-            {/* Content (Text) */}
-            {question.content && (
-              <div className="text-center py-6">
-                <p className="text-4xl md:text-5xl font-black text-slate-800 tracking-tight">{question.content}</p>
-              </div>
-            )}
-
-            {/* Options */}
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-6">
-              {(question.options || ["TRUE", "FALSE"]).map((opt, i) => {
-                const isSelected = userAnswers[currentIndex] === (question.question_type === 'TRUE_FALSE' ? opt : opt.charAt(0));
-                
-                return (
-                  <button
-                    key={i}
-                    onClick={() => handleAnswer(question.question_type === 'TRUE_FALSE' ? opt : opt.charAt(0))}
-                    className={`p-6 rounded-[2rem] border-2 font-bold transition-all duration-300 text-left flex items-center gap-4 ${
-                      isSelected 
-                        ? 'bg-blue-500 border-blue-500 text-white shadow-xl shadow-blue-500/20 -translate-y-1' 
-                        : 'bg-white border-slate-100 text-slate-600 hover:border-blue-200 hover:bg-slate-50'
-                    }`}
-                  >
-                    <span className={`w-8 h-8 rounded-xl flex items-center justify-center text-sm ${isSelected ? 'bg-white/20' : 'bg-slate-100'}`}>
-                      {question.question_type === 'TRUE_FALSE' ? (opt === 'TRUE' ? '✓' : '✗') : opt.charAt(0)}
-                    </span>
-                    <span className="text-lg">{question.question_type === 'TRUE_FALSE' ? (opt === 'TRUE' ? 'Đúng' : 'Sai') : opt}</span>
-                  </button>
-                );
-              })}
+            <div>
+              <h3 className="font-black text-slate-800 text-sm uppercase tracking-wider">{activeLesson.title}</h3>
+              <p className="text-[10px] font-bold text-blue-500 uppercase tracking-widest">{activeSection.title}</p>
             </div>
           </div>
 
-          <div className="pt-8 flex justify-center">
-            <button 
-              disabled={userAnswers[currentIndex] === undefined}
-              onClick={nextQuestion}
-              className={`px-12 py-5 rounded-[2rem] font-bold text-sm uppercase tracking-[0.2em] transition-all duration-300 shadow-xl ${
-                userAnswers[currentIndex] === undefined 
-                  ? 'bg-slate-100 text-slate-400 cursor-not-allowed opacity-50' 
-                  : 'bg-slate-900 text-white hover:bg-blue-600 shadow-blue-500/10'
+          <div className="flex items-center gap-6 w-full md:w-auto">
+            <div className="flex-1 md:w-48 h-2 bg-slate-100 rounded-full overflow-hidden">
+              <div 
+                className="h-full bg-blue-500 transition-all duration-700 ease-out" 
+                style={{ width: `${progress}%` }} 
+              />
+            </div>
+            <span className="text-xs font-black text-slate-400 whitespace-nowrap uppercase tracking-widest">
+              Đã làm {answeredCount}/{totalQuestions}
+            </span>
+          </div>
+        </div>
+
+        {/* Master Audio Player (Only for LISTENING) */}
+        {activeSection.type === 'LISTENING' && activeSection.questions[0]?.audio_url && (
+          <div className="bg-gradient-to-br from-blue-600 to-indigo-700 rounded-[2.5rem] p-8 text-white shadow-2xl shadow-blue-200 overflow-hidden relative group">
+            <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -mr-32 -mt-32 blur-3xl group-hover:scale-110 transition-transform duration-1000" />
+            <div className="relative z-10 flex flex-col items-center gap-6 text-center">
+              <div className="space-y-2">
+                <span className="text-[10px] font-bold uppercase tracking-[0.3em] opacity-70">Nghe toàn bộ đoạn hội thoại</span>
+                <h4 className="text-xl font-bold">Phần nghe HSK 1 ({activeSection.questions[0].audio_url})</h4>
+              </div>
+              
+              <button 
+                onClick={() => audioRef.current.play()}
+                className="w-24 h-24 rounded-full bg-white text-blue-600 flex items-center justify-center text-4xl shadow-2xl hover:scale-110 active:scale-95 transition-all duration-300 group/play"
+              >
+                <span className="group-hover/play:scale-110 transition-transform">▶️</span>
+              </button>
+              
+              <audio ref={audioRef} src={`/audio/${activeSection.questions[0].audio_url}`} />
+              <p className="text-xs opacity-60 font-medium max-w-xs">Nhấn nút Play và theo dõi các hình ảnh bên dưới để chọn Đúng hoặc Sai.</p>
+            </div>
+          </div>
+        )}
+
+        {/* Questions Grid */}
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6 pb-20">
+          {activeSection.questions.map((q, idx) => (
+            <div 
+              key={idx} 
+              className={`bg-white rounded-[2.5rem] border-2 transition-all duration-500 p-6 space-y-6 ${
+                userAnswers[idx] !== undefined ? 'border-blue-100 shadow-lg shadow-blue-500/5' : 'border-slate-100 shadow-sm'
               }`}
             >
-              {currentIndex < activeSection.questions.length - 1 ? 'Tiếp tục →' : 'Xem kết quả ✨'}
-            </button>
-          </div>
+              <div className="flex items-center justify-between">
+                <span className="w-8 h-8 rounded-xl bg-slate-50 flex items-center justify-center text-xs font-black text-slate-400">
+                  {idx + 1}
+                </span>
+                {userAnswers[idx] !== undefined && (
+                  <span className="text-[10px] font-bold text-emerald-500 uppercase tracking-widest flex items-center gap-1 animate-in fade-in slide-in-from-right-2">
+                    <span className="w-2 h-2 rounded-full bg-emerald-500" /> Đã trả lời
+                  </span>
+                )}
+              </div>
+
+              {q.image_url && (
+                <div className="aspect-video rounded-3xl overflow-hidden bg-slate-50 border-2 border-slate-50 group">
+                  <img 
+                    src={`/images/${q.image_url}`} 
+                    alt={`Question ${idx + 1}`} 
+                    className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-1000" 
+                  />
+                </div>
+              )}
+
+              {q.content && (
+                <div className="text-center py-2">
+                   <p className="text-3xl font-black text-slate-800 tracking-tight">{q.content}</p>
+                </div>
+              )}
+
+              <div className="flex gap-3">
+                {["TRUE", "FALSE"].map((opt) => {
+                  const isSelected = userAnswers[idx] === opt;
+                  return (
+                    <button
+                      key={opt}
+                      onClick={() => handleAnswerSection(idx, opt)}
+                      className={`flex-1 py-4 rounded-2xl border-2 font-black text-sm uppercase tracking-widest transition-all duration-300 ${
+                        isSelected
+                          ? opt === 'TRUE' 
+                            ? 'bg-emerald-500 border-emerald-500 text-white shadow-lg shadow-emerald-500/20' 
+                            : 'bg-rose-500 border-rose-500 text-white shadow-lg shadow-rose-500/20'
+                          : 'bg-slate-50 border-transparent text-slate-400 hover:bg-slate-100 hover:text-slate-600'
+                      }`}
+                    >
+                      {opt === 'TRUE' ? '✓ Đúng' : '✗ Sai'}
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          ))}
+        </div>
+
+        {/* Floating Submit Button */}
+        <div className="fixed bottom-8 left-0 right-0 z-30 px-6 flex justify-center">
+          <button 
+            disabled={answeredCount < totalQuestions}
+            onClick={() => setView('RESULT')}
+            className={`px-12 py-5 rounded-full font-black text-sm uppercase tracking-[0.2em] transition-all duration-500 shadow-2xl flex items-center gap-4 ${
+              answeredCount < totalQuestions
+                ? 'bg-white border-2 border-slate-100 text-slate-300 cursor-not-allowed' 
+                : 'bg-slate-900 text-white hover:bg-blue-600 hover:scale-105 active:scale-95 shadow-blue-500/20'
+            }`}
+          >
+            <span>Nộp bài & Xem kết quả</span>
+            <span className="text-xl">✨</span>
+          </button>
         </div>
       </div>
     );
